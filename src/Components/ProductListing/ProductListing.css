@@ -1,4 +1,4 @@
-/* src/components/ProductListing/ProductListing.css */
+/* src/components/ProductListing/ProductListing.css
 
 .product-listing-container {
   padding: 20px;
@@ -14,4 +14,303 @@ h2 {
   grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
   gap: 20px;
 }
+
+
+
+.product-listing-container {
+  padding: 20px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 20px;
+}
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.product-listing-container {
+  padding: 40px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: linear-gradient(135deg, #0057e7 0%, #00b2ff 100%);
+  min-height: 100vh;
+}
+
+.results-table {
+  background-color: white;
+  color: black;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+  padding: 20px;
+  width: 100%;
+  max-width: 900px;
+}
+
+
+.heading {
+  font-size: 26px;
+  font-weight: 600;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.comparison-table {
+  width: 100%;
+  max-width: 1000px;
+  background-color: white;
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+  color: #000;
+}
+
+.table-header, .table-row {
+  display: grid;
+  grid-template-columns: 3fr repeat(6, 1fr); /* 1st column wide, rest equal */
+  padding: 18px 20px;
+  /* align-items: center;
+  font-size: 15px;
+}
+
+.table-header {
+  background-color: #f0f0f0;
+  font-weight: 600;
+  border-bottom: 1px solid #ddd;
+}
+
+.table-row {
+  border-bottom: 1px solid #eee;
+}
+
+.product-column {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.product-img {
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+  background-color: #fff;
+}
+
+.product-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.product-name {
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.product-brand {
+  font-size: 12px;
+  color: #666;
+}
+
+.platform-column {
+  text-align: center;
+  font-size: 15px;
+}
+
+/* Status messages */
+/* .status, .error {
+  font-size: 16px;
+  margin-top: 30px;
+  color: white;
+}
+
+/* Responsive for mobile */
+/* @media (max-width: 768px) {
+  .comparison-table {
+    font-size: 14px;
+    overflow-x: auto;
+  }
+
+  .table-header, .table-row {
+    min-width: 700px; /* Enable horizontal scroll */
+  /* }
+} */ */ */ */
+ */
+
+
+ /* Base Reset */
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+/* Container for the entire product listing page */
+.product-listing-container {
+  padding: 40px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: linear-gradient(135deg, #0057e7 0%, #00b2ff 100%);
+  min-height: 100vh;
+  box-sizing: border-box;
+}
+
+/* Header section: includes title and filters */
+.results-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 40px;
+  color: white;
+  text-align: center;
+}
+
+/* Title heading */
+.results-header h2 {
+  font-size: 28px;
+  font-weight: 700;
+}
+
+/* Filter buttons container */
+.filters-container {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.filter-btn {
+  background-color: white;
+  color: #004aad;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 8px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.filter-btn:hover {
+  background-color: #e6f0ff;
+  color: #003b99;
+}
+
+/* Product grid (if used elsewhere) */
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 20px;
+}
+
+/* Status messages (loading/error) */
+.status, .error {
+  font-size: 16px;
+  margin-top: 30px;
+  color: white;
+}
+
+/* Table container */
+.results-table {
+  background-color: white;
+  color: black;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  padding: 20px;
+  width: 100%;
+  max-width: 1000px;
+}
+
+/* Table structure */
+.comparison-table {
+  width: 100%;
+  background-color: white;
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+  color: #000;
+}
+
+/* Table rows & headers */
+.table-header, .table-row {
+  display: grid;
+  grid-template-columns: 3fr repeat(6, 1fr);
+  padding: 18px 20px;
+  align-items: center;
+  font-size: 15px;
+}
+
+.table-header {
+  background-color: #f0f0f0;
+  font-weight: 600;
+  border-bottom: 1px solid #ddd;
+}
+
+.table-row {
+  border-bottom: 1px solid #eee;
+}
+
+/* Product column style */
+.product-column {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.product-img {
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+  background-color: #fff;
+}
+
+.product-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.product-name {
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.product-brand {
+  font-size: 12px;
+  color: #666;
+}
+
+/* Other columns (platform prices, etc.) */
+.platform-column {
+  text-align: center;
+  font-size: 15px;
+}
+
+/* Responsive behavior */
+@media (max-width: 768px) {
+  .comparison-table {
+    font-size: 14px;
+    overflow-x: auto;
+  }
+
+  .table-header, .table-row {
+    min-width: 700px;
+  }
+}
+
+
 
