@@ -6,7 +6,7 @@ const firebaseConfig = {
   apiKey: "AIzaSyCFvTIRsW9HXe0Ox2NCra2xEmSe62klZW4",
   authDomain: "comparely-auth.firebaseapp.com",
   projectId: "comparely-auth",
-  storageBucket: "comparely-auth.firebasestorage.app",
+  storageBucket: "comparely-auth.appspot.com",  // fix here
   messagingSenderId: "743513723448",
   appId: "1:743513723448:web:bd161be043013931accccd",
   measurementId: "G-PV2X6FQLHR"
