@@ -1,54 +1,22 @@
-import React from "react";
+import React, { useState } from "react";
 import "./ComparelyDashboard.css";
+import { useNavigate } from "react-router-dom";
 import FrozenFoodImg from '../assets/FrozenFood.jpeg';
-//import dairyBreadEggsImg from '../assets/categories/dairy-bread-eggs.png';
-//import fruitsVegImg from '../assets/categories/fruits-vegetables.png';
-// ...import all your images
-// Big category data with images and names
+// ...other imports...
+
 const bigCategories = [
-  {
-    name: "Frozen Foods",
-    image: FrozenFoodImg
-  },
-  {
-    name: "Dairy, Bread & Eggs",
-    image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/2b2e2e1c-2e2e-4e2e-8e2e-2b2e2e1c2e2e.png"
-  },
-  {
-    name: "Fruits & Vegetables",
-    image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/3b2e2e1c-2e2e-4e2e-8e2e-3b2e2e1c2e2e.png"
-  },
-  {
-    name: "Cold Drinks & Juices",
-    image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/4b2e2e1c-2e2e-4e2e-8e2e-4b2e2e1c2e2e.png"
-  },
-  {
-    name: "Snacks & Munchies",
-    image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/5b2e2e1c-2e2e-4e2e-8e2e-5b2e2e1c2e2e.png"
-  },
-  {
-    name: "Breakfast & Instant Food",
-    image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/6b2e2e1c-2e2e-4e2e-8e2e-6b2e2e1c2e2e.png"
-  },
-  {
-    name: "Sweet Tooth",
-    image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/7b2e2e1c-2e2e-4e2e-8e2e-7b2e2e1c2e2e.png"
-  },
-  {
-    name: "Bakery & Biscuits",
-    image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/8b2e2e1c-2e2e-4e2e-8e2e-8b2e2e1c2e2e.png"
-  },
-  {
-    name: "Tea, Coffee & Health Drink",
-    image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/9b2e2e1c-2e2e-4e2e-8e2e-9b2e2e1c2e2e.png"
-  },
-  {
-    name: "Atta, Rice & Dal",
-    image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/10b2e2e1c-2e2e-4e2e-8e2e-10b2e2e1c2e2e.png"
-  }
+  { name: "Frozen Foods", image: FrozenFoodImg },
+  { name: "Dairy, Bread & Eggs", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/2b2e2e1c-2e2e-4e2e-8e2e-2b2e2e1c2e2e.png" },
+  { name: "Fruits & Vegetables", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/3b2e2e1c-2e2e-4e2e-8e2e-3b2e2e1c2e2e.png" },
+  { name: "Cold Drinks & Juices", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/4b2e2e1c-2e2e-4e2e-8e2e-4b2e2e1c2e2e.png" },
+  { name: "Snacks & Munchies", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/5b2e2e1c-2e2e-4e2e-8e2e-5b2e2e1c2e2e.png" },
+  { name: "Breakfast & Instant Food", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/6b2e2e1c-2e2e-4e2e-8e2e-6b2e2e1c2e2e.png" },
+  { name: "Sweet Tooth", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/7b2e2e1c-2e2e-4e2e-8e2e-7b2e2e1c2e2e.png" },
+  { name: "Bakery & Biscuits", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/8b2e2e1c-2e2e-4e2e-8e2e-8b2e2e1c2e2e.png" },
+  { name: "Tea, Coffee & Health Drink", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/9b2e2e1c-2e2e-4e2e-8e2e-9b2e2e1c2e2e.png" },
+  { name: "Atta, Rice & Dal", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/10b2e2e1c-2e2e-4e2e-8e2e-10b2e2e1c2e2e.png" }
 ];
 
-// Dummy data for categories and products (for nav bar and other sections)
 const navCategories = [
   { name: "Grocery", icon: "🛒" },
   { name: "Electronics", icon: "💻" },
@@ -93,18 +61,42 @@ const popularSearches = Array.from({ length: 15 }, (_, i) => ({
 }));
 
 export default function ComparelyDashboard() {
+  const navigate = useNavigate();
+  const [search, setSearch] = useState("");
+
+  const handleSearch = (e) => {
+    e.preventDefault();
+    if (search.trim()) {
+      navigate(`/products?query=${encodeURIComponent(search.trim())}`);
+    }
+  };
+
   return (
     <div className="dashboard-root">
       {/* NAV BAR */}
       <nav className="main-navbar">
         <div className="navbar-logo">Comparely</div>
-        <div className="navbar-search">
-          <input type="text" placeholder="Search for products, brands, categories..." />
-        </div>
-        <div className="navbar-actions">
-          <span className="navbar-profile" title="Profile">👤</span>
-          <span className="navbar-cart" title="Cart">🛒</span>
-        </div>
+        <form className="navbar-search" onSubmit={handleSearch}>
+          <input
+            type="text"
+            placeholder="Search for products, brands, categories..."
+            value={search}
+            onChange={e => setSearch(e.target.value)}
+          />
+        </form>
+        // ...existing code...
+<div className="navbar-actions">
+  <span
+    className="navbar-profile"
+    title="Profile"
+    style={{ cursor: "pointer" }}
+    onClick={() => navigate("/profile")}
+  >
+    👤
+  </span>
+  <span className="navbar-cart" title="Cart">🛒</span>
+</div>
+// ...existing code...
       </nav>
 
       {/* TRANSPARENT CATEGORY BAR */}
