@@ -62,18 +62,14 @@ body {
 /* When active = true (sign up active) */
 .container.active .sign-in {
   transform: translateX(100%);
-  opacity: 0;
-  pointer-events: none;
-  z-index: 1;
+
 }
 
 .container.active .sign-up {
   transform: translateX(100%);
-  opacity: 1;
-  pointer-events: auto;
-  z-index: 5;
-  animation: move 0.6s forwards;
+
 }
+
 
 @keyframes move {
   0% {

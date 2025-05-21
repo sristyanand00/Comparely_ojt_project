@@ -1,15 +1,26 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import './AuthPage.css';
 import '@fortawesome/fontawesome-free/css/all.min.css';
 import { createUserWithEmailAndPassword, signInWithEmailAndPassword, updateProfile } from 'firebase/auth';
 import { auth } from "../firebase";
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, useLocation, Link } from 'react-router-dom';
 
 const AuthPage = () => {
   const [isActive, setIsActive] = useState(false); // false = Sign In, true = Sign Up
   const [signUpData, setSignUpData] = useState({ name: '', email: '', password: '' });
   const [signInData, setSignInData] = useState({ email: '', password: '' });
   const navigate = useNavigate();
+  const location = useLocation();
+  const redirectTo = location.state?.redirectTo || "/dashboard";
+
+  useEffect(() => {
+    const params = new URLSearchParams(location.search);
+    if (params.get('mode') === 'signup') {
+      setIsActive(true);
+    } else {
+      setIsActive(false);
+    }
+  }, [location]);
 
   const handleSignUp = async (e) => {
     e.preventDefault();
@@ -19,7 +30,7 @@ const AuthPage = () => {
       const userCredential = await createUserWithEmailAndPassword(auth, email, password);
       await updateProfile(userCredential.user, { displayName: name });
       alert("Sign up successful!");
-      navigate('/');
+      navigate(redirectTo);
     } catch (error) {
       alert(error.message);
     }
@@ -32,7 +43,7 @@ const AuthPage = () => {
     try {
       await signInWithEmailAndPassword(auth, email, password);
       alert("Sign in successful!");
-      navigate('/');
+      navigate(redirectTo);
     } catch (error) {
       alert(error.message);
     }
@@ -92,6 +103,17 @@ const AuthPage = () => {
           <a href="#">Forgot Your Password?</a>
           <button type="submit">Sign In</button>
         </form>
+      </div>
+
+      {/* Switch Links */}
+      <div style={{ textAlign: 'center', marginTop: 16 }}>
+        <span>
+          {isActive ? (
+            <>Already have an account? <Link to="/auth?mode=signin">Sign In</Link></>
+          ) : (
+            <>Don't have an account? <Link to="/auth?mode=signup">Sign Up</Link></>
+          )}
+        </span>
       </div>
 
       {/* Toggle Panel */}
