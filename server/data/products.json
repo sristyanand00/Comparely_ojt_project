@@ -1,1332 +1,1332 @@
 [
   {
     "name": "Frozen French Fries",
-    "brand": "McCain",
+    "brand": "Safal",
     "category": "Frozen Foods",
-    "description": "Frozen French Fries by McCain, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_french_fries_mccain.jpg",
+    "description": "Frozen French Fries by Safal",
+    "image": "https://example.com/images/frozen-french-fries-safal.png",
     "prices": {
-      "zepto": 118,
-      "instamart": 121,
-      "blinkit": 119,
-      "jiomart": 121
+      "zepto": 125,
+      "instamart": 120,
+      "blinkit": 123,
+      "jiomart": 120
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582239"
+  },
+  {
+    "name": "Frozen French Fries",
+    "brand": "Haldiram",
+    "category": "Frozen Foods",
+    "description": "Frozen French Fries by Haldiram",
+    "image": "https://example.com/images/frozen-french-fries-haldiram.png",
+    "prices": {
+      "zepto": 262,
+      "instamart": 266,
+      "blinkit": 265,
+      "jiomart": 259
+    },
+    "updatedAt": "2025-05-21T06:55:16.582263"
+  },
+  {
+    "name": "Frozen French Fries",
+    "brand": "Godrej",
+    "category": "Frozen Foods",
+    "description": "Frozen French Fries by Godrej",
+    "image": "https://example.com/images/frozen-french-fries-godrej.png",
+    "prices": {
+      "zepto": 151,
+      "instamart": 147,
+      "blinkit": 149,
+      "jiomart": 154
+    },
+    "updatedAt": "2025-05-21T06:55:16.582280"
   },
   {
     "name": "Frozen French Fries",
     "brand": "ITC Master Chef",
     "category": "Frozen Foods",
-    "description": "Frozen French Fries by ITC Master Chef, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_french_fries_itc_master_chef.jpg",
+    "description": "Frozen French Fries by ITC Master Chef",
+    "image": "https://example.com/images/frozen-french-fries-itc-master-chef.png",
     "prices": {
-      "zepto": 135,
-      "instamart": 134,
-      "blinkit": 136,
-      "jiomart": 133
+      "zepto": 222,
+      "instamart": 224,
+      "blinkit": 227,
+      "jiomart": 227
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582288"
   },
   {
     "name": "Frozen French Fries",
-    "brand": "Safal",
+    "brand": "Yummiez",
     "category": "Frozen Foods",
-    "description": "Frozen French Fries by Safal, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_french_fries_safal.jpg",
+    "description": "Frozen French Fries by Yummiez",
+    "image": "https://example.com/images/frozen-french-fries-yummiez.png",
     "prices": {
-      "zepto": 121,
-      "instamart": 121,
-      "blinkit": 123,
-      "jiomart": 124
+      "zepto": 242,
+      "instamart": 237,
+      "blinkit": 240,
+      "jiomart": 241
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582294"
   },
   {
-    "name": "Frozen French Fries",
-    "brand": "Al Kabeer",
+    "name": "Frozen Green Peas",
+    "brand": "Godrej",
     "category": "Frozen Foods",
-    "description": "Frozen French Fries by Al Kabeer, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_french_fries_al_kabeer.jpg",
+    "description": "Frozen Green Peas by Godrej",
+    "image": "https://example.com/images/frozen-green-peas-godrej.png",
     "prices": {
-      "zepto": 142,
-      "instamart": 139,
-      "blinkit": 143,
-      "jiomart": 145
+      "zepto": 166,
+      "instamart": 167,
+      "blinkit": 170,
+      "jiomart": 162
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582313"
   },
   {
-    "name": "Frozen French Fries",
+    "name": "Frozen Green Peas",
+    "brand": "Nestle",
+    "category": "Frozen Foods",
+    "description": "Frozen Green Peas by Nestle",
+    "image": "https://example.com/images/frozen-green-peas-nestle.png",
+    "prices": {
+      "zepto": 269,
+      "instamart": 272,
+      "blinkit": 267,
+      "jiomart": 273
+    },
+    "updatedAt": "2025-05-21T06:55:16.582325"
+  },
+  {
+    "name": "Frozen Green Peas",
+    "brand": "McCain",
+    "category": "Frozen Foods",
+    "description": "Frozen Green Peas by McCain",
+    "image": "https://example.com/images/frozen-green-peas-mccain.png",
+    "prices": {
+      "zepto": 109,
+      "instamart": 111,
+      "blinkit": 111,
+      "jiomart": 114
+    },
+    "updatedAt": "2025-05-21T06:55:16.582335"
+  },
+  {
+    "name": "Frozen Green Peas",
+    "brand": "Amul",
+    "category": "Frozen Foods",
+    "description": "Frozen Green Peas by Amul",
+    "image": "https://example.com/images/frozen-green-peas-amul.png",
+    "prices": {
+      "zepto": 298,
+      "instamart": 297,
+      "blinkit": 297,
+      "jiomart": 300
+    },
+    "updatedAt": "2025-05-21T06:55:16.582343"
+  },
+  {
+    "name": "Frozen Green Peas",
+    "brand": "Real Good",
+    "category": "Frozen Foods",
+    "description": "Frozen Green Peas by Real Good",
+    "image": "https://example.com/images/frozen-green-peas-real-good.png",
+    "prices": {
+      "zepto": 204,
+      "instamart": 199,
+      "blinkit": 206,
+      "jiomart": 204
+    },
+    "updatedAt": "2025-05-21T06:55:16.582352"
+  },
+  {
+    "name": "Frozen Sweet Corn",
+    "brand": "McCain",
+    "category": "Frozen Foods",
+    "description": "Frozen Sweet Corn by McCain",
+    "image": "https://example.com/images/frozen-sweet-corn-mccain.png",
+    "prices": {
+      "zepto": 163,
+      "instamart": 164,
+      "blinkit": 167,
+      "jiomart": 161
+    },
+    "updatedAt": "2025-05-21T06:55:16.582371"
+  },
+  {
+    "name": "Frozen Sweet Corn",
+    "brand": "Amul",
+    "category": "Frozen Foods",
+    "description": "Frozen Sweet Corn by Amul",
+    "image": "https://example.com/images/frozen-sweet-corn-amul.png",
+    "prices": {
+      "zepto": 86,
+      "instamart": 86,
+      "blinkit": 84,
+      "jiomart": 86
+    },
+    "updatedAt": "2025-05-21T06:55:16.582386"
+  },
+  {
+    "name": "Frozen Sweet Corn",
+    "brand": "Godrej",
+    "category": "Frozen Foods",
+    "description": "Frozen Sweet Corn by Godrej",
+    "image": "https://example.com/images/frozen-sweet-corn-godrej.png",
+    "prices": {
+      "zepto": 272,
+      "instamart": 274,
+      "blinkit": 269,
+      "jiomart": 267
+    },
+    "updatedAt": "2025-05-21T06:55:16.582396"
+  },
+  {
+    "name": "Frozen Sweet Corn",
     "brand": "Everest",
     "category": "Frozen Foods",
-    "description": "Frozen French Fries by Everest, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_french_fries_everest.jpg",
+    "description": "Frozen Sweet Corn by Everest",
+    "image": "https://example.com/images/frozen-sweet-corn-everest.png",
     "prices": {
-      "zepto": 132,
-      "instamart": 130,
-      "blinkit": 131,
-      "jiomart": 129
+      "zepto": 162,
+      "instamart": 164,
+      "blinkit": 157,
+      "jiomart": 158
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Frozen Green Peas",
-    "brand": "Safal",
-    "category": "Frozen Foods",
-    "description": "Frozen Green Peas by Safal, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_green_peas_safal.jpg",
-    "prices": {
-      "zepto": 125,
-      "instamart": 126,
-      "blinkit": 126,
-      "jiomart": 122
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Frozen Green Peas",
-    "brand": "Mother Dairy",
-    "category": "Frozen Foods",
-    "description": "Frozen Green Peas by Mother Dairy, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_green_peas_mother_dairy.jpg",
-    "prices": {
-      "zepto": 105,
-      "instamart": 102,
-      "blinkit": 102,
-      "jiomart": 104
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Frozen Green Peas",
-    "brand": "Vadilal",
-    "category": "Frozen Foods",
-    "description": "Frozen Green Peas by Vadilal, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_green_peas_vadilal.jpg",
-    "prices": {
-      "zepto": 143,
-      "instamart": 145,
-      "blinkit": 146,
-      "jiomart": 142
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Frozen Green Peas",
-    "brand": "Al Kabeer",
-    "category": "Frozen Foods",
-    "description": "Frozen Green Peas by Al Kabeer, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_green_peas_al_kabeer.jpg",
-    "prices": {
-      "zepto": 105,
-      "instamart": 102,
-      "blinkit": 107,
-      "jiomart": 105
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Frozen Green Peas",
-    "brand": "Everest",
-    "category": "Frozen Foods",
-    "description": "Frozen Green Peas by Everest, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_green_peas_everest.jpg",
-    "prices": {
-      "zepto": 106,
-      "instamart": 106,
-      "blinkit": 107,
-      "jiomart": 106
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582406"
   },
   {
     "name": "Frozen Sweet Corn",
     "brand": "Safal",
     "category": "Frozen Foods",
-    "description": "Frozen Sweet Corn by Safal, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_sweet_corn_safal.jpg",
+    "description": "Frozen Sweet Corn by Safal",
+    "image": "https://example.com/images/frozen-sweet-corn-safal.png",
     "prices": {
-      "zepto": 121,
-      "instamart": 121,
-      "blinkit": 121,
-      "jiomart": 124
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Frozen Sweet Corn",
-    "brand": "Sumeru",
-    "category": "Frozen Foods",
-    "description": "Frozen Sweet Corn by Sumeru, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_sweet_corn_sumeru.jpg",
-    "prices": {
-      "zepto": 112,
-      "instamart": 114,
+      "zepto": 115,
+      "instamart": 116,
       "blinkit": 115,
       "jiomart": 114
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582411"
   },
   {
-    "name": "Frozen Sweet Corn",
-    "brand": "Del Monte",
+    "name": "Veggie Nuggets",
+    "brand": "ITC Master Chef",
     "category": "Frozen Foods",
-    "description": "Frozen Sweet Corn by Del Monte, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_sweet_corn_del_monte.jpg",
+    "description": "Veggie Nuggets by ITC Master Chef",
+    "image": "https://example.com/images/veggie-nuggets-itc-master-chef.png",
     "prices": {
-      "zepto": 97,
-      "instamart": 95,
-      "blinkit": 98,
-      "jiomart": 99
+      "zepto": 160,
+      "instamart": 158,
+      "blinkit": 161,
+      "jiomart": 162
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Frozen Sweet Corn",
-    "brand": "Vadilal",
-    "category": "Frozen Foods",
-    "description": "Frozen Sweet Corn by Vadilal, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_sweet_corn_vadilal.jpg",
-    "prices": {
-      "zepto": 91,
-      "instamart": 92,
-      "blinkit": 93,
-      "jiomart": 92
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Frozen Sweet Corn",
-    "brand": "Farmley",
-    "category": "Frozen Foods",
-    "description": "Frozen Sweet Corn by Farmley, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_sweet_corn_farmley.jpg",
-    "prices": {
-      "zepto": 105,
-      "instamart": 108,
-      "blinkit": 108,
-      "jiomart": 108
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582421"
   },
   {
     "name": "Veggie Nuggets",
     "brand": "McCain",
     "category": "Frozen Foods",
-    "description": "Veggie Nuggets by McCain, delicious and ready to cook.",
-    "image": "https://example.com/images/veggie_nuggets_mccain.jpg",
-    "prices": {
-      "zepto": 129,
-      "instamart": 129,
-      "blinkit": 128,
-      "jiomart": 126
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Veggie Nuggets",
-    "brand": "ITC Master Chef",
-    "category": "Frozen Foods",
-    "description": "Veggie Nuggets by ITC Master Chef, delicious and ready to cook.",
-    "image": "https://example.com/images/veggie_nuggets_itc_master_chef.jpg",
-    "prices": {
-      "zepto": 92,
-      "instamart": 95,
-      "blinkit": 90,
-      "jiomart": 92
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Veggie Nuggets",
-    "brand": "Godrej Yummiez",
-    "category": "Frozen Foods",
-    "description": "Veggie Nuggets by Godrej Yummiez, delicious and ready to cook.",
-    "image": "https://example.com/images/veggie_nuggets_godrej_yummiez.jpg",
-    "prices": {
-      "zepto": 108,
-      "instamart": 106,
-      "blinkit": 106,
-      "jiomart": 111
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Veggie Nuggets",
-    "brand": "Vezlay",
-    "category": "Frozen Foods",
-    "description": "Veggie Nuggets by Vezlay, delicious and ready to cook.",
-    "image": "https://example.com/images/veggie_nuggets_vezlay.jpg",
-    "prices": {
-      "zepto": 120,
-      "instamart": 120,
-      "blinkit": 119,
-      "jiomart": 123
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Veggie Nuggets",
-    "brand": "Freshezy",
-    "category": "Frozen Foods",
-    "description": "Veggie Nuggets by Freshezy, delicious and ready to cook.",
-    "image": "https://example.com/images/veggie_nuggets_freshezy.jpg",
-    "prices": {
-      "zepto": 120,
-      "instamart": 120,
-      "blinkit": 120,
-      "jiomart": 122
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Chicken Nuggets",
-    "brand": "Venky's",
-    "category": "Frozen Foods",
-    "description": "Chicken Nuggets by Venky's, delicious and ready to cook.",
-    "image": "https://example.com/images/chicken_nuggets_venky's.jpg",
-    "prices": {
-      "zepto": 104,
-      "instamart": 101,
-      "blinkit": 101,
-      "jiomart": 104
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Chicken Nuggets",
-    "brand": "Yummiez",
-    "category": "Frozen Foods",
-    "description": "Chicken Nuggets by Yummiez, delicious and ready to cook.",
-    "image": "https://example.com/images/chicken_nuggets_yummiez.jpg",
-    "prices": {
-      "zepto": 143,
-      "instamart": 140,
-      "blinkit": 146,
-      "jiomart": 140
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Chicken Nuggets",
-    "brand": "Zorabian",
-    "category": "Frozen Foods",
-    "description": "Chicken Nuggets by Zorabian, delicious and ready to cook.",
-    "image": "https://example.com/images/chicken_nuggets_zorabian.jpg",
-    "prices": {
-      "zepto": 91,
-      "instamart": 88,
-      "blinkit": 88,
-      "jiomart": 90
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Chicken Nuggets",
-    "brand": "Al Kabeer",
-    "category": "Frozen Foods",
-    "description": "Chicken Nuggets by Al Kabeer, delicious and ready to cook.",
-    "image": "https://example.com/images/chicken_nuggets_al_kabeer.jpg",
-    "prices": {
-      "zepto": 106,
-      "instamart": 107,
-      "blinkit": 104,
-      "jiomart": 109
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Chicken Nuggets",
-    "brand": "Meatzza",
-    "category": "Frozen Foods",
-    "description": "Chicken Nuggets by Meatzza, delicious and ready to cook.",
-    "image": "https://example.com/images/chicken_nuggets_meatzza.jpg",
-    "prices": {
-      "zepto": 118,
-      "instamart": 120,
-      "blinkit": 115,
-      "jiomart": 119
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Fish Fingers",
-    "brand": "Meatzza",
-    "category": "Frozen Foods",
-    "description": "Fish Fingers by Meatzza, delicious and ready to cook.",
-    "image": "https://example.com/images/fish_fingers_meatzza.jpg",
-    "prices": {
-      "zepto": 133,
-      "instamart": 135,
-      "blinkit": 132,
-      "jiomart": 136
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Fish Fingers",
-    "brand": "Al Kabeer",
-    "category": "Frozen Foods",
-    "description": "Fish Fingers by Al Kabeer, delicious and ready to cook.",
-    "image": "https://example.com/images/fish_fingers_al_kabeer.jpg",
-    "prices": {
-      "zepto": 131,
-      "instamart": 130,
-      "blinkit": 128,
-      "jiomart": 132
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Fish Fingers",
-    "brand": "Venky's",
-    "category": "Frozen Foods",
-    "description": "Fish Fingers by Venky's, delicious and ready to cook.",
-    "image": "https://example.com/images/fish_fingers_venky's.jpg",
-    "prices": {
-      "zepto": 95,
-      "instamart": 94,
-      "blinkit": 97,
-      "jiomart": 97
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Fish Fingers",
-    "brand": "Sumeru",
-    "category": "Frozen Foods",
-    "description": "Fish Fingers by Sumeru, delicious and ready to cook.",
-    "image": "https://example.com/images/fish_fingers_sumeru.jpg",
-    "prices": {
-      "zepto": 142,
-      "instamart": 142,
-      "blinkit": 141,
-      "jiomart": 145
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Fish Fingers",
-    "brand": "Captain Cook",
-    "category": "Frozen Foods",
-    "description": "Fish Fingers by Captain Cook, delicious and ready to cook.",
-    "image": "https://example.com/images/fish_fingers_captain_cook.jpg",
-    "prices": {
-      "zepto": 128,
-      "instamart": 131,
-      "blinkit": 128,
-      "jiomart": 127
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Frozen Paratha",
-    "brand": "Sumeru",
-    "category": "Frozen Foods",
-    "description": "Frozen Paratha by Sumeru, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_paratha_sumeru.jpg",
-    "prices": {
-      "zepto": 106,
-      "instamart": 109,
-      "blinkit": 103,
-      "jiomart": 104
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Frozen Paratha",
-    "brand": "ITC Master Chef",
-    "category": "Frozen Foods",
-    "description": "Frozen Paratha by ITC Master Chef, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_paratha_itc_master_chef.jpg",
-    "prices": {
-      "zepto": 129,
-      "instamart": 128,
-      "blinkit": 132,
-      "jiomart": 129
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Frozen Paratha",
-    "brand": "Ashirvaad",
-    "category": "Frozen Foods",
-    "description": "Frozen Paratha by Ashirvaad, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_paratha_ashirvaad.jpg",
-    "prices": {
-      "zepto": 114,
-      "instamart": 111,
-      "blinkit": 115,
-      "jiomart": 116
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Frozen Paratha",
-    "brand": "Haldiram's",
-    "category": "Frozen Foods",
-    "description": "Frozen Paratha by Haldiram's, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_paratha_haldiram's.jpg",
-    "prices": {
-      "zepto": 131,
-      "instamart": 133,
-      "blinkit": 134,
-      "jiomart": 133
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Frozen Paratha",
-    "brand": "Amul",
-    "category": "Frozen Foods",
-    "description": "Frozen Paratha by Amul, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_paratha_amul.jpg",
-    "prices": {
-      "zepto": 136,
-      "instamart": 133,
-      "blinkit": 136,
-      "jiomart": 135
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Frozen Samosa",
-    "brand": "Haldiram's",
-    "category": "Frozen Foods",
-    "description": "Frozen Samosa by Haldiram's, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_samosa_haldiram's.jpg",
-    "prices": {
-      "zepto": 129,
-      "instamart": 128,
-      "blinkit": 128,
-      "jiomart": 126
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Frozen Samosa",
-    "brand": "ITC Master Chef",
-    "category": "Frozen Foods",
-    "description": "Frozen Samosa by ITC Master Chef, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_samosa_itc_master_chef.jpg",
-    "prices": {
-      "zepto": 107,
-      "instamart": 110,
-      "blinkit": 108,
-      "jiomart": 110
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Frozen Samosa",
-    "brand": "Bikaji",
-    "category": "Frozen Foods",
-    "description": "Frozen Samosa by Bikaji, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_samosa_bikaji.jpg",
-    "prices": {
-      "zepto": 115,
-      "instamart": 115,
-      "blinkit": 118,
-      "jiomart": 117
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Frozen Samosa",
-    "brand": "Everest",
-    "category": "Frozen Foods",
-    "description": "Frozen Samosa by Everest, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_samosa_everest.jpg",
-    "prices": {
-      "zepto": 95,
-      "instamart": 93,
-      "blinkit": 98,
-      "jiomart": 96
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Frozen Samosa",
-    "brand": "Frozen Treats",
-    "category": "Frozen Foods",
-    "description": "Frozen Samosa by Frozen Treats, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_samosa_frozen_treats.jpg",
-    "prices": {
-      "zepto": 117,
-      "instamart": 116,
-      "blinkit": 115,
-      "jiomart": 120
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Paneer Tikka",
-    "brand": "Amul",
-    "category": "Frozen Foods",
-    "description": "Paneer Tikka by Amul, delicious and ready to cook.",
-    "image": "https://example.com/images/paneer_tikka_amul.jpg",
-    "prices": {
-      "zepto": 150,
-      "instamart": 152,
-      "blinkit": 149,
-      "jiomart": 153
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Paneer Tikka",
-    "brand": "ITC Master Chef",
-    "category": "Frozen Foods",
-    "description": "Paneer Tikka by ITC Master Chef, delicious and ready to cook.",
-    "image": "https://example.com/images/paneer_tikka_itc_master_chef.jpg",
+    "description": "Veggie Nuggets by McCain",
+    "image": "https://example.com/images/veggie-nuggets-mccain.png",
     "prices": {
       "zepto": 101,
       "instamart": 100,
-      "blinkit": 101,
-      "jiomart": 99
+      "blinkit": 97,
+      "jiomart": 98
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582436"
+  },
+  {
+    "name": "Veggie Nuggets",
+    "brand": "Nestle",
+    "category": "Frozen Foods",
+    "description": "Veggie Nuggets by Nestle",
+    "image": "https://example.com/images/veggie-nuggets-nestle.png",
+    "prices": {
+      "zepto": 135,
+      "instamart": 136,
+      "blinkit": 132,
+      "jiomart": 135
+    },
+    "updatedAt": "2025-05-21T06:55:16.582441"
+  },
+  {
+    "name": "Veggie Nuggets",
+    "brand": "Yummiez",
+    "category": "Frozen Foods",
+    "description": "Veggie Nuggets by Yummiez",
+    "image": "https://example.com/images/veggie-nuggets-yummiez.png",
+    "prices": {
+      "zepto": 247,
+      "instamart": 246,
+      "blinkit": 243,
+      "jiomart": 244
+    },
+    "updatedAt": "2025-05-21T06:55:16.582446"
+  },
+  {
+    "name": "Veggie Nuggets",
+    "brand": "Everest",
+    "category": "Frozen Foods",
+    "description": "Veggie Nuggets by Everest",
+    "image": "https://example.com/images/veggie-nuggets-everest.png",
+    "prices": {
+      "zepto": 229,
+      "instamart": 231,
+      "blinkit": 233,
+      "jiomart": 232
+    },
+    "updatedAt": "2025-05-21T06:55:16.582451"
+  },
+  {
+    "name": "Chicken Nuggets",
+    "brand": "Real Good",
+    "category": "Frozen Foods",
+    "description": "Chicken Nuggets by Real Good",
+    "image": "https://example.com/images/chicken-nuggets-real-good.png",
+    "prices": {
+      "zepto": 155,
+      "instamart": 154,
+      "blinkit": 151,
+      "jiomart": 155
+    },
+    "updatedAt": "2025-05-21T06:55:16.582461"
+  },
+  {
+    "name": "Chicken Nuggets",
+    "brand": "Everest",
+    "category": "Frozen Foods",
+    "description": "Chicken Nuggets by Everest",
+    "image": "https://example.com/images/chicken-nuggets-everest.png",
+    "prices": {
+      "zepto": 278,
+      "instamart": 277,
+      "blinkit": 276,
+      "jiomart": 273
+    },
+    "updatedAt": "2025-05-21T06:55:16.582467"
+  },
+  {
+    "name": "Chicken Nuggets",
+    "brand": "Nestle",
+    "category": "Frozen Foods",
+    "description": "Chicken Nuggets by Nestle",
+    "image": "https://example.com/images/chicken-nuggets-nestle.png",
+    "prices": {
+      "zepto": 188,
+      "instamart": 185,
+      "blinkit": 188,
+      "jiomart": 186
+    },
+    "updatedAt": "2025-05-21T06:55:16.582474"
+  },
+  {
+    "name": "Chicken Nuggets",
+    "brand": "ITC Master Chef",
+    "category": "Frozen Foods",
+    "description": "Chicken Nuggets by ITC Master Chef",
+    "image": "https://example.com/images/chicken-nuggets-itc-master-chef.png",
+    "prices": {
+      "zepto": 189,
+      "instamart": 192,
+      "blinkit": 189,
+      "jiomart": 194
+    },
+    "updatedAt": "2025-05-21T06:55:16.582482"
+  },
+  {
+    "name": "Chicken Nuggets",
+    "brand": "Safal",
+    "category": "Frozen Foods",
+    "description": "Chicken Nuggets by Safal",
+    "image": "https://example.com/images/chicken-nuggets-safal.png",
+    "prices": {
+      "zepto": 87,
+      "instamart": 82,
+      "blinkit": 89,
+      "jiomart": 85
+    },
+    "updatedAt": "2025-05-21T06:55:16.582490"
+  },
+  {
+    "name": "Fish Fingers",
+    "brand": "Safal",
+    "category": "Frozen Foods",
+    "description": "Fish Fingers by Safal",
+    "image": "https://example.com/images/fish-fingers-safal.png",
+    "prices": {
+      "zepto": 98,
+      "instamart": 95,
+      "blinkit": 102,
+      "jiomart": 100
+    },
+    "updatedAt": "2025-05-21T06:55:16.582504"
+  },
+  {
+    "name": "Fish Fingers",
+    "brand": "Yummiez",
+    "category": "Frozen Foods",
+    "description": "Fish Fingers by Yummiez",
+    "image": "https://example.com/images/fish-fingers-yummiez.png",
+    "prices": {
+      "zepto": 117,
+      "instamart": 122,
+      "blinkit": 121,
+      "jiomart": 122
+    },
+    "updatedAt": "2025-05-21T06:55:16.582511"
+  },
+  {
+    "name": "Fish Fingers",
+    "brand": "ITC Master Chef",
+    "category": "Frozen Foods",
+    "description": "Fish Fingers by ITC Master Chef",
+    "image": "https://example.com/images/fish-fingers-itc-master-chef.png",
+    "prices": {
+      "zepto": 104,
+      "instamart": 108,
+      "blinkit": 105,
+      "jiomart": 103
+    },
+    "updatedAt": "2025-05-21T06:55:16.582516"
+  },
+  {
+    "name": "Fish Fingers",
+    "brand": "McCain",
+    "category": "Frozen Foods",
+    "description": "Fish Fingers by McCain",
+    "image": "https://example.com/images/fish-fingers-mccain.png",
+    "prices": {
+      "zepto": 163,
+      "instamart": 165,
+      "blinkit": 163,
+      "jiomart": 163
+    },
+    "updatedAt": "2025-05-21T06:55:16.582521"
+  },
+  {
+    "name": "Fish Fingers",
+    "brand": "Nestle",
+    "category": "Frozen Foods",
+    "description": "Fish Fingers by Nestle",
+    "image": "https://example.com/images/fish-fingers-nestle.png",
+    "prices": {
+      "zepto": 158,
+      "instamart": 154,
+      "blinkit": 158,
+      "jiomart": 154
+    },
+    "updatedAt": "2025-05-21T06:55:16.582526"
+  },
+  {
+    "name": "Frozen Paratha",
+    "brand": "Nestle",
+    "category": "Frozen Foods",
+    "description": "Frozen Paratha by Nestle",
+    "image": "https://example.com/images/frozen-paratha-nestle.png",
+    "prices": {
+      "zepto": 177,
+      "instamart": 173,
+      "blinkit": 175,
+      "jiomart": 181
+    },
+    "updatedAt": "2025-05-21T06:55:16.582535"
+  },
+  {
+    "name": "Frozen Paratha",
+    "brand": "Godrej",
+    "category": "Frozen Foods",
+    "description": "Frozen Paratha by Godrej",
+    "image": "https://example.com/images/frozen-paratha-godrej.png",
+    "prices": {
+      "zepto": 94,
+      "instamart": 89,
+      "blinkit": 96,
+      "jiomart": 91
+    },
+    "updatedAt": "2025-05-21T06:55:16.582540"
+  },
+  {
+    "name": "Frozen Paratha",
+    "brand": "Everest",
+    "category": "Frozen Foods",
+    "description": "Frozen Paratha by Everest",
+    "image": "https://example.com/images/frozen-paratha-everest.png",
+    "prices": {
+      "zepto": 99,
+      "instamart": 95,
+      "blinkit": 99,
+      "jiomart": 97
+    },
+    "updatedAt": "2025-05-21T06:55:16.582544"
+  },
+  {
+    "name": "Frozen Paratha",
+    "brand": "Amul",
+    "category": "Frozen Foods",
+    "description": "Frozen Paratha by Amul",
+    "image": "https://example.com/images/frozen-paratha-amul.png",
+    "prices": {
+      "zepto": 87,
+      "instamart": 88,
+      "blinkit": 92,
+      "jiomart": 82
+    },
+    "updatedAt": "2025-05-21T06:55:16.582549"
+  },
+  {
+    "name": "Frozen Paratha",
+    "brand": "McCain",
+    "category": "Frozen Foods",
+    "description": "Frozen Paratha by McCain",
+    "image": "https://example.com/images/frozen-paratha-mccain.png",
+    "prices": {
+      "zepto": 198,
+      "instamart": 201,
+      "blinkit": 203,
+      "jiomart": 203
+    },
+    "updatedAt": "2025-05-21T06:55:16.582557"
+  },
+  {
+    "name": "Frozen Samosa",
+    "brand": "ITC Master Chef",
+    "category": "Frozen Foods",
+    "description": "Frozen Samosa by ITC Master Chef",
+    "image": "https://example.com/images/frozen-samosa-itc-master-chef.png",
+    "prices": {
+      "zepto": 84,
+      "instamart": 83,
+      "blinkit": 87,
+      "jiomart": 83
+    },
+    "updatedAt": "2025-05-21T06:55:16.582566"
+  },
+  {
+    "name": "Frozen Samosa",
+    "brand": "Real Good",
+    "category": "Frozen Foods",
+    "description": "Frozen Samosa by Real Good",
+    "image": "https://example.com/images/frozen-samosa-real-good.png",
+    "prices": {
+      "zepto": 95,
+      "instamart": 97,
+      "blinkit": 93,
+      "jiomart": 96
+    },
+    "updatedAt": "2025-05-21T06:55:16.582571"
+  },
+  {
+    "name": "Frozen Samosa",
+    "brand": "Safal",
+    "category": "Frozen Foods",
+    "description": "Frozen Samosa by Safal",
+    "image": "https://example.com/images/frozen-samosa-safal.png",
+    "prices": {
+      "zepto": 123,
+      "instamart": 122,
+      "blinkit": 123,
+      "jiomart": 122
+    },
+    "updatedAt": "2025-05-21T06:55:16.582576"
+  },
+  {
+    "name": "Frozen Samosa",
+    "brand": "Godrej",
+    "category": "Frozen Foods",
+    "description": "Frozen Samosa by Godrej",
+    "image": "https://example.com/images/frozen-samosa-godrej.png",
+    "prices": {
+      "zepto": 214,
+      "instamart": 211,
+      "blinkit": 213,
+      "jiomart": 219
+    },
+    "updatedAt": "2025-05-21T06:55:16.582581"
+  },
+  {
+    "name": "Frozen Samosa",
+    "brand": "McCain",
+    "category": "Frozen Foods",
+    "description": "Frozen Samosa by McCain",
+    "image": "https://example.com/images/frozen-samosa-mccain.png",
+    "prices": {
+      "zepto": 286,
+      "instamart": 285,
+      "blinkit": 283,
+      "jiomart": 286
+    },
+    "updatedAt": "2025-05-21T06:55:16.582586"
   },
   {
     "name": "Paneer Tikka",
-    "brand": "Haldiram's",
+    "brand": "Everest",
     "category": "Frozen Foods",
-    "description": "Paneer Tikka by Haldiram's, delicious and ready to cook.",
-    "image": "https://example.com/images/paneer_tikka_haldiram's.jpg",
+    "description": "Paneer Tikka by Everest",
+    "image": "https://example.com/images/paneer-tikka-everest.png",
     "prices": {
-      "zepto": 140,
-      "instamart": 138,
-      "blinkit": 137,
-      "jiomart": 141
+      "zepto": 173,
+      "instamart": 168,
+      "blinkit": 173,
+      "jiomart": 168
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582594"
   },
   {
     "name": "Paneer Tikka",
-    "brand": "Vezlay",
+    "brand": "McCain",
     "category": "Frozen Foods",
-    "description": "Paneer Tikka by Vezlay, delicious and ready to cook.",
-    "image": "https://example.com/images/paneer_tikka_vezlay.jpg",
+    "description": "Paneer Tikka by McCain",
+    "image": "https://example.com/images/paneer-tikka-mccain.png",
     "prices": {
-      "zepto": 140,
-      "instamart": 137,
-      "blinkit": 140,
-      "jiomart": 142
+      "zepto": 225,
+      "instamart": 229,
+      "blinkit": 227,
+      "jiomart": 224
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582599"
   },
   {
     "name": "Paneer Tikka",
-    "brand": "Godrej Yummiez",
+    "brand": "Real Good",
     "category": "Frozen Foods",
-    "description": "Paneer Tikka by Godrej Yummiez, delicious and ready to cook.",
-    "image": "https://example.com/images/paneer_tikka_godrej_yummiez.jpg",
+    "description": "Paneer Tikka by Real Good",
+    "image": "https://example.com/images/paneer-tikka-real-good.png",
     "prices": {
-      "zepto": 145,
-      "instamart": 144,
-      "blinkit": 148,
-      "jiomart": 143
+      "zepto": 99,
+      "instamart": 99,
+      "blinkit": 100,
+      "jiomart": 98
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582604"
+  },
+  {
+    "name": "Paneer Tikka",
+    "brand": "Yummiez",
+    "category": "Frozen Foods",
+    "description": "Paneer Tikka by Yummiez",
+    "image": "https://example.com/images/paneer-tikka-yummiez.png",
+    "prices": {
+      "zepto": 215,
+      "instamart": 215,
+      "blinkit": 216,
+      "jiomart": 211
+    },
+    "updatedAt": "2025-05-21T06:55:16.582609"
+  },
+  {
+    "name": "Paneer Tikka",
+    "brand": "Amul",
+    "category": "Frozen Foods",
+    "description": "Paneer Tikka by Amul",
+    "image": "https://example.com/images/paneer-tikka-amul.png",
+    "prices": {
+      "zepto": 251,
+      "instamart": 256,
+      "blinkit": 251,
+      "jiomart": 248
+    },
+    "updatedAt": "2025-05-21T06:55:16.582618"
+  },
+  {
+    "name": "Frozen Pizza",
+    "brand": "Everest",
+    "category": "Frozen Foods",
+    "description": "Frozen Pizza by Everest",
+    "image": "https://example.com/images/frozen-pizza-everest.png",
+    "prices": {
+      "zepto": 93,
+      "instamart": 88,
+      "blinkit": 89,
+      "jiomart": 89
+    },
+    "updatedAt": "2025-05-21T06:55:16.582631"
+  },
+  {
+    "name": "Frozen Pizza",
+    "brand": "ITC Master Chef",
+    "category": "Frozen Foods",
+    "description": "Frozen Pizza by ITC Master Chef",
+    "image": "https://example.com/images/frozen-pizza-itc-master-chef.png",
+    "prices": {
+      "zepto": 236,
+      "instamart": 241,
+      "blinkit": 241,
+      "jiomart": 237
+    },
+    "updatedAt": "2025-05-21T06:55:16.582638"
+  },
+  {
+    "name": "Frozen Pizza",
+    "brand": "Real Good",
+    "category": "Frozen Foods",
+    "description": "Frozen Pizza by Real Good",
+    "image": "https://example.com/images/frozen-pizza-real-good.png",
+    "prices": {
+      "zepto": 195,
+      "instamart": 195,
+      "blinkit": 190,
+      "jiomart": 193
+    },
+    "updatedAt": "2025-05-21T06:55:16.582644"
+  },
+  {
+    "name": "Frozen Pizza",
+    "brand": "McCain",
+    "category": "Frozen Foods",
+    "description": "Frozen Pizza by McCain",
+    "image": "https://example.com/images/frozen-pizza-mccain.png",
+    "prices": {
+      "zepto": 259,
+      "instamart": 257,
+      "blinkit": 256,
+      "jiomart": 255
+    },
+    "updatedAt": "2025-05-21T06:55:16.582649"
   },
   {
     "name": "Frozen Pizza",
     "brand": "Nestle",
     "category": "Frozen Foods",
-    "description": "Frozen Pizza by Nestle, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_pizza_nestle.jpg",
+    "description": "Frozen Pizza by Nestle",
+    "image": "https://example.com/images/frozen-pizza-nestle.png",
     "prices": {
-      "zepto": 102,
-      "instamart": 102,
-      "blinkit": 103,
-      "jiomart": 99
+      "zepto": 221,
+      "instamart": 219,
+      "blinkit": 221,
+      "jiomart": 224
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582653"
   },
   {
-    "name": "Frozen Pizza",
+    "name": "Spring Rolls",
     "brand": "Amul",
     "category": "Frozen Foods",
-    "description": "Frozen Pizza by Amul, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_pizza_amul.jpg",
-    "prices": {
-      "zepto": 140,
-      "instamart": 139,
-      "blinkit": 139,
-      "jiomart": 139
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Frozen Pizza",
-    "brand": "ITC Master Chef",
-    "category": "Frozen Foods",
-    "description": "Frozen Pizza by ITC Master Chef, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_pizza_itc_master_chef.jpg",
-    "prices": {
-      "zepto": 110,
-      "instamart": 108,
-      "blinkit": 113,
-      "jiomart": 113
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Frozen Pizza",
-    "brand": "Sumeru",
-    "category": "Frozen Foods",
-    "description": "Frozen Pizza by Sumeru, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_pizza_sumeru.jpg",
-    "prices": {
-      "zepto": 133,
-      "instamart": 130,
-      "blinkit": 132,
-      "jiomart": 132
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Frozen Pizza",
-    "brand": "Freshezy",
-    "category": "Frozen Foods",
-    "description": "Frozen Pizza by Freshezy, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_pizza_freshezy.jpg",
-    "prices": {
-      "zepto": 134,
-      "instamart": 134,
-      "blinkit": 137,
-      "jiomart": 134
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Spring Rolls",
-    "brand": "Bikaji",
-    "category": "Frozen Foods",
-    "description": "Spring Rolls by Bikaji, delicious and ready to cook.",
-    "image": "https://example.com/images/spring_rolls_bikaji.jpg",
-    "prices": {
-      "zepto": 139,
-      "instamart": 138,
-      "blinkit": 139,
-      "jiomart": 140
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Spring Rolls",
-    "brand": "ITC Master Chef",
-    "category": "Frozen Foods",
-    "description": "Spring Rolls by ITC Master Chef, delicious and ready to cook.",
-    "image": "https://example.com/images/spring_rolls_itc_master_chef.jpg",
+    "description": "Spring Rolls by Amul",
+    "image": "https://example.com/images/spring-rolls-amul.png",
     "prices": {
       "zepto": 125,
-      "instamart": 126,
-      "blinkit": 128,
-      "jiomart": 122
+      "instamart": 127,
+      "blinkit": 121,
+      "jiomart": 130
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582664"
   },
   {
     "name": "Spring Rolls",
-    "brand": "Haldiram's",
+    "brand": "Yummiez",
     "category": "Frozen Foods",
-    "description": "Spring Rolls by Haldiram's, delicious and ready to cook.",
-    "image": "https://example.com/images/spring_rolls_haldiram's.jpg",
+    "description": "Spring Rolls by Yummiez",
+    "image": "https://example.com/images/spring-rolls-yummiez.png",
     "prices": {
-      "zepto": 117,
-      "instamart": 117,
-      "blinkit": 120,
-      "jiomart": 114
+      "zepto": 258,
+      "instamart": 258,
+      "blinkit": 253,
+      "jiomart": 261
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582670"
   },
   {
     "name": "Spring Rolls",
-    "brand": "Everest",
+    "brand": "Safal",
     "category": "Frozen Foods",
-    "description": "Spring Rolls by Everest, delicious and ready to cook.",
-    "image": "https://example.com/images/spring_rolls_everest.jpg",
+    "description": "Spring Rolls by Safal",
+    "image": "https://example.com/images/spring-rolls-safal.png",
     "prices": {
-      "zepto": 142,
-      "instamart": 145,
-      "blinkit": 142,
+      "zepto": 209,
+      "instamart": 207,
+      "blinkit": 213,
+      "jiomart": 210
+    },
+    "updatedAt": "2025-05-21T06:55:16.582679"
+  },
+  {
+    "name": "Spring Rolls",
+    "brand": "McCain",
+    "category": "Frozen Foods",
+    "description": "Spring Rolls by McCain",
+    "image": "https://example.com/images/spring-rolls-mccain.png",
+    "prices": {
+      "zepto": 132,
+      "instamart": 130,
+      "blinkit": 131,
+      "jiomart": 134
+    },
+    "updatedAt": "2025-05-21T06:55:16.582685"
+  },
+  {
+    "name": "Spring Rolls",
+    "brand": "Real Good",
+    "category": "Frozen Foods",
+    "description": "Spring Rolls by Real Good",
+    "image": "https://example.com/images/spring-rolls-real-good.png",
+    "prices": {
+      "zepto": 148,
+      "instamart": 148,
+      "blinkit": 150,
       "jiomart": 144
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Spring Rolls",
-    "brand": "Godrej Yummiez",
-    "category": "Frozen Foods",
-    "description": "Spring Rolls by Godrej Yummiez, delicious and ready to cook.",
-    "image": "https://example.com/images/spring_rolls_godrej_yummiez.jpg",
-    "prices": {
-      "zepto": 144,
-      "instamart": 144,
-      "blinkit": 141,
-      "jiomart": 146
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582690"
   },
   {
     "name": "Chicken Popcorn",
-    "brand": "Venky's",
+    "brand": "Godrej",
     "category": "Frozen Foods",
-    "description": "Chicken Popcorn by Venky's, delicious and ready to cook.",
-    "image": "https://example.com/images/chicken_popcorn_venky's.jpg",
+    "description": "Chicken Popcorn by Godrej",
+    "image": "https://example.com/images/chicken-popcorn-godrej.png",
     "prices": {
-      "zepto": 142,
-      "instamart": 139,
-      "blinkit": 145,
-      "jiomart": 141
+      "zepto": 283,
+      "instamart": 287,
+      "blinkit": 285,
+      "jiomart": 287
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582698"
   },
   {
     "name": "Chicken Popcorn",
-    "brand": "Meatzza",
+    "brand": "Yummiez",
     "category": "Frozen Foods",
-    "description": "Chicken Popcorn by Meatzza, delicious and ready to cook.",
-    "image": "https://example.com/images/chicken_popcorn_meatzza.jpg",
+    "description": "Chicken Popcorn by Yummiez",
+    "image": "https://example.com/images/chicken-popcorn-yummiez.png",
     "prices": {
-      "zepto": 113,
-      "instamart": 115,
-      "blinkit": 110,
-      "jiomart": 111
+      "zepto": 159,
+      "instamart": 159,
+      "blinkit": 162,
+      "jiomart": 159
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582703"
   },
   {
     "name": "Chicken Popcorn",
-    "brand": "Zorabian",
+    "brand": "Nestle",
     "category": "Frozen Foods",
-    "description": "Chicken Popcorn by Zorabian, delicious and ready to cook.",
-    "image": "https://example.com/images/chicken_popcorn_zorabian.jpg",
+    "description": "Chicken Popcorn by Nestle",
+    "image": "https://example.com/images/chicken-popcorn-nestle.png",
     "prices": {
-      "zepto": 141,
-      "instamart": 142,
-      "blinkit": 139,
-      "jiomart": 141
+      "zepto": 202,
+      "instamart": 198,
+      "blinkit": 203,
+      "jiomart": 207
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582708"
   },
   {
     "name": "Chicken Popcorn",
-    "brand": "Godrej Yummiez",
+    "brand": "McCain",
     "category": "Frozen Foods",
-    "description": "Chicken Popcorn by Godrej Yummiez, delicious and ready to cook.",
-    "image": "https://example.com/images/chicken_popcorn_godrej_yummiez.jpg",
+    "description": "Chicken Popcorn by McCain",
+    "image": "https://example.com/images/chicken-popcorn-mccain.png",
     "prices": {
-      "zepto": 124,
-      "instamart": 124,
-      "blinkit": 122,
-      "jiomart": 126
+      "zepto": 240,
+      "instamart": 235,
+      "blinkit": 238,
+      "jiomart": 245
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582713"
   },
   {
     "name": "Chicken Popcorn",
-    "brand": "Al Kabeer",
+    "brand": "Amul",
     "category": "Frozen Foods",
-    "description": "Chicken Popcorn by Al Kabeer, delicious and ready to cook.",
-    "image": "https://example.com/images/chicken_popcorn_al_kabeer.jpg",
+    "description": "Chicken Popcorn by Amul",
+    "image": "https://example.com/images/chicken-popcorn-amul.png",
     "prices": {
-      "zepto": 133,
-      "instamart": 136,
-      "blinkit": 134,
-      "jiomart": 135
+      "zepto": 215,
+      "instamart": 220,
+      "blinkit": 211,
+      "jiomart": 215
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582718"
   },
   {
     "name": "Chicken Seekh Kebab",
-    "brand": "Al Kabeer",
+    "brand": "Nestle",
     "category": "Frozen Foods",
-    "description": "Chicken Seekh Kebab by Al Kabeer, delicious and ready to cook.",
-    "image": "https://example.com/images/chicken_seekh_kebab_al_kabeer.jpg",
+    "description": "Chicken Seekh Kebab by Nestle",
+    "image": "https://example.com/images/chicken-seekh-kebab-nestle.png",
     "prices": {
-      "zepto": 97,
-      "instamart": 94,
-      "blinkit": 98,
-      "jiomart": 95
+      "zepto": 96,
+      "instamart": 95,
+      "blinkit": 93,
+      "jiomart": 99
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582726"
   },
   {
     "name": "Chicken Seekh Kebab",
-    "brand": "Meatzza",
+    "brand": "Real Good",
     "category": "Frozen Foods",
-    "description": "Chicken Seekh Kebab by Meatzza, delicious and ready to cook.",
-    "image": "https://example.com/images/chicken_seekh_kebab_meatzza.jpg",
+    "description": "Chicken Seekh Kebab by Real Good",
+    "image": "https://example.com/images/chicken-seekh-kebab-real-good.png",
     "prices": {
-      "zepto": 139,
-      "instamart": 141,
-      "blinkit": 141,
-      "jiomart": 137
+      "zepto": 284,
+      "instamart": 281,
+      "blinkit": 283,
+      "jiomart": 289
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582731"
   },
   {
     "name": "Chicken Seekh Kebab",
-    "brand": "Venky's",
-    "category": "Frozen Foods",
-    "description": "Chicken Seekh Kebab by Venky's, delicious and ready to cook.",
-    "image": "https://example.com/images/chicken_seekh_kebab_venky's.jpg",
-    "prices": {
-      "zepto": 93,
-      "instamart": 91,
-      "blinkit": 91,
-      "jiomart": 94
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Chicken Seekh Kebab",
-    "brand": "Zorabian",
-    "category": "Frozen Foods",
-    "description": "Chicken Seekh Kebab by Zorabian, delicious and ready to cook.",
-    "image": "https://example.com/images/chicken_seekh_kebab_zorabian.jpg",
-    "prices": {
-      "zepto": 118,
-      "instamart": 119,
-      "blinkit": 117,
-      "jiomart": 120
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Chicken Seekh Kebab",
-    "brand": "Freshezy",
-    "category": "Frozen Foods",
-    "description": "Chicken Seekh Kebab by Freshezy, delicious and ready to cook.",
-    "image": "https://example.com/images/chicken_seekh_kebab_freshezy.jpg",
-    "prices": {
-      "zepto": 104,
-      "instamart": 103,
-      "blinkit": 106,
-      "jiomart": 102
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Hakka Noodles",
-    "brand": "Ching's",
-    "category": "Frozen Foods",
-    "description": "Hakka Noodles by Ching's, delicious and ready to cook.",
-    "image": "https://example.com/images/hakka_noodles_ching's.jpg",
-    "prices": {
-      "zepto": 140,
-      "instamart": 138,
-      "blinkit": 137,
-      "jiomart": 138
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Hakka Noodles",
-    "brand": "Smith & Jones",
-    "category": "Frozen Foods",
-    "description": "Hakka Noodles by Smith & Jones, delicious and ready to cook.",
-    "image": "https://example.com/images/hakka_noodles_smith_&_jones.jpg",
-    "prices": {
-      "zepto": 141,
-      "instamart": 144,
-      "blinkit": 144,
-      "jiomart": 138
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Hakka Noodles",
-    "brand": "Maggi",
-    "category": "Frozen Foods",
-    "description": "Hakka Noodles by Maggi, delicious and ready to cook.",
-    "image": "https://example.com/images/hakka_noodles_maggi.jpg",
-    "prices": {
-      "zepto": 111,
-      "instamart": 114,
-      "blinkit": 109,
-      "jiomart": 111
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Hakka Noodles",
-    "brand": "Top Ramen",
-    "category": "Frozen Foods",
-    "description": "Hakka Noodles by Top Ramen, delicious and ready to cook.",
-    "image": "https://example.com/images/hakka_noodles_top_ramen.jpg",
-    "prices": {
-      "zepto": 145,
-      "instamart": 143,
-      "blinkit": 143,
-      "jiomart": 145
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Hakka Noodles",
-    "brand": "Sunfeast Yippee",
-    "category": "Frozen Foods",
-    "description": "Hakka Noodles by Sunfeast Yippee, delicious and ready to cook.",
-    "image": "https://example.com/images/hakka_noodles_sunfeast_yippee.jpg",
-    "prices": {
-      "zepto": 133,
-      "instamart": 130,
-      "blinkit": 133,
-      "jiomart": 136
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Momo Pack",
-    "brand": "Prasuma",
-    "category": "Frozen Foods",
-    "description": "Momo Pack by Prasuma, delicious and ready to cook.",
-    "image": "https://example.com/images/momo_pack_prasuma.jpg",
-    "prices": {
-      "zepto": 93,
-      "instamart": 92,
-      "blinkit": 90,
-      "jiomart": 91
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Momo Pack",
-    "brand": "Freshezy",
-    "category": "Frozen Foods",
-    "description": "Momo Pack by Freshezy, delicious and ready to cook.",
-    "image": "https://example.com/images/momo_pack_freshezy.jpg",
-    "prices": {
-      "zepto": 104,
-      "instamart": 105,
-      "blinkit": 107,
-      "jiomart": 105
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Momo Pack",
     "brand": "Everest",
     "category": "Frozen Foods",
-    "description": "Momo Pack by Everest, delicious and ready to cook.",
-    "image": "https://example.com/images/momo_pack_everest.jpg",
+    "description": "Chicken Seekh Kebab by Everest",
+    "image": "https://example.com/images/chicken-seekh-kebab-everest.png",
     "prices": {
-      "zepto": 137,
+      "zepto": 94,
+      "instamart": 89,
+      "blinkit": 95,
+      "jiomart": 99
+    },
+    "updatedAt": "2025-05-21T06:55:16.582736"
+  },
+  {
+    "name": "Chicken Seekh Kebab",
+    "brand": "Amul",
+    "category": "Frozen Foods",
+    "description": "Chicken Seekh Kebab by Amul",
+    "image": "https://example.com/images/chicken-seekh-kebab-amul.png",
+    "prices": {
+      "zepto": 101,
+      "instamart": 104,
+      "blinkit": 100,
+      "jiomart": 99
+    },
+    "updatedAt": "2025-05-21T06:55:16.582743"
+  },
+  {
+    "name": "Chicken Seekh Kebab",
+    "brand": "McCain",
+    "category": "Frozen Foods",
+    "description": "Chicken Seekh Kebab by McCain",
+    "image": "https://example.com/images/chicken-seekh-kebab-mccain.png",
+    "prices": {
+      "zepto": 135,
       "instamart": 136,
-      "blinkit": 136,
-      "jiomart": 139
+      "blinkit": 130,
+      "jiomart": 131
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582751"
+  },
+  {
+    "name": "Hakka Noodles",
+    "brand": "Safal",
+    "category": "Frozen Foods",
+    "description": "Hakka Noodles by Safal",
+    "image": "https://example.com/images/hakka-noodles-safal.png",
+    "prices": {
+      "zepto": 261,
+      "instamart": 259,
+      "blinkit": 263,
+      "jiomart": 263
+    },
+    "updatedAt": "2025-05-21T06:55:16.582765"
+  },
+  {
+    "name": "Hakka Noodles",
+    "brand": "McCain",
+    "category": "Frozen Foods",
+    "description": "Hakka Noodles by McCain",
+    "image": "https://example.com/images/hakka-noodles-mccain.png",
+    "prices": {
+      "zepto": 148,
+      "instamart": 149,
+      "blinkit": 147,
+      "jiomart": 147
+    },
+    "updatedAt": "2025-05-21T06:55:16.582774"
+  },
+  {
+    "name": "Hakka Noodles",
+    "brand": "Amul",
+    "category": "Frozen Foods",
+    "description": "Hakka Noodles by Amul",
+    "image": "https://example.com/images/hakka-noodles-amul.png",
+    "prices": {
+      "zepto": 292,
+      "instamart": 294,
+      "blinkit": 296,
+      "jiomart": 289
+    },
+    "updatedAt": "2025-05-21T06:55:16.582779"
+  },
+  {
+    "name": "Hakka Noodles",
+    "brand": "Nestle",
+    "category": "Frozen Foods",
+    "description": "Hakka Noodles by Nestle",
+    "image": "https://example.com/images/hakka-noodles-nestle.png",
+    "prices": {
+      "zepto": 275,
+      "instamart": 270,
+      "blinkit": 272,
+      "jiomart": 277
+    },
+    "updatedAt": "2025-05-21T06:55:16.582784"
+  },
+  {
+    "name": "Hakka Noodles",
+    "brand": "Godrej",
+    "category": "Frozen Foods",
+    "description": "Hakka Noodles by Godrej",
+    "image": "https://example.com/images/hakka-noodles-godrej.png",
+    "prices": {
+      "zepto": 276,
+      "instamart": 274,
+      "blinkit": 281,
+      "jiomart": 277
+    },
+    "updatedAt": "2025-05-21T06:55:16.582789"
   },
   {
     "name": "Momo Pack",
-    "brand": "WOW! Momo",
+    "brand": "Safal",
     "category": "Frozen Foods",
-    "description": "Momo Pack by WOW! Momo, delicious and ready to cook.",
-    "image": "https://example.com/images/momo_pack_wow!_momo.jpg",
+    "description": "Momo Pack by Safal",
+    "image": "https://example.com/images/momo-pack-safal.png",
     "prices": {
-      "zepto": 103,
-      "instamart": 100,
-      "blinkit": 104,
-      "jiomart": 103
+      "zepto": 86,
+      "instamart": 85,
+      "blinkit": 83,
+      "jiomart": 91
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582797"
   },
   {
     "name": "Momo Pack",
-    "brand": "ITC Master Chef",
+    "brand": "Nestle",
     "category": "Frozen Foods",
-    "description": "Momo Pack by ITC Master Chef, delicious and ready to cook.",
-    "image": "https://example.com/images/momo_pack_itc_master_chef.jpg",
+    "description": "Momo Pack by Nestle",
+    "image": "https://example.com/images/momo-pack-nestle.png",
     "prices": {
-      "zepto": 111,
-      "instamart": 112,
-      "blinkit": 113,
-      "jiomart": 113
+      "zepto": 94,
+      "instamart": 89,
+      "blinkit": 91,
+      "jiomart": 99
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582802"
+  },
+  {
+    "name": "Momo Pack",
+    "brand": "Amul",
+    "category": "Frozen Foods",
+    "description": "Momo Pack by Amul",
+    "image": "https://example.com/images/momo-pack-amul.png",
+    "prices": {
+      "zepto": 182,
+      "instamart": 185,
+      "blinkit": 183,
+      "jiomart": 181
+    },
+    "updatedAt": "2025-05-21T06:55:16.582807"
+  },
+  {
+    "name": "Momo Pack",
+    "brand": "Yummiez",
+    "category": "Frozen Foods",
+    "description": "Momo Pack by Yummiez",
+    "image": "https://example.com/images/momo-pack-yummiez.png",
+    "prices": {
+      "zepto": 117,
+      "instamart": 122,
+      "blinkit": 118,
+      "jiomart": 115
+    },
+    "updatedAt": "2025-05-21T06:55:16.582812"
+  },
+  {
+    "name": "Momo Pack",
+    "brand": "Haldiram",
+    "category": "Frozen Foods",
+    "description": "Momo Pack by Haldiram",
+    "image": "https://example.com/images/momo-pack-haldiram.png",
+    "prices": {
+      "zepto": 181,
+      "instamart": 186,
+      "blinkit": 182,
+      "jiomart": 179
+    },
+    "updatedAt": "2025-05-21T06:55:16.582817"
   },
   {
     "name": "Frozen Biryani",
-    "brand": "ITC Master Chef",
+    "brand": "McCain",
     "category": "Frozen Foods",
-    "description": "Frozen Biryani by ITC Master Chef, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_biryani_itc_master_chef.jpg",
+    "description": "Frozen Biryani by McCain",
+    "image": "https://example.com/images/frozen-biryani-mccain.png",
     "prices": {
-      "zepto": 123,
-      "instamart": 126,
-      "blinkit": 125,
-      "jiomart": 121
+      "zepto": 294,
+      "instamart": 299,
+      "blinkit": 294,
+      "jiomart": 292
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582825"
   },
   {
     "name": "Frozen Biryani",
-    "brand": "Freshezy",
+    "brand": "Real Good",
     "category": "Frozen Foods",
-    "description": "Frozen Biryani by Freshezy, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_biryani_freshezy.jpg",
+    "description": "Frozen Biryani by Real Good",
+    "image": "https://example.com/images/frozen-biryani-real-good.png",
     "prices": {
-      "zepto": 107,
-      "instamart": 109,
-      "blinkit": 107,
-      "jiomart": 109
+      "zepto": 235,
+      "instamart": 232,
+      "blinkit": 233,
+      "jiomart": 240
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582830"
   },
   {
     "name": "Frozen Biryani",
     "brand": "Amul",
     "category": "Frozen Foods",
-    "description": "Frozen Biryani by Amul, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_biryani_amul.jpg",
+    "description": "Frozen Biryani by Amul",
+    "image": "https://example.com/images/frozen-biryani-amul.png",
     "prices": {
-      "zepto": 147,
-      "instamart": 148,
-      "blinkit": 146,
-      "jiomart": 147
+      "zepto": 200,
+      "instamart": 195,
+      "blinkit": 200,
+      "jiomart": 205
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582835"
   },
   {
     "name": "Frozen Biryani",
-    "brand": "Del Monte",
+    "brand": "Godrej",
     "category": "Frozen Foods",
-    "description": "Frozen Biryani by Del Monte, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_biryani_del_monte.jpg",
+    "description": "Frozen Biryani by Godrej",
+    "image": "https://example.com/images/frozen-biryani-godrej.png",
     "prices": {
-      "zepto": 91,
-      "instamart": 90,
-      "blinkit": 93,
-      "jiomart": 90
+      "zepto": 279,
+      "instamart": 277,
+      "blinkit": 279,
+      "jiomart": 279
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582843"
   },
   {
     "name": "Frozen Biryani",
-    "brand": "Kitchen of India",
+    "brand": "ITC Master Chef",
     "category": "Frozen Foods",
-    "description": "Frozen Biryani by Kitchen of India, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_biryani_kitchen_of_india.jpg",
+    "description": "Frozen Biryani by ITC Master Chef",
+    "image": "https://example.com/images/frozen-biryani-itc-master-chef.png",
     "prices": {
-      "zepto": 93,
-      "instamart": 96,
-      "blinkit": 91,
-      "jiomart": 92
+      "zepto": 179,
+      "instamart": 180,
+      "blinkit": 178,
+      "jiomart": 183
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582852"
   },
   {
     "name": "Malai Tikka",
-    "brand": "Godrej Yummiez",
+    "brand": "Yummiez",
     "category": "Frozen Foods",
-    "description": "Malai Tikka by Godrej Yummiez, delicious and ready to cook.",
-    "image": "https://example.com/images/malai_tikka_godrej_yummiez.jpg",
+    "description": "Malai Tikka by Yummiez",
+    "image": "https://example.com/images/malai-tikka-yummiez.png",
     "prices": {
-      "zepto": 90,
-      "instamart": 91,
-      "blinkit": 91,
-      "jiomart": 89
+      "zepto": 287,
+      "instamart": 288,
+      "blinkit": 291,
+      "jiomart": 290
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582864"
   },
   {
     "name": "Malai Tikka",
-    "brand": "Vezlay",
+    "brand": "McCain",
     "category": "Frozen Foods",
-    "description": "Malai Tikka by Vezlay, delicious and ready to cook.",
-    "image": "https://example.com/images/malai_tikka_vezlay.jpg",
+    "description": "Malai Tikka by McCain",
+    "image": "https://example.com/images/malai-tikka-mccain.png",
     "prices": {
-      "zepto": 137,
-      "instamart": 135,
-      "blinkit": 136,
-      "jiomart": 137
+      "zepto": 122,
+      "instamart": 121,
+      "blinkit": 126,
+      "jiomart": 124
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582877"
   },
   {
     "name": "Malai Tikka",
-    "brand": "Meatzza",
+    "brand": "ITC Master Chef",
     "category": "Frozen Foods",
-    "description": "Malai Tikka by Meatzza, delicious and ready to cook.",
-    "image": "https://example.com/images/malai_tikka_meatzza.jpg",
+    "description": "Malai Tikka by ITC Master Chef",
+    "image": "https://example.com/images/malai-tikka-itc-master-chef.png",
+    "prices": {
+      "zepto": 164,
+      "instamart": 169,
+      "blinkit": 160,
+      "jiomart": 160
+    },
+    "updatedAt": "2025-05-21T06:55:16.582883"
+  },
+  {
+    "name": "Malai Tikka",
+    "brand": "Everest",
+    "category": "Frozen Foods",
+    "description": "Malai Tikka by Everest",
+    "image": "https://example.com/images/malai-tikka-everest.png",
     "prices": {
       "zepto": 111,
-      "instamart": 112,
+      "instamart": 110,
       "blinkit": 109,
       "jiomart": 108
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582888"
   },
   {
     "name": "Malai Tikka",
-    "brand": "Zorabian",
+    "brand": "Real Good",
     "category": "Frozen Foods",
-    "description": "Malai Tikka by Zorabian, delicious and ready to cook.",
-    "image": "https://example.com/images/malai_tikka_zorabian.jpg",
+    "description": "Malai Tikka by Real Good",
+    "image": "https://example.com/images/malai-tikka-real-good.png",
     "prices": {
-      "zepto": 115,
-      "instamart": 112,
-      "blinkit": 113,
-      "jiomart": 117
+      "zepto": 97,
+      "instamart": 94,
+      "blinkit": 97,
+      "jiomart": 98
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Malai Tikka",
-    "brand": "Freshezy",
-    "category": "Frozen Foods",
-    "description": "Malai Tikka by Freshezy, delicious and ready to cook.",
-    "image": "https://example.com/images/malai_tikka_freshezy.jpg",
-    "prices": {
-      "zepto": 126,
-      "instamart": 128,
-      "blinkit": 128,
-      "jiomart": 124
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582893"
   },
   {
     "name": "Veg Cutlet",
-    "brand": "McCain",
+    "brand": "Haldiram",
     "category": "Frozen Foods",
-    "description": "Veg Cutlet by McCain, delicious and ready to cook.",
-    "image": "https://example.com/images/veg_cutlet_mccain.jpg",
+    "description": "Veg Cutlet by Haldiram",
+    "image": "https://example.com/images/veg-cutlet-haldiram.png",
     "prices": {
-      "zepto": 107,
-      "instamart": 106,
-      "blinkit": 108,
-      "jiomart": 106
+      "zepto": 234,
+      "instamart": 230,
+      "blinkit": 237,
+      "jiomart": 236
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582902"
   },
   {
     "name": "Veg Cutlet",
-    "brand": "ITC Master Chef",
+    "brand": "Safal",
     "category": "Frozen Foods",
-    "description": "Veg Cutlet by ITC Master Chef, delicious and ready to cook.",
-    "image": "https://example.com/images/veg_cutlet_itc_master_chef.jpg",
+    "description": "Veg Cutlet by Safal",
+    "image": "https://example.com/images/veg-cutlet-safal.png",
     "prices": {
-      "zepto": 134,
-      "instamart": 131,
-      "blinkit": 132,
-      "jiomart": 135
+      "zepto": 176,
+      "instamart": 171,
+      "blinkit": 178,
+      "jiomart": 173
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582907"
   },
   {
     "name": "Veg Cutlet",
-    "brand": "Godrej Yummiez",
+    "brand": "Godrej",
     "category": "Frozen Foods",
-    "description": "Veg Cutlet by Godrej Yummiez, delicious and ready to cook.",
-    "image": "https://example.com/images/veg_cutlet_godrej_yummiez.jpg",
+    "description": "Veg Cutlet by Godrej",
+    "image": "https://example.com/images/veg-cutlet-godrej.png",
     "prices": {
-      "zepto": 109,
-      "instamart": 110,
-      "blinkit": 111,
-      "jiomart": 109
+      "zepto": 96,
+      "instamart": 98,
+      "blinkit": 100,
+      "jiomart": 101
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582912"
   },
   {
     "name": "Veg Cutlet",
-    "brand": "Freshezy",
+    "brand": "Amul",
     "category": "Frozen Foods",
-    "description": "Veg Cutlet by Freshezy, delicious and ready to cook.",
-    "image": "https://example.com/images/veg_cutlet_freshezy.jpg",
+    "description": "Veg Cutlet by Amul",
+    "image": "https://example.com/images/veg-cutlet-amul.png",
     "prices": {
-      "zepto": 108,
-      "instamart": 111,
-      "blinkit": 108,
-      "jiomart": 105
+      "zepto": 155,
+      "instamart": 156,
+      "blinkit": 156,
+      "jiomart": 150
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582920"
   },
   {
     "name": "Veg Cutlet",
-    "brand": "Everest",
+    "brand": "Real Good",
     "category": "Frozen Foods",
-    "description": "Veg Cutlet by Everest, delicious and ready to cook.",
-    "image": "https://example.com/images/veg_cutlet_everest.jpg",
+    "description": "Veg Cutlet by Real Good",
+    "image": "https://example.com/images/veg-cutlet-real-good.png",
     "prices": {
-      "zepto": 117,
-      "instamart": 118,
-      "blinkit": 115,
-      "jiomart": 115
+      "zepto": 268,
+      "instamart": 264,
+      "blinkit": 272,
+      "jiomart": 265
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582929"
   },
   {
     "name": "Frozen Pasta",
-    "brand": "Del Monte",
+    "brand": "Godrej",
     "category": "Frozen Foods",
-    "description": "Frozen Pasta by Del Monte, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_pasta_del_monte.jpg",
+    "description": "Frozen Pasta by Godrej",
+    "image": "https://example.com/images/frozen-pasta-godrej.png",
     "prices": {
-      "zepto": 135,
-      "instamart": 134,
-      "blinkit": 134,
-      "jiomart": 133
+      "zepto": 133,
+      "instamart": 128,
+      "blinkit": 132,
+      "jiomart": 131
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582942"
+  },
+  {
+    "name": "Frozen Pasta",
+    "brand": "Yummiez",
+    "category": "Frozen Foods",
+    "description": "Frozen Pasta by Yummiez",
+    "image": "https://example.com/images/frozen-pasta-yummiez.png",
+    "prices": {
+      "zepto": 247,
+      "instamart": 244,
+      "blinkit": 250,
+      "jiomart": 252
+    },
+    "updatedAt": "2025-05-21T06:55:16.582951"
   },
   {
     "name": "Frozen Pasta",
     "brand": "Amul",
     "category": "Frozen Foods",
-    "description": "Frozen Pasta by Amul, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_pasta_amul.jpg",
+    "description": "Frozen Pasta by Amul",
+    "image": "https://example.com/images/frozen-pasta-amul.png",
     "prices": {
-      "zepto": 137,
-      "instamart": 140,
-      "blinkit": 140,
-      "jiomart": 140
+      "zepto": 285,
+      "instamart": 286,
+      "blinkit": 280,
+      "jiomart": 287
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582960"
   },
   {
     "name": "Frozen Pasta",
-    "brand": "ITC Master Chef",
+    "brand": "McCain",
     "category": "Frozen Foods",
-    "description": "Frozen Pasta by ITC Master Chef, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_pasta_itc_master_chef.jpg",
+    "description": "Frozen Pasta by McCain",
+    "image": "https://example.com/images/frozen-pasta-mccain.png",
     "prices": {
-      "zepto": 100,
-      "instamart": 98,
-      "blinkit": 97,
-      "jiomart": 103
+      "zepto": 200,
+      "instamart": 201,
+      "blinkit": 196,
+      "jiomart": 199
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582968"
   },
   {
     "name": "Frozen Pasta",
-    "brand": "Sumeru",
+    "brand": "Nestle",
     "category": "Frozen Foods",
-    "description": "Frozen Pasta by Sumeru, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_pasta_sumeru.jpg",
+    "description": "Frozen Pasta by Nestle",
+    "image": "https://example.com/images/frozen-pasta-nestle.png",
     "prices": {
-      "zepto": 116,
-      "instamart": 115,
-      "blinkit": 117,
-      "jiomart": 118
+      "zepto": 202,
+      "instamart": 205,
+      "blinkit": 207,
+      "jiomart": 203
     },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
-  },
-  {
-    "name": "Frozen Pasta",
-    "brand": "Maggi",
-    "category": "Frozen Foods",
-    "description": "Frozen Pasta by Maggi, delicious and ready to cook.",
-    "image": "https://example.com/images/frozen_pasta_maggi.jpg",
-    "prices": {
-      "zepto": 94,
-      "instamart": 97,
-      "blinkit": 92,
-      "jiomart": 91
-    },
-    "updatedAt": "2025-05-20T19:30:31.086433Z"
+    "updatedAt": "2025-05-21T06:55:16.582980"
   }
 ]

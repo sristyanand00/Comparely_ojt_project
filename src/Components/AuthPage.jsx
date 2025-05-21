@@ -3,7 +3,7 @@ import './AuthPage.css';
 import '@fortawesome/fontawesome-free/css/all.min.css';
 import { createUserWithEmailAndPassword, signInWithEmailAndPassword, updateProfile } from 'firebase/auth';
 import { auth } from "../firebase";
-import { useNavigate, useLocation } from 'react-router-dom';
+import { useNavigate, useLocation, Link } from 'react-router-dom';
 
 const AuthPage = () => {
   const [isActive, setIsActive] = useState(false); // false = Sign In, true = Sign Up
@@ -105,6 +105,17 @@ const AuthPage = () => {
         </form>
       </div>
 
+      {/* Switch Links */}
+      <div style={{ textAlign: 'center', marginTop: 16 }}>
+        <span>
+          {isActive ? (
+            <>Already have an account? <Link to="/auth?mode=signin">Sign In</Link></>
+          ) : (
+            <>Don't have an account? <Link to="/auth?mode=signup">Sign Up</Link></>
+          )}
+        </span>
+      </div>
+
       {/* Toggle Panel */}
       <div className="toggle-container">
         <div className="toggle">
@@ -125,4 +136,3 @@ const AuthPage = () => {
 };
 
 export default AuthPage;
-// ...existing code...
