@@ -2,12 +2,15 @@ import React, { useState } from "react";
 import "./ComparelyDashboard.css";
 import { useNavigate } from "react-router-dom";
 import FrozenFoodImg from '../assets/FrozenFood.jpeg';
-// ...other imports...
+import DairyBreadsEggs from '../assets/dairy,eggs,milk.jpeg';
+//import FruitsVegetables from '../assets/fruits&vegetables.jpeg';
+
+
 
 const bigCategories = [
   { name: "Frozen Foods", image: FrozenFoodImg },
-  { name: "Dairy, Bread & Eggs", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/2b2e2e1c-2e2e-4e2e-8e2e-2b2e2e1c2e2e.png" },
-  { name: "Fruits & Vegetables", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/3b2e2e1c-2e2e-4e2e-8e2e-3b2e2e1c2e2e.png" },
+  { name: "Dairy, Bread & Eggs", image: DairyBreadsEggs },
+  //{ name: "Fruits & Vegetables", image: FruitsVegetables },
   { name: "Cold Drinks & Juices", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/4b2e2e1c-2e2e-4e2e-8e2e-4b2e2e1c2e2e.png" },
   { name: "Snacks & Munchies", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/5b2e2e1c-2e2e-4e2e-8e2e-5b2e2e1c2e2e.png" },
   { name: "Breakfast & Instant Food", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/6b2e2e1c-2e2e-4e2e-8e2e-6b2e2e1c2e2e.png" },
@@ -84,7 +87,6 @@ export default function ComparelyDashboard() {
             onChange={e => setSearch(e.target.value)}
           />
         </form>
-        // ...existing code...
 <div className="navbar-actions">
   <span
     className="navbar-profile"
