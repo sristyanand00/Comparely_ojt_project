@@ -1,27 +1,24 @@
 .landing-container {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  max-width: 1200px;
+  max-width: 1500px;
   margin: 0 auto;
-  padding: 20px;
+  padding: 320px;
   color: #0f0101;
 }
 .top-bar {
-  height: 60px; /* ya jo bhi aapko suitable lage */
-  background-color: none; /* ensure color hai */
+  height: 60px;
+  background-color: none;
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: 0 20px;
-  position: fixed; /* ya sticky agar chahiye */
+  position: fixed;
   top: 0;
   left: 0;
   right: 0;
-  z-index: 1000; /* ensure wo upar dikh raha hai */
+  z-index: 1000;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
-
-
-
 .logo {
   font-size: 28px;
   font-weight: bold;
@@ -30,49 +27,39 @@
   align-items: center;
   gap: 8px;
 }
-
 .icons {
   display: flex;
   gap: 24px;
 }
-
 .icon {
   font-size: 24px;
   cursor: pointer;
   transition: transform 0.2s ease;
 }
-
 .icon:hover {
   transform: scale(1.1);
 }
-
-
 .heading {
   text-align: center;
-  margin-top: 400px;
+  margin-top: 2700px;
 }
-
 .heading h1 {
   font-size: 36px;
   margin-bottom: 10px;
 }
-
 .highlight {
   color: #4CAF50;
 }
-
 .heading p {
   font-size: 16px;
   color: #f2ebeb;
   line-height: 1.5;
 }
-
 .search-bar {
   margin: 30px auto;
   display: flex;
   justify-content: center;
 }
-
 .search-bar input {
   width: 60%;
   padding: 12px 16px;
@@ -81,7 +68,6 @@
   border-radius: 8px;
   outline: none;
 }
-
 .platforms {
   display: flex;
   align-items: center;
@@ -90,12 +76,10 @@
   flex-wrap: wrap;
   justify-content: center;
 }
-
 .platforms .label {
   font-weight: 500;
   color: #333;
 }
-
 .platforms button {
   background: #f0f0f0;
   border: none;
@@ -104,15 +88,44 @@
   cursor: pointer;
   font-weight: 500;
 }
-
 .platforms .active {
   background-color: #4CAF50;
   color: white;
 }
-
 .categories {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
   gap: 20px;
   margin-top: 30px;
+}
+.best-deals-section {
+  margin: 32px 0;
+  padding: 0 24px;
+}
+.best-deals-row {
+  display: flex;
+  gap: 16px;
+  overflow-x: auto;
+}
+.deal-card {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px #0001;
+  padding: 12px;
+  min-width: 120px;
+  text-align: center;
+  transition: box-shadow 0.2s;
+}
+.deal-card:hover {
+  box-shadow: 0 4px 16px #0002;
+}
+/* Add for category sections */
+.category-section {
+  margin: 32px 0;
+  padding: 0 24px;
+}
+.category-products-row {
+  display: flex;
+  gap: 16px;
+  overflow-x: auto;
 }
