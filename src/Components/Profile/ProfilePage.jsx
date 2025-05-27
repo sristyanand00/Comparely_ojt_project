@@ -1,12 +1,24 @@
 import React from "react";
-import "./ProfilePage.css"; // Create this CSS file for styling if needed
+import "./ProfilePage.css";
+import { getAuth, signOut } from "firebase/auth";
+import { useNavigate } from "react-router-dom";
 
 export default function ProfilePage() {
-  // Dummy user data, replace with real data as needed
   const user = {
     name: "Sristy",
     phone: "+91 8252613100",
-    avatar: "", // You can use a profile image URL here
+    avatar: "",
+  };
+
+  const navigate = useNavigate();
+
+  const handleLogout = async () => {
+    try {
+      await signOut(getAuth());
+      navigate("/"); // Redirect to landing page
+    } catch (error) {
+      alert("Logout failed: " + error.message);
+    }
   };
 
   return (
@@ -39,7 +51,7 @@ export default function ProfilePage() {
         </ul>
       </div>
 
-      <button className="logout-btn">Log Out</button>
+      <button className="logout-btn" onClick={handleLogout}>Log Out</button>
     </div>
   );
 }

@@ -11,7 +11,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-direction: column;
   height: 100vh;
 }
 
@@ -39,10 +38,9 @@ body {
   flex-direction: column;
   background-color: #fff;
   transition: all 0.6s ease-in-out;
-  box-sizing: border-box;
 }
 
-/* Sign In form on left by default */
+/* Sign In shown by default */
 .sign-in {
   left: 0;
   z-index: 2;
@@ -50,40 +48,31 @@ body {
   pointer-events: auto;
 }
 
-/* Sign Up form on left by default but hidden */
+/* Sign Up hidden by default */
 .sign-up {
   left: 0;
-  opacity: 0;
   z-index: 1;
+  opacity: 0;
   pointer-events: none;
-  transform: translateX(0);
 }
 
-/* When active = true (sign up active) */
+/* When container is active - toggle to Sign Up */
 .container.active .sign-in {
   transform: translateX(100%);
-
+  z-index: 1;
+  opacity: 0;
+  pointer-events: none;
 }
 
 .container.active .sign-up {
   transform: translateX(100%);
-
+  z-index: 2;
+  opacity: 1;
+  pointer-events: auto;
 }
 
-
-@keyframes move {
-  0% {
-    opacity: 0;
-    transform: translateX(0);
-  }
-  100% {
-    opacity: 1;
-    transform: translateX(100%);
-  }
-}
-
-/* Inputs & buttons */
-.container input {
+/* Inputs & Buttons */
+input {
   background-color: #eee;
   border: none;
   color: #333;
@@ -95,7 +84,7 @@ body {
   outline: none;
 }
 
-.container button {
+button {
   background-color: #512da8;
   color: #fff;
   font-size: 12px;
@@ -107,6 +96,11 @@ body {
   text-transform: uppercase;
   margin-top: 10px;
   cursor: pointer;
+}
+
+button.ghost {
+  background-color: transparent;
+  border: 2px solid #fff;
 }
 
 /* Toggle Panel */
@@ -171,15 +165,4 @@ body {
 
 .container.active .toggle-right {
   transform: translateX(200%);
-}
-
-/* Optional */
-.blur-overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  backdrop-filter: blur(10px);
-  z-index: 0;
 }

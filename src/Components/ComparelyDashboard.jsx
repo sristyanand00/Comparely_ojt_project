@@ -1,13 +1,14 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import "./ComparelyDashboard.css";
 import { useNavigate } from "react-router-dom";
 import FrozenFoodImg from '../assets/FrozenFood.jpeg';
-// ...other imports...
+import DairyBreadsEggs from '../assets/dairy,eggs,milk.jpeg';
+// import FruitsVegetables from '../assets/fruits&vegetables.jpeg';
 
 const bigCategories = [
   { name: "Frozen Foods", image: FrozenFoodImg },
-  { name: "Dairy, Bread & Eggs", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/2b2e2e1c-2e2e-4e2e-8e2e-2b2e2e1c2e2e.png" },
-  { name: "Fruits & Vegetables", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/3b2e2e1c-2e2e-4e2e-8e2e-3b2e2e1c2e2e.png" },
+  { name: "Dairy, Bread & Eggs", image: DairyBreadsEggs },
+  // { name: "Fruits & Vegetables", image: FruitsVegetables },
   { name: "Cold Drinks & Juices", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/4b2e2e1c-2e2e-4e2e-8e2e-4b2e2e1c2e2e.png" },
   { name: "Snacks & Munchies", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/5b2e2e1c-2e2e-4e2e-8e2e-5b2e2e1c2e2e.png" },
   { name: "Breakfast & Instant Food", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/6b2e2e1c-2e2e-4e2e-8e2e-6b2e2e1c2e2e.png" },
@@ -35,12 +36,6 @@ const navCategories = [
   { name: "Pets", icon: "🐶" }
 ];
 
-const bestDeals = Array.from({ length: 20 }, (_, i) => ({
-  name: `Deal Product ${i + 1}`,
-  price: (Math.random() * 1000 + 50).toFixed(0),
-  image: `https://picsum.photos/seed/bestdeal${i}/120/120`
-}));
-
 const allCategories = [
   ...navCategories.slice(0, 6),
   ...navCategories.slice(6, 12)
@@ -63,6 +58,16 @@ const popularSearches = Array.from({ length: 15 }, (_, i) => ({
 export default function ComparelyDashboard() {
   const navigate = useNavigate();
   const [search, setSearch] = useState("");
+  const [products, setProducts] = useState([]);
+
+  useEffect(() => {
+    fetch("/data/products.json")
+      .then(res => res.json())
+      .then(data => setProducts(data))
+      .catch(err => console.error("Failed to load products:", err));
+  }, []);
+
+  const bestDeals = products.slice(0, 20);
 
   const handleSearch = (e) => {
     e.preventDefault();
@@ -84,19 +89,17 @@ export default function ComparelyDashboard() {
             onChange={e => setSearch(e.target.value)}
           />
         </form>
-        // ...existing code...
-<div className="navbar-actions">
-  <span
-    className="navbar-profile"
-    title="Profile"
-    style={{ cursor: "pointer" }}
-    onClick={() => navigate("/profile")}
-  >
-    👤
-  </span>
-  <span className="navbar-cart" title="Cart">🛒</span>
-</div>
-// ...existing code...
+        <div className="navbar-actions">
+          <span
+            className="navbar-profile"
+            title="Profile"
+            style={{ cursor: "pointer" }}
+            onClick={() => navigate("/profile")}
+          >
+            👤
+          </span>
+          <span className="navbar-cart" title="Cart">🛒</span>
+        </div>
       </nav>
 
       {/* TRANSPARENT CATEGORY BAR */}
@@ -129,7 +132,7 @@ export default function ComparelyDashboard() {
         <div className="section-title">🔥 Best Deals</div>
         <div className="best-deals-row">
           {bestDeals.map((deal, idx) => (
-            <div className="mock-card best-deal-card" key={idx}>
+            <div className="mock-card best-deal-card" key={deal.id || idx}>
               <img src={deal.image} alt={deal.name} />
               <div className="mock-card-title">{deal.name}</div>
               <div className="mock-card-price">₹{deal.price}</div>
