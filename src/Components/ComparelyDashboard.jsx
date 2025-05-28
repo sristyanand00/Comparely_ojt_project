@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import "./ComparelyDashboard.css";
 import { useNavigate } from "react-router-dom";
-import FrozenFoodImg from '../assets/FrozenFood.jpeg';
+import FrozenFoodImg from '../assets/frozenfood.jpeg';
 import DairyBreadsEggs from '../assets/dairy,eggs,milk.jpeg';
 // import FruitsVegetables from '../assets/fruits&vegetables.jpeg';
 
