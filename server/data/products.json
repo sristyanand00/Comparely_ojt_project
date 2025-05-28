@@ -1,1332 +1,464 @@
 [
+
   {
-    "name": "Frozen French Fries",
-    "brand": "Safal",
-    "category": "Frozen Foods",
-    "description": "Frozen French Fries by Safal",
-    "image": "https://example.com/images/frozen-french-fries-safal.png",
-    "prices": {
-      "zepto": 125,
-      "instamart": 120,
-      "blinkit": 123,
-      "jiomart": 120
-    },
-    "updatedAt": "2025-05-21T06:55:16.582239"
-  },
-  {
-    "name": "Frozen French Fries",
-    "brand": "Haldiram",
-    "category": "Frozen Foods",
-    "description": "Frozen French Fries by Haldiram",
-    "image": "https://example.com/images/frozen-french-fries-haldiram.png",
-    "prices": {
-      "zepto": 262,
-      "instamart": 266,
-      "blinkit": 265,
-      "jiomart": 259
-    },
-    "updatedAt": "2025-05-21T06:55:16.582263"
-  },
-  {
-    "name": "Frozen French Fries",
-    "brand": "Godrej",
-    "category": "Frozen Foods",
-    "description": "Frozen French Fries by Godrej",
-    "image": "https://example.com/images/frozen-french-fries-godrej.png",
-    "prices": {
-      "zepto": 151,
-      "instamart": 147,
-      "blinkit": 149,
-      "jiomart": 154
-    },
-    "updatedAt": "2025-05-21T06:55:16.582280"
-  },
-  {
-    "name": "Frozen French Fries",
-    "brand": "ITC Master Chef",
-    "category": "Frozen Foods",
-    "description": "Frozen French Fries by ITC Master Chef",
-    "image": "https://example.com/images/frozen-french-fries-itc-master-chef.png",
-    "prices": {
-      "zepto": 222,
-      "instamart": 224,
-      "blinkit": 227,
-      "jiomart": 227
-    },
-    "updatedAt": "2025-05-21T06:55:16.582288"
-  },
-  {
-    "name": "Frozen French Fries",
-    "brand": "Yummiez",
-    "category": "Frozen Foods",
-    "description": "Frozen French Fries by Yummiez",
-    "image": "https://example.com/images/frozen-french-fries-yummiez.png",
-    "prices": {
-      "zepto": 242,
-      "instamart": 237,
-      "blinkit": 240,
-      "jiomart": 241
-    },
-    "updatedAt": "2025-05-21T06:55:16.582294"
-  },
-  {
-    "name": "Frozen Green Peas",
-    "brand": "Godrej",
-    "category": "Frozen Foods",
-    "description": "Frozen Green Peas by Godrej",
-    "image": "https://example.com/images/frozen-green-peas-godrej.png",
-    "prices": {
-      "zepto": 166,
-      "instamart": 167,
-      "blinkit": 170,
-      "jiomart": 162
-    },
-    "updatedAt": "2025-05-21T06:55:16.582313"
-  },
-  {
-    "name": "Frozen Green Peas",
+    "name": "Frozen Mixed Vegetables",
     "brand": "Nestle",
     "category": "Frozen Foods",
-    "description": "Frozen Green Peas by Nestle",
-    "image": "https://example.com/images/frozen-green-peas-nestle.png",
-    "prices": {
-      "zepto": 269,
-      "instamart": 272,
-      "blinkit": 267,
-      "jiomart": 273
-    },
-    "updatedAt": "2025-05-21T06:55:16.582325"
+    "description": "Mixed frozen veggies by Nestle",
+    "image": "https://example.com/images/frozen-mixed-veggies-nestle.png",
+    "prices": { "zepto": 150, "instamart": 155, "blinkit": 153, "jiomart": 152 }
   },
   {
-    "name": "Frozen Green Peas",
-    "brand": "McCain",
+    "name": "Frozen Mixed Vegetables",
+    "brand": "Birds Eye",
     "category": "Frozen Foods",
-    "description": "Frozen Green Peas by McCain",
-    "image": "https://example.com/images/frozen-green-peas-mccain.png",
-    "prices": {
-      "zepto": 109,
-      "instamart": 111,
-      "blinkit": 111,
-      "jiomart": 114
-    },
-    "updatedAt": "2025-05-21T06:55:16.582335"
+    "description": "Mixed frozen veggies by Birds Eye",
+    "image": "https://example.com/images/frozen-mixed-veggies-birds-eye.png",
+    "prices": { "zepto": 152, "instamart": 157, "blinkit": 155, "jiomart": 154 }
   },
   {
-    "name": "Frozen Green Peas",
+    "name": "Frozen Mixed Vegetables",
+    "brand": "Green Valley",
+    "category": "Frozen Foods",
+    "description": "Mixed frozen veggies by Green Valley",
+    "image": "https://example.com/images/frozen-mixed-veggies-green-valley.png",
+    "prices": { "zepto": 148, "instamart": 153, "blinkit": 151, "jiomart": 150 }
+  },
+  {
+    "name": "Frozen Mixed Vegetables",
+    "brand": "Garden Fresh",
+    "category": "Frozen Foods",
+    "description": "Mixed frozen veggies by Garden Fresh",
+    "image": "https://example.com/images/frozen-mixed-veggies-garden-fresh.png",
+    "prices": { "zepto": 149, "instamart": 154, "blinkit": 152, "jiomart": 151 }
+  },
+  {
+    "name": "Frozen Mixed Vegetables",
+    "brand": "Fresh Farms",
+    "category": "Frozen Foods",
+    "description": "Mixed frozen veggies by Fresh Farms",
+    "image": "https://example.com/images/frozen-mixed-veggies-fresh-farms.png",
+    "prices": { "zepto": 151, "instamart": 156, "blinkit": 154, "jiomart": 153 }
+  },
+
+
+  {
+    "name": "Farm Fresh Milk",
     "brand": "Amul",
-    "category": "Frozen Foods",
-    "description": "Frozen Green Peas by Amul",
-    "image": "https://example.com/images/frozen-green-peas-amul.png",
-    "prices": {
-      "zepto": 298,
-      "instamart": 297,
-      "blinkit": 297,
-      "jiomart": 300
-    },
-    "updatedAt": "2025-05-21T06:55:16.582343"
-  },
-  {
-    "name": "Frozen Green Peas",
-    "brand": "Real Good",
-    "category": "Frozen Foods",
-    "description": "Frozen Green Peas by Real Good",
-    "image": "https://example.com/images/frozen-green-peas-real-good.png",
-    "prices": {
-      "zepto": 204,
-      "instamart": 199,
-      "blinkit": 206,
-      "jiomart": 204
-    },
-    "updatedAt": "2025-05-21T06:55:16.582352"
-  },
-  {
-    "name": "Frozen Sweet Corn",
-    "brand": "McCain",
-    "category": "Frozen Foods",
-    "description": "Frozen Sweet Corn by McCain",
-    "image": "https://example.com/images/frozen-sweet-corn-mccain.png",
-    "prices": {
-      "zepto": 163,
-      "instamart": 164,
-      "blinkit": 167,
-      "jiomart": 161
-    },
-    "updatedAt": "2025-05-21T06:55:16.582371"
-  },
-  {
-    "name": "Frozen Sweet Corn",
-    "brand": "Amul",
-    "category": "Frozen Foods",
-    "description": "Frozen Sweet Corn by Amul",
-    "image": "https://example.com/images/frozen-sweet-corn-amul.png",
-    "prices": {
-      "zepto": 86,
-      "instamart": 86,
-      "blinkit": 84,
-      "jiomart": 86
-    },
-    "updatedAt": "2025-05-21T06:55:16.582386"
-  },
-  {
-    "name": "Frozen Sweet Corn",
-    "brand": "Godrej",
-    "category": "Frozen Foods",
-    "description": "Frozen Sweet Corn by Godrej",
-    "image": "https://example.com/images/frozen-sweet-corn-godrej.png",
-    "prices": {
-      "zepto": 272,
-      "instamart": 274,
-      "blinkit": 269,
-      "jiomart": 267
-    },
-    "updatedAt": "2025-05-21T06:55:16.582396"
-  },
-  {
-    "name": "Frozen Sweet Corn",
-    "brand": "Everest",
-    "category": "Frozen Foods",
-    "description": "Frozen Sweet Corn by Everest",
-    "image": "https://example.com/images/frozen-sweet-corn-everest.png",
-    "prices": {
-      "zepto": 162,
-      "instamart": 164,
-      "blinkit": 157,
-      "jiomart": 158
-    },
-    "updatedAt": "2025-05-21T06:55:16.582406"
-  },
-  {
-    "name": "Frozen Sweet Corn",
-    "brand": "Safal",
-    "category": "Frozen Foods",
-    "description": "Frozen Sweet Corn by Safal",
-    "image": "https://example.com/images/frozen-sweet-corn-safal.png",
-    "prices": {
-      "zepto": 115,
-      "instamart": 116,
-      "blinkit": 115,
-      "jiomart": 114
-    },
-    "updatedAt": "2025-05-21T06:55:16.582411"
-  },
-  {
-    "name": "Veggie Nuggets",
-    "brand": "ITC Master Chef",
-    "category": "Frozen Foods",
-    "description": "Veggie Nuggets by ITC Master Chef",
-    "image": "https://example.com/images/veggie-nuggets-itc-master-chef.png",
-    "prices": {
-      "zepto": 160,
-      "instamart": 158,
-      "blinkit": 161,
-      "jiomart": 162
-    },
-    "updatedAt": "2025-05-21T06:55:16.582421"
-  },
-  {
-    "name": "Veggie Nuggets",
-    "brand": "McCain",
-    "category": "Frozen Foods",
-    "description": "Veggie Nuggets by McCain",
-    "image": "https://example.com/images/veggie-nuggets-mccain.png",
-    "prices": {
-      "zepto": 101,
-      "instamart": 100,
-      "blinkit": 97,
-      "jiomart": 98
-    },
-    "updatedAt": "2025-05-21T06:55:16.582436"
-  },
-  {
-    "name": "Veggie Nuggets",
-    "brand": "Nestle",
-    "category": "Frozen Foods",
-    "description": "Veggie Nuggets by Nestle",
-    "image": "https://example.com/images/veggie-nuggets-nestle.png",
-    "prices": {
-      "zepto": 135,
-      "instamart": 136,
-      "blinkit": 132,
-      "jiomart": 135
-    },
-    "updatedAt": "2025-05-21T06:55:16.582441"
-  },
-  {
-    "name": "Veggie Nuggets",
-    "brand": "Yummiez",
-    "category": "Frozen Foods",
-    "description": "Veggie Nuggets by Yummiez",
-    "image": "https://example.com/images/veggie-nuggets-yummiez.png",
-    "prices": {
-      "zepto": 247,
-      "instamart": 246,
-      "blinkit": 243,
-      "jiomart": 244
-    },
-    "updatedAt": "2025-05-21T06:55:16.582446"
-  },
-  {
-    "name": "Veggie Nuggets",
-    "brand": "Everest",
-    "category": "Frozen Foods",
-    "description": "Veggie Nuggets by Everest",
-    "image": "https://example.com/images/veggie-nuggets-everest.png",
-    "prices": {
-      "zepto": 229,
-      "instamart": 231,
-      "blinkit": 233,
-      "jiomart": 232
-    },
-    "updatedAt": "2025-05-21T06:55:16.582451"
-  },
-  {
-    "name": "Chicken Nuggets",
-    "brand": "Real Good",
-    "category": "Frozen Foods",
-    "description": "Chicken Nuggets by Real Good",
-    "image": "https://example.com/images/chicken-nuggets-real-good.png",
-    "prices": {
-      "zepto": 155,
-      "instamart": 154,
-      "blinkit": 151,
-      "jiomart": 155
-    },
-    "updatedAt": "2025-05-21T06:55:16.582461"
-  },
-  {
-    "name": "Chicken Nuggets",
-    "brand": "Everest",
-    "category": "Frozen Foods",
-    "description": "Chicken Nuggets by Everest",
-    "image": "https://example.com/images/chicken-nuggets-everest.png",
-    "prices": {
-      "zepto": 278,
-      "instamart": 277,
-      "blinkit": 276,
-      "jiomart": 273
-    },
-    "updatedAt": "2025-05-21T06:55:16.582467"
-  },
-  {
-    "name": "Chicken Nuggets",
-    "brand": "Nestle",
-    "category": "Frozen Foods",
-    "description": "Chicken Nuggets by Nestle",
-    "image": "https://example.com/images/chicken-nuggets-nestle.png",
-    "prices": {
-      "zepto": 188,
-      "instamart": 185,
-      "blinkit": 188,
-      "jiomart": 186
-    },
-    "updatedAt": "2025-05-21T06:55:16.582474"
-  },
-  {
-    "name": "Chicken Nuggets",
-    "brand": "ITC Master Chef",
-    "category": "Frozen Foods",
-    "description": "Chicken Nuggets by ITC Master Chef",
-    "image": "https://example.com/images/chicken-nuggets-itc-master-chef.png",
-    "prices": {
-      "zepto": 189,
-      "instamart": 192,
-      "blinkit": 189,
-      "jiomart": 194
-    },
-    "updatedAt": "2025-05-21T06:55:16.582482"
-  },
-  {
-    "name": "Chicken Nuggets",
-    "brand": "Safal",
-    "category": "Frozen Foods",
-    "description": "Chicken Nuggets by Safal",
-    "image": "https://example.com/images/chicken-nuggets-safal.png",
-    "prices": {
-      "zepto": 87,
-      "instamart": 82,
-      "blinkit": 89,
-      "jiomart": 85
-    },
-    "updatedAt": "2025-05-21T06:55:16.582490"
-  },
-  {
-    "name": "Fish Fingers",
-    "brand": "Safal",
-    "category": "Frozen Foods",
-    "description": "Fish Fingers by Safal",
-    "image": "https://example.com/images/fish-fingers-safal.png",
-    "prices": {
-      "zepto": 98,
-      "instamart": 95,
-      "blinkit": 102,
-      "jiomart": 100
-    },
-    "updatedAt": "2025-05-21T06:55:16.582504"
-  },
-  {
-    "name": "Fish Fingers",
-    "brand": "Yummiez",
-    "category": "Frozen Foods",
-    "description": "Fish Fingers by Yummiez",
-    "image": "https://example.com/images/fish-fingers-yummiez.png",
-    "prices": {
-      "zepto": 117,
-      "instamart": 122,
-      "blinkit": 121,
-      "jiomart": 122
-    },
-    "updatedAt": "2025-05-21T06:55:16.582511"
-  },
-  {
-    "name": "Fish Fingers",
-    "brand": "ITC Master Chef",
-    "category": "Frozen Foods",
-    "description": "Fish Fingers by ITC Master Chef",
-    "image": "https://example.com/images/fish-fingers-itc-master-chef.png",
-    "prices": {
-      "zepto": 104,
-      "instamart": 108,
-      "blinkit": 105,
-      "jiomart": 103
-    },
-    "updatedAt": "2025-05-21T06:55:16.582516"
-  },
-  {
-    "name": "Fish Fingers",
-    "brand": "McCain",
-    "category": "Frozen Foods",
-    "description": "Fish Fingers by McCain",
-    "image": "https://example.com/images/fish-fingers-mccain.png",
-    "prices": {
-      "zepto": 163,
-      "instamart": 165,
-      "blinkit": 163,
-      "jiomart": 163
-    },
-    "updatedAt": "2025-05-21T06:55:16.582521"
-  },
-  {
-    "name": "Fish Fingers",
-    "brand": "Nestle",
-    "category": "Frozen Foods",
-    "description": "Fish Fingers by Nestle",
-    "image": "https://example.com/images/fish-fingers-nestle.png",
-    "prices": {
-      "zepto": 158,
-      "instamart": 154,
-      "blinkit": 158,
-      "jiomart": 154
-    },
-    "updatedAt": "2025-05-21T06:55:16.582526"
-  },
-  {
-    "name": "Frozen Paratha",
-    "brand": "Nestle",
-    "category": "Frozen Foods",
-    "description": "Frozen Paratha by Nestle",
-    "image": "https://example.com/images/frozen-paratha-nestle.png",
-    "prices": {
-      "zepto": 177,
-      "instamart": 173,
-      "blinkit": 175,
-      "jiomart": 181
-    },
-    "updatedAt": "2025-05-21T06:55:16.582535"
-  },
-  {
-    "name": "Frozen Paratha",
-    "brand": "Godrej",
-    "category": "Frozen Foods",
-    "description": "Frozen Paratha by Godrej",
-    "image": "https://example.com/images/frozen-paratha-godrej.png",
-    "prices": {
-      "zepto": 94,
-      "instamart": 89,
-      "blinkit": 96,
-      "jiomart": 91
-    },
-    "updatedAt": "2025-05-21T06:55:16.582540"
-  },
-  {
-    "name": "Frozen Paratha",
-    "brand": "Everest",
-    "category": "Frozen Foods",
-    "description": "Frozen Paratha by Everest",
-    "image": "https://example.com/images/frozen-paratha-everest.png",
-    "prices": {
-      "zepto": 99,
-      "instamart": 95,
-      "blinkit": 99,
-      "jiomart": 97
-    },
-    "updatedAt": "2025-05-21T06:55:16.582544"
-  },
-  {
-    "name": "Frozen Paratha",
-    "brand": "Amul",
-    "category": "Frozen Foods",
-    "description": "Frozen Paratha by Amul",
-    "image": "https://example.com/images/frozen-paratha-amul.png",
-    "prices": {
-      "zepto": 87,
-      "instamart": 88,
-      "blinkit": 92,
-      "jiomart": 82
-    },
-    "updatedAt": "2025-05-21T06:55:16.582549"
-  },
-  {
-    "name": "Frozen Paratha",
-    "brand": "McCain",
-    "category": "Frozen Foods",
-    "description": "Frozen Paratha by McCain",
-    "image": "https://example.com/images/frozen-paratha-mccain.png",
-    "prices": {
-      "zepto": 198,
-      "instamart": 201,
-      "blinkit": 203,
-      "jiomart": 203
-    },
-    "updatedAt": "2025-05-21T06:55:16.582557"
-  },
-  {
-    "name": "Frozen Samosa",
-    "brand": "ITC Master Chef",
-    "category": "Frozen Foods",
-    "description": "Frozen Samosa by ITC Master Chef",
-    "image": "https://example.com/images/frozen-samosa-itc-master-chef.png",
-    "prices": {
-      "zepto": 84,
-      "instamart": 83,
-      "blinkit": 87,
-      "jiomart": 83
-    },
-    "updatedAt": "2025-05-21T06:55:16.582566"
-  },
-  {
-    "name": "Frozen Samosa",
-    "brand": "Real Good",
-    "category": "Frozen Foods",
-    "description": "Frozen Samosa by Real Good",
-    "image": "https://example.com/images/frozen-samosa-real-good.png",
-    "prices": {
-      "zepto": 95,
-      "instamart": 97,
-      "blinkit": 93,
-      "jiomart": 96
-    },
-    "updatedAt": "2025-05-21T06:55:16.582571"
-  },
-  {
-    "name": "Frozen Samosa",
-    "brand": "Safal",
-    "category": "Frozen Foods",
-    "description": "Frozen Samosa by Safal",
-    "image": "https://example.com/images/frozen-samosa-safal.png",
-    "prices": {
-      "zepto": 123,
-      "instamart": 122,
-      "blinkit": 123,
-      "jiomart": 122
-    },
-    "updatedAt": "2025-05-21T06:55:16.582576"
-  },
-  {
-    "name": "Frozen Samosa",
-    "brand": "Godrej",
-    "category": "Frozen Foods",
-    "description": "Frozen Samosa by Godrej",
-    "image": "https://example.com/images/frozen-samosa-godrej.png",
-    "prices": {
-      "zepto": 214,
-      "instamart": 211,
-      "blinkit": 213,
-      "jiomart": 219
-    },
-    "updatedAt": "2025-05-21T06:55:16.582581"
-  },
-  {
-    "name": "Frozen Samosa",
-    "brand": "McCain",
-    "category": "Frozen Foods",
-    "description": "Frozen Samosa by McCain",
-    "image": "https://example.com/images/frozen-samosa-mccain.png",
-    "prices": {
-      "zepto": 286,
-      "instamart": 285,
-      "blinkit": 283,
-      "jiomart": 286
-    },
-    "updatedAt": "2025-05-21T06:55:16.582586"
-  },
-  {
-    "name": "Paneer Tikka",
-    "brand": "Everest",
-    "category": "Frozen Foods",
-    "description": "Paneer Tikka by Everest",
-    "image": "https://example.com/images/paneer-tikka-everest.png",
-    "prices": {
-      "zepto": 173,
-      "instamart": 168,
-      "blinkit": 173,
-      "jiomart": 168
-    },
-    "updatedAt": "2025-05-21T06:55:16.582594"
-  },
-  {
-    "name": "Paneer Tikka",
-    "brand": "McCain",
-    "category": "Frozen Foods",
-    "description": "Paneer Tikka by McCain",
-    "image": "https://example.com/images/paneer-tikka-mccain.png",
-    "prices": {
-      "zepto": 225,
-      "instamart": 229,
-      "blinkit": 227,
-      "jiomart": 224
-    },
-    "updatedAt": "2025-05-21T06:55:16.582599"
-  },
-  {
-    "name": "Paneer Tikka",
-    "brand": "Real Good",
-    "category": "Frozen Foods",
-    "description": "Paneer Tikka by Real Good",
-    "image": "https://example.com/images/paneer-tikka-real-good.png",
-    "prices": {
-      "zepto": 99,
-      "instamart": 99,
-      "blinkit": 100,
-      "jiomart": 98
-    },
-    "updatedAt": "2025-05-21T06:55:16.582604"
-  },
-  {
-    "name": "Paneer Tikka",
-    "brand": "Yummiez",
-    "category": "Frozen Foods",
-    "description": "Paneer Tikka by Yummiez",
-    "image": "https://example.com/images/paneer-tikka-yummiez.png",
-    "prices": {
-      "zepto": 215,
-      "instamart": 215,
-      "blinkit": 216,
-      "jiomart": 211
-    },
-    "updatedAt": "2025-05-21T06:55:16.582609"
-  },
-  {
-    "name": "Paneer Tikka",
-    "brand": "Amul",
-    "category": "Frozen Foods",
-    "description": "Paneer Tikka by Amul",
-    "image": "https://example.com/images/paneer-tikka-amul.png",
-    "prices": {
-      "zepto": 251,
-      "instamart": 256,
-      "blinkit": 251,
-      "jiomart": 248
-    },
-    "updatedAt": "2025-05-21T06:55:16.582618"
-  },
-  {
-    "name": "Frozen Pizza",
-    "brand": "Everest",
-    "category": "Frozen Foods",
-    "description": "Frozen Pizza by Everest",
-    "image": "https://example.com/images/frozen-pizza-everest.png",
-    "prices": {
-      "zepto": 93,
-      "instamart": 88,
-      "blinkit": 89,
-      "jiomart": 89
-    },
-    "updatedAt": "2025-05-21T06:55:16.582631"
-  },
-  {
-    "name": "Frozen Pizza",
-    "brand": "ITC Master Chef",
-    "category": "Frozen Foods",
-    "description": "Frozen Pizza by ITC Master Chef",
-    "image": "https://example.com/images/frozen-pizza-itc-master-chef.png",
-    "prices": {
-      "zepto": 236,
-      "instamart": 241,
-      "blinkit": 241,
-      "jiomart": 237
-    },
-    "updatedAt": "2025-05-21T06:55:16.582638"
-  },
-  {
-    "name": "Frozen Pizza",
-    "brand": "Real Good",
-    "category": "Frozen Foods",
-    "description": "Frozen Pizza by Real Good",
-    "image": "https://example.com/images/frozen-pizza-real-good.png",
-    "prices": {
-      "zepto": 195,
-      "instamart": 195,
-      "blinkit": 190,
-      "jiomart": 193
-    },
-    "updatedAt": "2025-05-21T06:55:16.582644"
-  },
-  {
-    "name": "Frozen Pizza",
-    "brand": "McCain",
-    "category": "Frozen Foods",
-    "description": "Frozen Pizza by McCain",
-    "image": "https://example.com/images/frozen-pizza-mccain.png",
-    "prices": {
-      "zepto": 259,
-      "instamart": 257,
-      "blinkit": 256,
-      "jiomart": 255
-    },
-    "updatedAt": "2025-05-21T06:55:16.582649"
-  },
-  {
-    "name": "Frozen Pizza",
-    "brand": "Nestle",
-    "category": "Frozen Foods",
-    "description": "Frozen Pizza by Nestle",
-    "image": "https://example.com/images/frozen-pizza-nestle.png",
-    "prices": {
-      "zepto": 221,
-      "instamart": 219,
-      "blinkit": 221,
-      "jiomart": 224
-    },
-    "updatedAt": "2025-05-21T06:55:16.582653"
-  },
-  {
-    "name": "Spring Rolls",
-    "brand": "Amul",
-    "category": "Frozen Foods",
-    "description": "Spring Rolls by Amul",
-    "image": "https://example.com/images/spring-rolls-amul.png",
-    "prices": {
-      "zepto": 125,
-      "instamart": 127,
-      "blinkit": 121,
-      "jiomart": 130
-    },
-    "updatedAt": "2025-05-21T06:55:16.582664"
-  },
-  {
-    "name": "Spring Rolls",
-    "brand": "Yummiez",
-    "category": "Frozen Foods",
-    "description": "Spring Rolls by Yummiez",
-    "image": "https://example.com/images/spring-rolls-yummiez.png",
-    "prices": {
-      "zepto": 258,
-      "instamart": 258,
-      "blinkit": 253,
-      "jiomart": 261
-    },
-    "updatedAt": "2025-05-21T06:55:16.582670"
-  },
-  {
-    "name": "Spring Rolls",
-    "brand": "Safal",
-    "category": "Frozen Foods",
-    "description": "Spring Rolls by Safal",
-    "image": "https://example.com/images/spring-rolls-safal.png",
-    "prices": {
-      "zepto": 209,
-      "instamart": 207,
-      "blinkit": 213,
-      "jiomart": 210
-    },
-    "updatedAt": "2025-05-21T06:55:16.582679"
-  },
-  {
-    "name": "Spring Rolls",
-    "brand": "McCain",
-    "category": "Frozen Foods",
-    "description": "Spring Rolls by McCain",
-    "image": "https://example.com/images/spring-rolls-mccain.png",
-    "prices": {
-      "zepto": 132,
-      "instamart": 130,
-      "blinkit": 131,
-      "jiomart": 134
-    },
-    "updatedAt": "2025-05-21T06:55:16.582685"
-  },
-  {
-    "name": "Spring Rolls",
-    "brand": "Real Good",
-    "category": "Frozen Foods",
-    "description": "Spring Rolls by Real Good",
-    "image": "https://example.com/images/spring-rolls-real-good.png",
-    "prices": {
-      "zepto": 148,
-      "instamart": 148,
-      "blinkit": 150,
-      "jiomart": 144
-    },
-    "updatedAt": "2025-05-21T06:55:16.582690"
-  },
-  {
-    "name": "Chicken Popcorn",
-    "brand": "Godrej",
-    "category": "Frozen Foods",
-    "description": "Chicken Popcorn by Godrej",
-    "image": "https://example.com/images/chicken-popcorn-godrej.png",
-    "prices": {
-      "zepto": 283,
-      "instamart": 287,
-      "blinkit": 285,
-      "jiomart": 287
-    },
-    "updatedAt": "2025-05-21T06:55:16.582698"
-  },
-  {
-    "name": "Chicken Popcorn",
-    "brand": "Yummiez",
-    "category": "Frozen Foods",
-    "description": "Chicken Popcorn by Yummiez",
-    "image": "https://example.com/images/chicken-popcorn-yummiez.png",
-    "prices": {
-      "zepto": 159,
-      "instamart": 159,
-      "blinkit": 162,
-      "jiomart": 159
-    },
-    "updatedAt": "2025-05-21T06:55:16.582703"
-  },
-  {
-    "name": "Chicken Popcorn",
-    "brand": "Nestle",
-    "category": "Frozen Foods",
-    "description": "Chicken Popcorn by Nestle",
-    "image": "https://example.com/images/chicken-popcorn-nestle.png",
-    "prices": {
-      "zepto": 202,
-      "instamart": 198,
-      "blinkit": 203,
-      "jiomart": 207
-    },
-    "updatedAt": "2025-05-21T06:55:16.582708"
-  },
-  {
-    "name": "Chicken Popcorn",
-    "brand": "McCain",
-    "category": "Frozen Foods",
-    "description": "Chicken Popcorn by McCain",
-    "image": "https://example.com/images/chicken-popcorn-mccain.png",
-    "prices": {
-      "zepto": 240,
-      "instamart": 235,
-      "blinkit": 238,
-      "jiomart": 245
-    },
-    "updatedAt": "2025-05-21T06:55:16.582713"
-  },
-  {
-    "name": "Chicken Popcorn",
-    "brand": "Amul",
-    "category": "Frozen Foods",
-    "description": "Chicken Popcorn by Amul",
-    "image": "https://example.com/images/chicken-popcorn-amul.png",
-    "prices": {
-      "zepto": 215,
-      "instamart": 220,
-      "blinkit": 211,
-      "jiomart": 215
-    },
-    "updatedAt": "2025-05-21T06:55:16.582718"
-  },
-  {
-    "name": "Chicken Seekh Kebab",
-    "brand": "Nestle",
-    "category": "Frozen Foods",
-    "description": "Chicken Seekh Kebab by Nestle",
-    "image": "https://example.com/images/chicken-seekh-kebab-nestle.png",
-    "prices": {
-      "zepto": 96,
-      "instamart": 95,
-      "blinkit": 93,
-      "jiomart": 99
-    },
-    "updatedAt": "2025-05-21T06:55:16.582726"
-  },
-  {
-    "name": "Chicken Seekh Kebab",
-    "brand": "Real Good",
-    "category": "Frozen Foods",
-    "description": "Chicken Seekh Kebab by Real Good",
-    "image": "https://example.com/images/chicken-seekh-kebab-real-good.png",
-    "prices": {
-      "zepto": 284,
-      "instamart": 281,
-      "blinkit": 283,
-      "jiomart": 289
-    },
-    "updatedAt": "2025-05-21T06:55:16.582731"
-  },
-  {
-    "name": "Chicken Seekh Kebab",
-    "brand": "Everest",
-    "category": "Frozen Foods",
-    "description": "Chicken Seekh Kebab by Everest",
-    "image": "https://example.com/images/chicken-seekh-kebab-everest.png",
-    "prices": {
-      "zepto": 94,
-      "instamart": 89,
-      "blinkit": 95,
-      "jiomart": 99
-    },
-    "updatedAt": "2025-05-21T06:55:16.582736"
-  },
-  {
-    "name": "Chicken Seekh Kebab",
-    "brand": "Amul",
-    "category": "Frozen Foods",
-    "description": "Chicken Seekh Kebab by Amul",
-    "image": "https://example.com/images/chicken-seekh-kebab-amul.png",
-    "prices": {
-      "zepto": 101,
-      "instamart": 104,
-      "blinkit": 100,
-      "jiomart": 99
-    },
-    "updatedAt": "2025-05-21T06:55:16.582743"
-  },
-  {
-    "name": "Chicken Seekh Kebab",
-    "brand": "McCain",
-    "category": "Frozen Foods",
-    "description": "Chicken Seekh Kebab by McCain",
-    "image": "https://example.com/images/chicken-seekh-kebab-mccain.png",
-    "prices": {
-      "zepto": 135,
-      "instamart": 136,
-      "blinkit": 130,
-      "jiomart": 131
-    },
-    "updatedAt": "2025-05-21T06:55:16.582751"
-  },
-  {
-    "name": "Hakka Noodles",
-    "brand": "Safal",
-    "category": "Frozen Foods",
-    "description": "Hakka Noodles by Safal",
-    "image": "https://example.com/images/hakka-noodles-safal.png",
-    "prices": {
-      "zepto": 261,
-      "instamart": 259,
-      "blinkit": 263,
-      "jiomart": 263
-    },
-    "updatedAt": "2025-05-21T06:55:16.582765"
-  },
-  {
-    "name": "Hakka Noodles",
-    "brand": "McCain",
-    "category": "Frozen Foods",
-    "description": "Hakka Noodles by McCain",
-    "image": "https://example.com/images/hakka-noodles-mccain.png",
-    "prices": {
-      "zepto": 148,
-      "instamart": 149,
-      "blinkit": 147,
-      "jiomart": 147
-    },
-    "updatedAt": "2025-05-21T06:55:16.582774"
-  },
-  {
-    "name": "Hakka Noodles",
-    "brand": "Amul",
-    "category": "Frozen Foods",
-    "description": "Hakka Noodles by Amul",
-    "image": "https://example.com/images/hakka-noodles-amul.png",
-    "prices": {
-      "zepto": 292,
-      "instamart": 294,
-      "blinkit": 296,
-      "jiomart": 289
-    },
-    "updatedAt": "2025-05-21T06:55:16.582779"
-  },
-  {
-    "name": "Hakka Noodles",
-    "brand": "Nestle",
-    "category": "Frozen Foods",
-    "description": "Hakka Noodles by Nestle",
-    "image": "https://example.com/images/hakka-noodles-nestle.png",
-    "prices": {
-      "zepto": 275,
-      "instamart": 270,
-      "blinkit": 272,
-      "jiomart": 277
-    },
-    "updatedAt": "2025-05-21T06:55:16.582784"
-  },
-  {
-    "name": "Hakka Noodles",
-    "brand": "Godrej",
-    "category": "Frozen Foods",
-    "description": "Hakka Noodles by Godrej",
-    "image": "https://example.com/images/hakka-noodles-godrej.png",
-    "prices": {
-      "zepto": 276,
-      "instamart": 274,
-      "blinkit": 281,
-      "jiomart": 277
-    },
-    "updatedAt": "2025-05-21T06:55:16.582789"
-  },
-  {
-    "name": "Momo Pack",
-    "brand": "Safal",
-    "category": "Frozen Foods",
-    "description": "Momo Pack by Safal",
-    "image": "https://example.com/images/momo-pack-safal.png",
-    "prices": {
-      "zepto": 86,
-      "instamart": 85,
-      "blinkit": 83,
-      "jiomart": 91
-    },
-    "updatedAt": "2025-05-21T06:55:16.582797"
-  },
-  {
-    "name": "Momo Pack",
-    "brand": "Nestle",
-    "category": "Frozen Foods",
-    "description": "Momo Pack by Nestle",
-    "image": "https://example.com/images/momo-pack-nestle.png",
-    "prices": {
-      "zepto": 94,
-      "instamart": 89,
-      "blinkit": 91,
-      "jiomart": 99
-    },
-    "updatedAt": "2025-05-21T06:55:16.582802"
-  },
-  {
-    "name": "Momo Pack",
-    "brand": "Amul",
-    "category": "Frozen Foods",
-    "description": "Momo Pack by Amul",
-    "image": "https://example.com/images/momo-pack-amul.png",
-    "prices": {
-      "zepto": 182,
-      "instamart": 185,
-      "blinkit": 183,
-      "jiomart": 181
-    },
-    "updatedAt": "2025-05-21T06:55:16.582807"
-  },
-  {
-    "name": "Momo Pack",
-    "brand": "Yummiez",
-    "category": "Frozen Foods",
-    "description": "Momo Pack by Yummiez",
-    "image": "https://example.com/images/momo-pack-yummiez.png",
-    "prices": {
-      "zepto": 117,
-      "instamart": 122,
-      "blinkit": 118,
-      "jiomart": 115
-    },
-    "updatedAt": "2025-05-21T06:55:16.582812"
-  },
-  {
-    "name": "Momo Pack",
-    "brand": "Haldiram",
-    "category": "Frozen Foods",
-    "description": "Momo Pack by Haldiram",
-    "image": "https://example.com/images/momo-pack-haldiram.png",
-    "prices": {
-      "zepto": 181,
-      "instamart": 186,
-      "blinkit": 182,
-      "jiomart": 179
-    },
-    "updatedAt": "2025-05-21T06:55:16.582817"
-  },
-  {
-    "name": "Frozen Biryani",
-    "brand": "McCain",
-    "category": "Frozen Foods",
-    "description": "Frozen Biryani by McCain",
-    "image": "https://example.com/images/frozen-biryani-mccain.png",
-    "prices": {
-      "zepto": 294,
-      "instamart": 299,
-      "blinkit": 294,
-      "jiomart": 292
-    },
-    "updatedAt": "2025-05-21T06:55:16.582825"
-  },
-  {
-    "name": "Frozen Biryani",
-    "brand": "Real Good",
-    "category": "Frozen Foods",
-    "description": "Frozen Biryani by Real Good",
-    "image": "https://example.com/images/frozen-biryani-real-good.png",
-    "prices": {
-      "zepto": 235,
-      "instamart": 232,
-      "blinkit": 233,
-      "jiomart": 240
-    },
-    "updatedAt": "2025-05-21T06:55:16.582830"
-  },
-  {
-    "name": "Frozen Biryani",
-    "brand": "Amul",
-    "category": "Frozen Foods",
-    "description": "Frozen Biryani by Amul",
-    "image": "https://example.com/images/frozen-biryani-amul.png",
-    "prices": {
-      "zepto": 200,
-      "instamart": 195,
-      "blinkit": 200,
-      "jiomart": 205
-    },
-    "updatedAt": "2025-05-21T06:55:16.582835"
-  },
-  {
-    "name": "Frozen Biryani",
-    "brand": "Godrej",
-    "category": "Frozen Foods",
-    "description": "Frozen Biryani by Godrej",
-    "image": "https://example.com/images/frozen-biryani-godrej.png",
-    "prices": {
-      "zepto": 279,
-      "instamart": 277,
-      "blinkit": 279,
-      "jiomart": 279
-    },
-    "updatedAt": "2025-05-21T06:55:16.582843"
-  },
-  {
-    "name": "Frozen Biryani",
-    "brand": "ITC Master Chef",
-    "category": "Frozen Foods",
-    "description": "Frozen Biryani by ITC Master Chef",
-    "image": "https://example.com/images/frozen-biryani-itc-master-chef.png",
-    "prices": {
-      "zepto": 179,
-      "instamart": 180,
-      "blinkit": 178,
-      "jiomart": 183
-    },
-    "updatedAt": "2025-05-21T06:55:16.582852"
-  },
-  {
-    "name": "Malai Tikka",
-    "brand": "Yummiez",
-    "category": "Frozen Foods",
-    "description": "Malai Tikka by Yummiez",
-    "image": "https://example.com/images/malai-tikka-yummiez.png",
-    "prices": {
-      "zepto": 287,
-      "instamart": 288,
-      "blinkit": 291,
-      "jiomart": 290
-    },
-    "updatedAt": "2025-05-21T06:55:16.582864"
-  },
-  {
-    "name": "Malai Tikka",
-    "brand": "McCain",
-    "category": "Frozen Foods",
-    "description": "Malai Tikka by McCain",
-    "image": "https://example.com/images/malai-tikka-mccain.png",
-    "prices": {
-      "zepto": 122,
-      "instamart": 121,
-      "blinkit": 126,
-      "jiomart": 124
-    },
-    "updatedAt": "2025-05-21T06:55:16.582877"
-  },
-  {
-    "name": "Malai Tikka",
-    "brand": "ITC Master Chef",
-    "category": "Frozen Foods",
-    "description": "Malai Tikka by ITC Master Chef",
-    "image": "https://example.com/images/malai-tikka-itc-master-chef.png",
-    "prices": {
-      "zepto": 164,
-      "instamart": 169,
-      "blinkit": 160,
-      "jiomart": 160
-    },
-    "updatedAt": "2025-05-21T06:55:16.582883"
-  },
-  {
-    "name": "Malai Tikka",
-    "brand": "Everest",
-    "category": "Frozen Foods",
-    "description": "Malai Tikka by Everest",
-    "image": "https://example.com/images/malai-tikka-everest.png",
-    "prices": {
-      "zepto": 111,
-      "instamart": 110,
-      "blinkit": 109,
-      "jiomart": 108
-    },
-    "updatedAt": "2025-05-21T06:55:16.582888"
-  },
-  {
-    "name": "Malai Tikka",
-    "brand": "Real Good",
-    "category": "Frozen Foods",
-    "description": "Malai Tikka by Real Good",
-    "image": "https://example.com/images/malai-tikka-real-good.png",
-    "prices": {
-      "zepto": 97,
-      "instamart": 94,
-      "blinkit": 97,
-      "jiomart": 98
-    },
-    "updatedAt": "2025-05-21T06:55:16.582893"
-  },
-  {
-    "name": "Veg Cutlet",
-    "brand": "Haldiram",
-    "category": "Frozen Foods",
-    "description": "Veg Cutlet by Haldiram",
-    "image": "https://example.com/images/veg-cutlet-haldiram.png",
-    "prices": {
-      "zepto": 234,
-      "instamart": 230,
-      "blinkit": 237,
-      "jiomart": 236
-    },
-    "updatedAt": "2025-05-21T06:55:16.582902"
-  },
-  {
-    "name": "Veg Cutlet",
-    "brand": "Safal",
-    "category": "Frozen Foods",
-    "description": "Veg Cutlet by Safal",
-    "image": "https://example.com/images/veg-cutlet-safal.png",
-    "prices": {
-      "zepto": 176,
-      "instamart": 171,
-      "blinkit": 178,
-      "jiomart": 173
-    },
-    "updatedAt": "2025-05-21T06:55:16.582907"
-  },
-  {
-    "name": "Veg Cutlet",
-    "brand": "Godrej",
-    "category": "Frozen Foods",
-    "description": "Veg Cutlet by Godrej",
-    "image": "https://example.com/images/veg-cutlet-godrej.png",
-    "prices": {
-      "zepto": 96,
-      "instamart": 98,
-      "blinkit": 100,
-      "jiomart": 101
-    },
-    "updatedAt": "2025-05-21T06:55:16.582912"
-  },
-  {
-    "name": "Veg Cutlet",
-    "brand": "Amul",
-    "category": "Frozen Foods",
-    "description": "Veg Cutlet by Amul",
-    "image": "https://example.com/images/veg-cutlet-amul.png",
-    "prices": {
-      "zepto": 155,
-      "instamart": 156,
-      "blinkit": 156,
-      "jiomart": 150
-    },
-    "updatedAt": "2025-05-21T06:55:16.582920"
-  },
-  {
-    "name": "Veg Cutlet",
-    "brand": "Real Good",
-    "category": "Frozen Foods",
-    "description": "Veg Cutlet by Real Good",
-    "image": "https://example.com/images/veg-cutlet-real-good.png",
-    "prices": {
-      "zepto": 268,
-      "instamart": 264,
-      "blinkit": 272,
-      "jiomart": 265
-    },
-    "updatedAt": "2025-05-21T06:55:16.582929"
-  },
-  {
-    "name": "Frozen Pasta",
-    "brand": "Godrej",
-    "category": "Frozen Foods",
-    "description": "Frozen Pasta by Godrej",
-    "image": "https://example.com/images/frozen-pasta-godrej.png",
-    "prices": {
-      "zepto": 133,
-      "instamart": 128,
-      "blinkit": 132,
-      "jiomart": 131
-    },
-    "updatedAt": "2025-05-21T06:55:16.582942"
-  },
-  {
-    "name": "Frozen Pasta",
-    "brand": "Yummiez",
-    "category": "Frozen Foods",
-    "description": "Frozen Pasta by Yummiez",
-    "image": "https://example.com/images/frozen-pasta-yummiez.png",
-    "prices": {
-      "zepto": 247,
-      "instamart": 244,
-      "blinkit": 250,
-      "jiomart": 252
-    },
-    "updatedAt": "2025-05-21T06:55:16.582951"
-  },
-  {
-    "name": "Frozen Pasta",
-    "brand": "Amul",
-    "category": "Frozen Foods",
-    "description": "Frozen Pasta by Amul",
-    "image": "https://example.com/images/frozen-pasta-amul.png",
-    "prices": {
-      "zepto": 285,
-      "instamart": 286,
-      "blinkit": 280,
-      "jiomart": 287
-    },
-    "updatedAt": "2025-05-21T06:55:16.582960"
-  },
-  {
-    "name": "Frozen Pasta",
-    "brand": "McCain",
-    "category": "Frozen Foods",
-    "description": "Frozen Pasta by McCain",
-    "image": "https://example.com/images/frozen-pasta-mccain.png",
-    "prices": {
-      "zepto": 200,
-      "instamart": 201,
-      "blinkit": 196,
-      "jiomart": 199
-    },
-    "updatedAt": "2025-05-21T06:55:16.582968"
-  },
-  {
-    "name": "Frozen Pasta",
-    "brand": "Nestle",
-    "category": "Frozen Foods",
-    "description": "Frozen Pasta by Nestle",
-    "image": "https://example.com/images/frozen-pasta-nestle.png",
-    "prices": {
-      "zepto": 202,
-      "instamart": 205,
-      "blinkit": 207,
-      "jiomart": 203
-    },
-    "updatedAt": "2025-05-21T06:55:16.582980"
+    "category": "Dairy, Bread & Eggs",
+    "description": "Fresh milk by Amul",
+    "image": "https://example.com/images/farm-fresh-milk-amul.png",
+    "prices": { "zepto": 60, "instamart": 62, "blinkit": 61, "jiomart": 59 }
+  },
+  {
+    "name": "Farm Fresh Milk",
+    "brand": "Mother Dairy",
+    "category": "Dairy, Bread & Eggs",
+    "description": "Fresh milk by Mother Dairy",
+    "image": "https://example.com/images/farm-fresh-milk-mother-dairy.png",
+    "prices": { "zepto": 61, "instamart": 63, "blinkit": 62, "jiomart": 60 }
+  },
+  {
+    "name": "Farm Fresh Milk",
+    "brand": "Britannia",
+    "category": "Dairy, Bread & Eggs",
+    "description": "Fresh milk by Britannia",
+    "image": "https://example.com/images/farm-fresh-milk-britannia.png",
+    "prices": { "zepto": 62, "instamart": 64, "blinkit": 63, "jiomart": 61 }
+  },
+  {
+    "name": "Farm Fresh Milk",
+    "brand": "Patanjali",
+    "category": "Dairy, Bread & Eggs",
+    "description": "Fresh milk by Patanjali",
+    "image": "https://example.com/images/farm-fresh-milk-patanjali.png",
+    "prices": { "zepto": 59, "instamart": 61, "blinkit": 60, "jiomart": 58 }
+  },
+  {
+    "name": "Farm Fresh Milk",
+    "brand": "Gowardhan",
+    "category": "Dairy, Bread & Eggs",
+    "description": "Fresh milk by Gowardhan",
+    "image": "https://example.com/images/farm-fresh-milk-gowardhan.png",
+    "prices": { "zepto": 60, "instamart": 62, "blinkit": 61, "jiomart": 59 }
+  },
+
+ 
+  {
+    "name": "Orange Juice",
+    "brand": "Tropicana",
+    "category": "Cold Drinks & Juices",
+    "description": "Fresh orange juice by Tropicana",
+    "image": "https://example.com/images/orange-juice-tropicana.png",
+    "prices": { "zepto": 120, "instamart": 125, "blinkit": 123, "jiomart": 122 }
+  },
+  {
+    "name": "Orange Juice",
+    "brand": "Real",
+    "category": "Cold Drinks & Juices",
+    "description": "Fresh orange juice by Real",
+    "image": "https://example.com/images/orange-juice-real.png",
+    "prices": { "zepto": 118, "instamart": 123, "blinkit": 121, "jiomart": 120 }
+  },
+  {
+    "name": "Orange Juice",
+    "brand": "Minute Maid",
+    "category": "Cold Drinks & Juices",
+    "description": "Fresh orange juice by Minute Maid",
+    "image": "https://example.com/images/orange-juice-minute-maid.png",
+    "prices": { "zepto": 122, "instamart": 127, "blinkit": 125, "jiomart": 124 }
+  },
+  {
+    "name": "Orange Juice",
+    "brand": "Del Monte",
+    "category": "Cold Drinks & Juices",
+    "description": "Fresh orange juice by Del Monte",
+    "image": "https://example.com/images/orange-juice-del-monte.png",
+    "prices": { "zepto": 119, "instamart": 124, "blinkit": 122, "jiomart": 121 }
+  },
+  {
+    "name": "Orange Juice",
+    "brand": "Dole",
+    "category": "Cold Drinks & Juices",
+    "description": "Fresh orange juice by Dole",
+    "image": "https://example.com/images/orange-juice-dole.png",
+    "prices": { "zepto": 121, "instamart": 126, "blinkit": 124, "jiomart": 123 }
+  },
+
+ 
+  {
+    "name": "Potato Chips",
+    "brand": "Lays",
+    "category": "Snacks & Munchies",
+    "description": "Crunchy potato chips by Lays",
+    "image": "https://example.com/images/potato-chips-lays.png",
+    "prices": { "zepto": 40, "instamart": 42, "blinkit": 41, "jiomart": 39 }
+  },
+  {
+    "name": "Potato Chips",
+    "brand": "Uncle Chipps",
+    "category": "Snacks & Munchies",
+    "description": "Crunchy potato chips by Uncle Chipps",
+    "image": "https://example.com/images/potato-chips-uncle-chipps.png",
+    "prices": { "zepto": 41, "instamart": 43, "blinkit": 42, "jiomart": 40 }
+  },
+  {
+    "name": "Potato Chips",
+    "brand": "Pringles",
+    "category": "Snacks & Munchies",
+    "description": "Crunchy potato chips by Pringles",
+    "image": "https://example.com/images/potato-chips-pringles.png",
+    "prices": { "zepto": 42, "instamart": 44, "blinkit": 43, "jiomart": 41 }
+  },
+  {
+    "name": "Potato Chips",
+    "brand": "Balaji",
+    "category": "Snacks & Munchies",
+    "description": "Crunchy potato chips by Balaji",
+    "image": "https://example.com/images/potato-chips-balaji.png",
+    "prices": { "zepto": 39, "instamart": 41, "blinkit": 40, "jiomart": 38 }
+  },
+  {
+    "name": "Potato Chips",
+    "brand": "Bingo",
+    "category": "Snacks & Munchies",
+    "description": "Crunchy potato chips by Bingo",
+    "image": "https://example.com/images/potato-chips-bingo.png",
+    "prices": { "zepto": 40, "instamart": 42, "blinkit": 41, "jiomart": 39 }
+  },
+
+
+  {
+    "name": "Instant Noodles",
+    "brand": "Maggi",
+    "category": "Breakfast & Instant Food",
+    "description": "Quick instant noodles by Maggi",
+    "image": "https://example.com/images/instant-noodles-maggi.png",
+    "prices": { "zepto": 30, "instamart": 32, "blinkit": 31, "jiomart": 29 }
+  },
+  {
+    "name": "Instant Noodles",
+    "brand": "Yippee",
+    "category": "Breakfast & Instant Food",
+    "description": "Quick instant noodles by Yippee",
+    "image": "https://example.com/images/instant-noodles-yippee.png",
+    "prices": { "zepto": 29, "instamart": 31, "blinkit": 30, "jiomart": 28 }
+  },
+  {
+    "name": "Instant Noodles",
+    "brand": "Knorr",
+    "category": "Breakfast & Instant Food",
+    "description": "Quick instant noodles by Knorr",
+    "image": "https://example.com/images/instant-noodles-knorr.png",
+    "prices": { "zepto": 31, "instamart": 33, "blinkit": 32, "jiomart": 30 }
+  },
+  {
+    "name": "Instant Noodles",
+    "brand": "Top Ramen",
+    "category": "Breakfast & Instant Food",
+    "description": "Quick instant noodles by Top Ramen",
+    "image": "https://example.com/images/instant-noodles-top-ramen.png",
+    "prices": { "zepto": 30, "instamart": 32, "blinkit": 31, "jiomart": 29 }
+  },
+  {
+    "name": "Instant Noodles",
+    "brand": "Sunfeast",
+    "category": "Breakfast & Instant Food",
+    "description": "Quick instant noodles by Sunfeast",
+    "image": "https://example.com/images/instant-noodles-sunfeast.png",
+    "prices": { "zepto": 28, "instamart": 30, "blinkit": 29, "jiomart": 27 }
+  },
+
+
+  {
+    "name": "Fresh Bananas",
+    "brand": "Organic Valley",
+    "category": "Fruits & Vegetables",
+    "description": "Organic bananas by Organic Valley",
+    "image": "https://example.com/images/fresh-bananas-organic-valley.png",
+    "prices": { "zepto": 40, "instamart": 42, "blinkit": 41, "jiomart": 39 }
+  },
+  {
+    "name": "Fresh Bananas",
+    "brand": "Dole",
+    "category": "Fruits & Vegetables",
+    "description": "Fresh bananas by Dole",
+    "image": "https://example.com/images/fresh-bananas-dole.png",
+    "prices": { "zepto": 41, "instamart": 43, "blinkit": 42, "jiomart": 40 }
+  },
+  {
+    "name": "Fresh Bananas",
+    "brand": "Chiquita",
+    "category": "Fruits & Vegetables",
+    "description": "Fresh bananas by Chiquita",
+    "image": "https://example.com/images/fresh-bananas-chiquita.png",
+    "prices": { "zepto": 42, "instamart": 44, "blinkit": 43, "jiomart": 41 }
+  },
+  {
+    "name": "Fresh Bananas",
+    "brand": "Tropicana",
+    "category": "Fruits & Vegetables",
+    "description": "Fresh bananas by Tropicana",
+    "image": "https://example.com/images/fresh-bananas-tropicana.png",
+    "prices": { "zepto": 39, "instamart": 41, "blinkit": 40, "jiomart": 38 }
+  },
+  {
+    "name": "Fresh Bananas",
+    "brand": "Fresh Farms",
+    "category": "Fruits & Vegetables",
+    "description": "Fresh bananas by Fresh Farms",
+    "image": "https://example.com/images/fresh-bananas-fresh-farms.png",
+    "prices": { "zepto": 40, "instamart": 42, "blinkit": 41, "jiomart": 39 }
+  },
+
+
+  {
+    "name": "Whole Wheat Bread",
+    "brand": "Britannia",
+    "category": "Bakery & Breads",
+    "description": "Whole wheat bread by Britannia",
+    "image": "https://example.com/images/whole-wheat-bread-britannia.png",
+    "prices": { "zepto": 35, "instamart": 37, "blinkit": 36, "jiomart": 34 }
+  },
+  {
+    "name": "Whole Wheat Bread",
+    "brand": "Harvest Gold",
+    "category": "Bakery & Breads",
+    "description": "Whole wheat bread by Harvest Gold",
+    "image": "https://example.com/images/whole-wheat-bread-harvest-gold.png",
+    "prices": { "zepto": 34, "instamart": 36, "blinkit": 35, "jiomart": 33 }
+  },
+  {
+    "name": "Whole Wheat Bread",
+    "brand": "Modern",
+    "category": "Bakery & Breads",
+    "description": "Whole wheat bread by Modern",
+    "image": "https://example.com/images/whole-wheat-bread-modern.png",
+    "prices": { "zepto": 33, "instamart": 35, "blinkit": 34, "jiomart": 32 }
+  },
+  {
+    "name": "Whole Wheat Bread",
+    "brand": "Britannia",
+    "category": "Bakery & Breads",
+    "description": "Whole wheat bread by Britannia",
+    "image": "https://example.com/images/whole-wheat-bread-britannia-2.png",
+    "prices": { "zepto": 35, "instamart": 37, "blinkit": 36, "jiomart": 34 }
+  },
+  {
+    "name": "Whole Wheat Bread",
+    "brand": "Sunfeast",
+    "category": "Bakery & Breads",
+    "description": "Whole wheat bread by Sunfeast",
+    "image": "https://example.com/images/whole-wheat-bread-sunfeast.png",
+    "prices": { "zepto": 36, "instamart": 38, "blinkit": 37, "jiomart": 35 }
+  },
+
+
+  {
+    "name": "Herbal Shampoo",
+    "brand": "Dove",
+    "category": "Personal Care",
+    "description": "Herbal shampoo by Dove",
+    "image": "https://example.com/images/herbal-shampoo-dove.png",
+    "prices": { "zepto": 180, "instamart": 185, "blinkit": 183, "jiomart": 182 }
+  },
+  {
+    "name": "Herbal Shampoo",
+    "brand": "Clinic Plus",
+    "category": "Personal Care",
+    "description": "Herbal shampoo by Clinic Plus",
+    "image": "https://example.com/images/herbal-shampoo-clinic-plus.png",
+    "prices": { "zepto": 175, "instamart": 180, "blinkit": 178, "jiomart": 177 }
+  },
+  {
+    "name": "Herbal Shampoo",
+    "brand": "Head & Shoulders",
+    "category": "Personal Care",
+    "description": "Herbal shampoo by Head & Shoulders",
+    "image": "https://example.com/images/herbal-shampoo-head-shoulders.png",
+    "prices": { "zepto": 182, "instamart": 187, "blinkit": 185, "jiomart": 184 }
+  },
+  {
+    "name": "Herbal Shampoo",
+    "brand": "Sunsilk",
+    "category": "Personal Care",
+    "description": "Herbal shampoo by Sunsilk",
+    "image": "https://example.com/images/herbal-shampoo-sunsilk.png",
+    "prices": { "zepto": 179, "instamart": 184, "blinkit": 182, "jiomart": 181 }
+  },
+  {
+    "name": "Herbal Shampoo",
+    "brand": "Pantene",
+    "category": "Personal Care",
+    "description": "Herbal shampoo by Pantene",
+    "image": "https://example.com/images/herbal-shampoo-pantene.png",
+    "prices": { "zepto": 181, "instamart": 186, "blinkit": 184, "jiomart": 183 }
+  },
+
+ 
+  {
+    "name": "Dishwashing Liquid",
+    "brand": "Fairy",
+    "category": "Household",
+    "description": "Dishwashing liquid by Fairy",
+    "image": "https://example.com/images/dishwashing-liquid-fairy.png",
+    "prices": { "zepto": 90, "instamart": 92, "blinkit": 91, "jiomart": 89 }
+  },
+  {
+    "name": "Dishwashing Liquid",
+    "brand": "Vim",
+    "category": "Household",
+    "description": "Dishwashing liquid by Vim",
+    "image": "https://example.com/images/dishwashing-liquid-vim.png",
+    "prices": { "zepto": 88, "instamart": 90, "blinkit": 89, "jiomart": 87 }
+  },
+  {
+    "name": "Dishwashing Liquid",
+    "brand": "Pril",
+    "category": "Household",
+    "description": "Dishwashing liquid by Pril",
+    "image": "https://example.com/images/dishwashing-liquid-pril.png",
+    "prices": { "zepto": 92, "instamart": 94, "blinkit": 93, "jiomart": 91 }
+  },
+  {
+    "name": "Dishwashing Liquid",
+    "brand": "Lizol",
+    "category": "Household",
+    "description": "Dishwashing liquid by Lizol",
+    "image": "https://example.com/images/dishwashing-liquid-lizol.png",
+    "prices": { "zepto": 89, "instamart": 91, "blinkit": 90, "jiomart": 88 }
+  },
+  {
+    "name": "Dishwashing Liquid",
+    "brand": "Harpic",
+    "category": "Household",
+    "description": "Dishwashing liquid by Harpic",
+    "image": "https://example.com/images/dishwashing-liquid-harpic.png",
+    "prices": { "zepto": 91, "instamart": 93, "blinkit": 92, "jiomart": 90 }
+  },
+
+
+  {
+    "name": "Vitamin C Tablets",
+    "brand": "Himalaya",
+    "category": "Health & Nutrition",
+    "description": "Vitamin C tablets by Himalaya",
+    "image": "https://example.com/images/vitamin-c-himalaya.png",
+    "prices": { "zepto": 200, "instamart": 205, "blinkit": 203, "jiomart": 202 }
+  },
+  {
+    "name": "Vitamin C Tablets",
+    "brand": "HealthKart",
+    "category": "Health & Nutrition",
+    "description": "Vitamin C tablets by HealthKart",
+    "image": "https://example.com/images/vitamin-c-healthkart.png",
+    "prices": { "zepto": 198, "instamart": 203, "blinkit": 201, "jiomart": 200 }
+  },
+  {
+    "name": "Vitamin C Tablets",
+    "brand": "GNC",
+    "category": "Health & Nutrition",
+    "description": "Vitamin C tablets by GNC",
+    "image": "https://example.com/images/vitamin-c-gnc.png",
+    "prices": { "zepto": 202, "instamart": 207, "blinkit": 205, "jiomart": 204 }
+  },
+  {
+    "name": "Vitamin C Tablets",
+    "brand": "Nature's Bounty",
+    "category": "Health & Nutrition",
+    "description": "Vitamin C tablets by Nature's Bounty",
+    "image": "https://example.com/images/vitamin-c-natures-bounty.png",
+    "prices": { "zepto": 199, "instamart": 204, "blinkit": 202, "jiomart": 201 }
+  },
+  {
+    "name": "Vitamin C Tablets",
+    "brand": "Supplements Plus",
+    "category": "Health & Nutrition",
+    "description": "Vitamin C tablets by Supplements Plus",
+    "image": "https://example.com/images/vitamin-c-supplements-plus.png",
+    "prices": { "zepto": 201, "instamart": 206, "blinkit": 204, "jiomart": 203 }
+  },
+
+
+  {
+    "name": "Baby Diapers",
+    "brand": "Pampers",
+    "category": "Baby Care",
+    "description": "Soft baby diapers by Pampers",
+    "image": "https://example.com/images/baby-diapers-pampers.png",
+    "prices": { "zepto": 300, "instamart": 310, "blinkit": 305, "jiomart": 295 }
+  },
+  {
+    "name": "Baby Diapers",
+    "brand": "Huggies",
+    "category": "Baby Care",
+    "description": "Soft baby diapers by Huggies",
+    "image": "https://example.com/images/baby-diapers-huggies.png",
+    "prices": { "zepto": 295, "instamart": 305, "blinkit": 300, "jiomart": 290 }
+  },
+  {
+    "name": "Baby Diapers",
+    "brand": "MamyPoko",
+    "category": "Baby Care",
+    "description": "Soft baby diapers by MamyPoko",
+    "image": "https://example.com/images/baby-diapers-mamypoko.png",
+    "prices": { "zepto": 298, "instamart": 308, "blinkit": 303, "jiomart": 293 }
+  },
+  {
+    "name": "Baby Diapers",
+    "brand": "Johnson's",
+    "category": "Baby Care",
+    "description": "Soft baby diapers by Johnson's",
+    "image": "https://example.com/images/baby-diapers-johnsons.png",
+    "prices": { "zepto": 302, "instamart": 312, "blinkit": 307, "jiomart": 297 }
+  },
+  {
+    "name": "Baby Diapers",
+    "brand": "Bambi",
+    "category": "Baby Care",
+    "description": "Soft baby diapers by Bambi",
+    "image": "https://example.com/images/baby-diapers-bambi.png",
+    "prices": { "zepto": 299, "instamart": 309, "blinkit": 304, "jiomart": 294 }
   }
 ]
+

@@ -1,91 +1,51 @@
-const mongoose = require('mongoose');
+import mongoose from 'mongoose';
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
 
+// Get __dirname in ES modules
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 // Connect to MongoDB
 mongoose.connect('mongodb://localhost:27017/comparely1', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 }).then(() => {
-  console.log('Connected to MongoDB for seeding');
+  console.log('✅ Connected to MongoDB for seeding');
 }).catch(err => {
-  console.error('MongoDB connection error:', err);
+  console.error('❌ MongoDB connection error:', err);
 });
 
 // Define Product schema (adjust fields as per your Product model)
 const productSchema = new mongoose.Schema({
   name: String,
-  price: Number,
+  brand: String,
+  category: String,
   description: String,
-  image: String,       // Optional
-  category: String,    // Optional
+  image: String,
+  prices: Object, // Prices object (e.g., { zepto: 100, instamart: 105 })
 });
 
 const Product = mongoose.model('Product', productSchema);
 
-// Dummy products array
-const dummyProducts = [
-  {
-    name: 'Apple iPhone 13',
-    price: 799,
-    description: 'Latest Apple iPhone with A15 Bionic chip',
-    category: 'Electronics',
-    image: 'https://example.com/iphone13.jpg',
-  },
-  {
-    name: 'Samsung Galaxy S21',
-    price: 699,
-    description: 'Samsung flagship smartphone',
-    category: 'Electronics',
-    image: 'https://example.com/galaxys21.jpg',
-  },
-  {
-    name: 'Sony WH-1000XM4 Headphones',
-    price: 349,
-    description: 'Noise cancelling wireless headphones',
-    category: 'Audio',
-    image: 'https://example.com/sonyheadphones.jpg',
-  },
-  {
-    name: "Organic Eggs",
-    price: 120,
-    image: "https://source.unsplash.com/220x160/?eggs",
-    platform: "Swiggy Instamart",
-    brand: "FarmFresh",
-  },
-  {
-    name: "Fresh Milk",
-    price: 60,
-    image: "https://source.unsplash.com/220x160/?milk",
-    platform: "BigBasket",
-    brand: "DairyPure",
-  },
-  {
-    name: "Brown Bread",
-    price: 45,
-    image: "https://source.unsplash.com/220x160/?bread",
-    platform: "Zepto",
-    brand: "BakeHouse",
-  },
-  {
-    name: "Bananas (1 Dozen)",
-    price: 55,
-    image: "https://source.unsplash.com/220x160/?banana",
-    platform: "Blinkit",
-    brand: "TropicalFarms",
-  },
-];
+// Read products.json file
+const productsFilePath = path.join(__dirname, 'data', 'products.json');
+const productsData = JSON.parse(fs.readFileSync(productsFilePath, 'utf-8'));
 
 // Seed function to insert products
 const seedDB = async () => {
   try {
     await Product.deleteMany({}); // Clear existing products
-    console.log('Existing products deleted');
+    console.log('✅ Existing products deleted');
 
-    await Product.insertMany(dummyProducts);
-    console.log('Dummy products inserted');
+    await Product.insertMany(productsData); // Insert products from products.json
+    console.log('✅ Dummy products from products.json inserted');
 
     mongoose.connection.close();
+    console.log('✅ Database connection closed');
   } catch (error) {
-    console.error('Error seeding DB:', error);
+    console.error('❌ Error seeding DB:', error);
+    mongoose.connection.close();
   }
 };
 

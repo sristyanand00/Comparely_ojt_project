@@ -7,7 +7,7 @@ import FrozenFoodImg from '../assets/FrozenFood.jpeg';
 const bigCategories = [
   { name: "Frozen Foods", image: FrozenFoodImg },
   { name: "Dairy, Bread & Eggs", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/2b2e2e1c-2e2e-4e2e-8e2e-2b2e2e1c2e2e.png" },
-  { name: "Fruits & Vegetables", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/3b2e2e1c-2e2e-4e2e-8e2e-3b2e2e1c2e2e.png" },
+  //{ name: "Fruits & Vegetables", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/3b2e2e1c-2e2e-4e2e-8e2e-3b2e2e1c2e2e.png" },
   { name: "Cold Drinks & Juices", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/4b2e2e1c-2e2e-4e2e-8e2e-4b2e2e1c2e2e.png" },
   { name: "Snacks & Munchies", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/5b2e2e1c-2e2e-4e2e-8e2e-5b2e2e1c2e2e.png" },
   { name: "Breakfast & Instant Food", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/6b2e2e1c-2e2e-4e2e-8e2e-6b2e2e1c2e2e.png" },
@@ -114,7 +114,9 @@ export default function ComparelyDashboard() {
       <section className="big-category-section">
         <div className="big-category-grid">
           {bigCategories.map((cat, idx) => (
-            <div className="big-category-card" key={idx}>
+            <div className="big-category-card" key={idx}
+            onClick={() => navigate(`/products?category=${encodeURIComponent(cat.name)}`)}
+              style={{ cursor: "pointer" }}>
               <div className="big-category-img-wrap">
                 <img src={cat.image} alt={cat.name} />
               </div>
@@ -203,3 +205,4 @@ export default function ComparelyDashboard() {
     </div>
   );
 }
+

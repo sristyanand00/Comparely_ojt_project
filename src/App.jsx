@@ -41,7 +41,9 @@ function App() {
             </PrivateRoute>
           }
         />
-        <Route path="/products" element={<ProductListingPage />} />
+        <Route path="/products/category/:categoryName" element={<ProductListingPage />} />
+<Route path="/products" element={<ProductListingPage />} />
+
         <Route path="/profile" element={<ProfilePage />} />
       </Routes>
     </Router>
