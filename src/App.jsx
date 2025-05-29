@@ -7,6 +7,7 @@ import { onAuthStateChanged } from 'firebase/auth';
 import { auth } from './firebase';
 import ProductListingPage from './Components/ProductListing/ProductListingPage';
 import ProfilePage from "./Components/Profile/ProfilePage";
+import CategoryPage from "./Components/CategoryPage";
 
 function PrivateRoute({ user, children }) {
   return user ? children : <Navigate to="/auth" replace />;
@@ -43,6 +44,7 @@ function App() {
         />
         <Route path="/products" element={<ProductListingPage />} />
         <Route path="/profile" element={<ProfilePage />} />
+        <Route path="/category/:categoryName" element={<CategoryPage />} />
       </Routes>
     </Router>
   );

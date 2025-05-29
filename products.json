@@ -1,0 +1,4762 @@
+[
+  {
+    "name": "Puma Laptop 815",
+    "brand": "Puma",
+    "category": "Frozen Foods",
+    "description": "Laptop by Puma in Frozen Foods.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 157,
+      "instamart": 106,
+      "blinkit": 257,
+      "jiomart": 281
+    },
+    "updatedAt": "2025-02-06T06:10:27.876Z"
+  },
+  {
+    "name": "Tata Oats 98",
+    "brand": "Tata",
+    "category": "Frozen Foods",
+    "description": "Oats by Tata in Frozen Foods.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 165,
+      "instamart": 402,
+      "blinkit": 234,
+      "jiomart": 238
+    },
+    "updatedAt": "2025-03-29T17:05:14.515Z"
+  },
+  {
+    "name": "Safal Butter 276",
+    "brand": "Safal",
+    "category": "Frozen Foods",
+    "description": "Butter by Safal in Frozen Foods.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 191,
+      "instamart": 365,
+      "blinkit": 222,
+      "jiomart": 132
+    },
+    "updatedAt": "2025-03-31T18:30:59.697Z"
+  },
+  {
+    "name": "Nescafe Green Peas 805",
+    "brand": "Nescafe",
+    "category": "Frozen Foods",
+    "description": "Green Peas by Nescafe in Frozen Foods.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 286,
+      "instamart": 116,
+      "blinkit": 50,
+      "jiomart": 362
+    },
+    "updatedAt": "2025-04-20T07:16:28.393Z"
+  },
+  {
+    "name": "Mother Dairy Shoes 448",
+    "brand": "Mother Dairy",
+    "category": "Frozen Foods",
+    "description": "Shoes by Mother Dairy in Frozen Foods.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 321,
+      "instamart": 140,
+      "blinkit": 388,
+      "jiomart": 369
+    },
+    "updatedAt": "2025-03-27T13:14:47.348Z"
+  },
+  {
+    "name": "MTR French Fries 65",
+    "brand": "MTR",
+    "category": "Frozen Foods",
+    "description": "French Fries by MTR in Frozen Foods.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 108,
+      "instamart": 226,
+      "blinkit": 156,
+      "jiomart": 372
+    },
+    "updatedAt": "2025-05-10T06:51:44.877Z"
+  },
+  {
+    "name": "Samsung Shampoo 916",
+    "brand": "Samsung",
+    "category": "Frozen Foods",
+    "description": "Shampoo by Samsung in Frozen Foods.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 168,
+      "instamart": 165,
+      "blinkit": 326,
+      "jiomart": 326
+    },
+    "updatedAt": "2025-03-02T12:18:32.906Z"
+  },
+  {
+    "name": "Hershey's Atta 705",
+    "brand": "Hershey's",
+    "category": "Frozen Foods",
+    "description": "Atta by Hershey's in Frozen Foods.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 301,
+      "instamart": 343,
+      "blinkit": 353,
+      "jiomart": 253
+    },
+    "updatedAt": "2025-04-24T06:19:21.456Z"
+  },
+  {
+    "name": "Mi Face Cream 714",
+    "brand": "Mi",
+    "category": "Frozen Foods",
+    "description": "Face Cream by Mi in Frozen Foods.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 166,
+      "instamart": 55,
+      "blinkit": 113,
+      "jiomart": 297
+    },
+    "updatedAt": "2025-05-26T17:44:01.182Z"
+  },
+  {
+    "name": "Parle-G Biscuits 227",
+    "brand": "Parle-G",
+    "category": "Frozen Foods",
+    "description": "Biscuits by Parle-G in Frozen Foods.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 248,
+      "instamart": 105,
+      "blinkit": 405,
+      "jiomart": 288
+    },
+    "updatedAt": "2025-02-26T22:20:39.842Z"
+  },
+  {
+    "name": "Keventers Aloo Tikki 385",
+    "brand": "Keventers",
+    "category": "Frozen Foods",
+    "description": "Aloo Tikki by Keventers in Frozen Foods.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 237,
+      "instamart": 184,
+      "blinkit": 144,
+      "jiomart": 226
+    },
+    "updatedAt": "2025-05-22T19:21:24.908Z"
+  },
+  {
+    "name": "Uncle Chipps Toy 399",
+    "brand": "Uncle Chipps",
+    "category": "Frozen Foods",
+    "description": "Toy by Uncle Chipps in Frozen Foods.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 259,
+      "instamart": 161,
+      "blinkit": 315,
+      "jiomart": 390
+    },
+    "updatedAt": "2025-02-27T03:39:29.333Z"
+  },
+  {
+    "name": "Puma Laptop 989",
+    "brand": "Puma",
+    "category": "Frozen Foods",
+    "description": "Laptop by Puma in Frozen Foods.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 373,
+      "instamart": 265,
+      "blinkit": 251,
+      "jiomart": 132
+    },
+    "updatedAt": "2025-03-22T18:32:03.076Z"
+  },
+  {
+    "name": "MTR Cookies 72",
+    "brand": "MTR",
+    "category": "Frozen Foods",
+    "description": "Cookies by MTR in Frozen Foods.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 389,
+      "instamart": 127,
+      "blinkit": 183,
+      "jiomart": 154
+    },
+    "updatedAt": "2025-05-02T03:38:17.675Z"
+  },
+  {
+    "name": "Aashirvaad Juice 169",
+    "brand": "Aashirvaad",
+    "category": "Frozen Foods",
+    "description": "Juice by Aashirvaad in Frozen Foods.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 91,
+      "instamart": 194,
+      "blinkit": 28,
+      "jiomart": 209
+    },
+    "updatedAt": "2025-04-02T14:15:09.286Z"
+  },
+  {
+    "name": "Adidas Tea 326",
+    "brand": "Adidas",
+    "category": "Frozen Foods",
+    "description": "Tea by Adidas in Frozen Foods.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 336,
+      "instamart": 166,
+      "blinkit": 264,
+      "jiomart": 45
+    },
+    "updatedAt": "2025-03-15T09:21:12.458Z"
+  },
+  {
+    "name": "Mi Nuggets 645",
+    "brand": "Mi",
+    "category": "Frozen Foods",
+    "description": "Nuggets by Mi in Frozen Foods.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 209,
+      "instamart": 139,
+      "blinkit": 44,
+      "jiomart": 85
+    },
+    "updatedAt": "2025-04-06T22:42:59.633Z"
+  },
+  {
+    "name": "Tata Sampann Chips 678",
+    "brand": "Tata Sampann",
+    "category": "Frozen Foods",
+    "description": "Chips by Tata Sampann in Frozen Foods.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 371,
+      "instamart": 130,
+      "blinkit": 240,
+      "jiomart": 211
+    },
+    "updatedAt": "2025-02-09T08:29:07.445Z"
+  },
+  {
+    "name": "Nestle Nuggets 388",
+    "brand": "Nestle",
+    "category": "Frozen Foods",
+    "description": "Nuggets by Nestle in Frozen Foods.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 228,
+      "instamart": 213,
+      "blinkit": 419,
+      "jiomart": 162
+    },
+    "updatedAt": "2025-02-25T17:42:21.861Z"
+  },
+  {
+    "name": "Samsung Cookies 262",
+    "brand": "Samsung",
+    "category": "Frozen Foods",
+    "description": "Cookies by Samsung in Frozen Foods.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 283,
+      "instamart": 95,
+      "blinkit": 170,
+      "jiomart": 60
+    },
+    "updatedAt": "2025-05-09T16:47:52.285Z"
+  },
+  {
+    "name": "Daawat Health Drink 193",
+    "brand": "Daawat",
+    "category": "Dairy, Bread & Eggs",
+    "description": "Health Drink by Daawat in Dairy, Bread & Eggs.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 50,
+      "instamart": 130,
+      "blinkit": 322,
+      "jiomart": 320
+    },
+    "updatedAt": "2025-05-24T19:39:55.431Z"
+  },
+  {
+    "name": "Puma Milk 956",
+    "brand": "Puma",
+    "category": "Dairy, Bread & Eggs",
+    "description": "Milk by Puma in Dairy, Bread & Eggs.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 91,
+      "instamart": 394,
+      "blinkit": 299,
+      "jiomart": 203
+    },
+    "updatedAt": "2025-03-22T08:12:21.648Z"
+  },
+  {
+    "name": "Adidas Health Drink 777",
+    "brand": "Adidas",
+    "category": "Dairy, Bread & Eggs",
+    "description": "Health Drink by Adidas in Dairy, Bread & Eggs.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 41,
+      "instamart": 202,
+      "blinkit": 385,
+      "jiomart": 210
+    },
+    "updatedAt": "2025-02-26T15:50:17.869Z"
+  },
+  {
+    "name": "Harvest Gold French Fries 168",
+    "brand": "Harvest Gold",
+    "category": "Dairy, Bread & Eggs",
+    "description": "French Fries by Harvest Gold in Dairy, Bread & Eggs.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 266,
+      "instamart": 307,
+      "blinkit": 30,
+      "jiomart": 155
+    },
+    "updatedAt": "2025-05-19T19:31:08.092Z"
+  },
+  {
+    "name": "Bru Tea 8",
+    "brand": "Bru",
+    "category": "Dairy, Bread & Eggs",
+    "description": "Tea by Bru in Dairy, Bread & Eggs.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 362,
+      "instamart": 132,
+      "blinkit": 130,
+      "jiomart": 419
+    },
+    "updatedAt": "2025-04-28T19:31:22.774Z"
+  },
+  {
+    "name": "MTR Bread 506",
+    "brand": "MTR",
+    "category": "Dairy, Bread & Eggs",
+    "description": "Bread by MTR in Dairy, Bread & Eggs.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 189,
+      "instamart": 229,
+      "blinkit": 125,
+      "jiomart": 73
+    },
+    "updatedAt": "2025-04-09T07:23:13.539Z"
+  },
+  {
+    "name": "India Gate Cookies 444",
+    "brand": "India Gate",
+    "category": "Dairy, Bread & Eggs",
+    "description": "Cookies by India Gate in Dairy, Bread & Eggs.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 171,
+      "instamart": 97,
+      "blinkit": 139,
+      "jiomart": 229
+    },
+    "updatedAt": "2025-02-03T23:27:28.330Z"
+  },
+  {
+    "name": "Kurkure Eggs 683",
+    "brand": "Kurkure",
+    "category": "Dairy, Bread & Eggs",
+    "description": "Eggs by Kurkure in Dairy, Bread & Eggs.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 90,
+      "instamart": 240,
+      "blinkit": 220,
+      "jiomart": 317
+    },
+    "updatedAt": "2025-05-08T18:20:29.601Z"
+  },
+  {
+    "name": "HP Atta 842",
+    "brand": "HP",
+    "category": "Dairy, Bread & Eggs",
+    "description": "Atta by HP in Dairy, Bread & Eggs.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 160,
+      "instamart": 125,
+      "blinkit": 301,
+      "jiomart": 329
+    },
+    "updatedAt": "2025-02-02T05:13:20.030Z"
+  },
+  {
+    "name": "Boost Chicken Nuggets 332",
+    "brand": "Boost",
+    "category": "Dairy, Bread & Eggs",
+    "description": "Chicken Nuggets by Boost in Dairy, Bread & Eggs.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 84,
+      "instamart": 244,
+      "blinkit": 25,
+      "jiomart": 386
+    },
+    "updatedAt": "2025-04-10T09:15:46.718Z"
+  },
+  {
+    "name": "Lays Book 379",
+    "brand": "Lays",
+    "category": "Dairy, Bread & Eggs",
+    "description": "Book by Lays in Dairy, Bread & Eggs.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 207,
+      "instamart": 324,
+      "blinkit": 243,
+      "jiomart": 300
+    },
+    "updatedAt": "2025-02-04T19:56:16.210Z"
+  },
+  {
+    "name": "Kellogg's Butter 609",
+    "brand": "Kellogg's",
+    "category": "Dairy, Bread & Eggs",
+    "description": "Butter by Kellogg's in Dairy, Bread & Eggs.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 359,
+      "instamart": 314,
+      "blinkit": 48,
+      "jiomart": 362
+    },
+    "updatedAt": "2025-03-08T22:46:21.652Z"
+  },
+  {
+    "name": "Godrej Book 680",
+    "brand": "Godrej",
+    "category": "Dairy, Bread & Eggs",
+    "description": "Book by Godrej in Dairy, Bread & Eggs.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 363,
+      "instamart": 129,
+      "blinkit": 253,
+      "jiomart": 393
+    },
+    "updatedAt": "2025-04-25T21:04:49.790Z"
+  },
+  {
+    "name": "Sunfeast Face Cream 373",
+    "brand": "Sunfeast",
+    "category": "Dairy, Bread & Eggs",
+    "description": "Face Cream by Sunfeast in Dairy, Bread & Eggs.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 179,
+      "instamart": 223,
+      "blinkit": 93,
+      "jiomart": 121
+    },
+    "updatedAt": "2025-03-06T10:24:26.265Z"
+  },
+  {
+    "name": "ITC Mobile 902",
+    "brand": "ITC",
+    "category": "Dairy, Bread & Eggs",
+    "description": "Mobile by ITC in Dairy, Bread & Eggs.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 383,
+      "instamart": 136,
+      "blinkit": 410,
+      "jiomart": 33
+    },
+    "updatedAt": "2025-05-05T01:42:03.381Z"
+  },
+  {
+    "name": "Dell Juice 248",
+    "brand": "Dell",
+    "category": "Dairy, Bread & Eggs",
+    "description": "Juice by Dell in Dairy, Bread & Eggs.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 244,
+      "instamart": 403,
+      "blinkit": 105,
+      "jiomart": 279
+    },
+    "updatedAt": "2025-03-17T14:54:33.339Z"
+  },
+  {
+    "name": "Puma Green Peas 596",
+    "brand": "Puma",
+    "category": "Dairy, Bread & Eggs",
+    "description": "Green Peas by Puma in Dairy, Bread & Eggs.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 364,
+      "instamart": 183,
+      "blinkit": 101,
+      "jiomart": 228
+    },
+    "updatedAt": "2025-02-13T17:44:06.727Z"
+  },
+  {
+    "name": "Bru Shoes 571",
+    "brand": "Bru",
+    "category": "Dairy, Bread & Eggs",
+    "description": "Shoes by Bru in Dairy, Bread & Eggs.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 36,
+      "instamart": 255,
+      "blinkit": 83,
+      "jiomart": 278
+    },
+    "updatedAt": "2025-05-20T02:51:50.675Z"
+  },
+  {
+    "name": "Harvest Gold Noodles 175",
+    "brand": "Harvest Gold",
+    "category": "Dairy, Bread & Eggs",
+    "description": "Noodles by Harvest Gold in Dairy, Bread & Eggs.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 66,
+      "instamart": 355,
+      "blinkit": 275,
+      "jiomart": 175
+    },
+    "updatedAt": "2025-03-10T20:28:40.337Z"
+  },
+  {
+    "name": "Godrej Tea 299",
+    "brand": "Godrej",
+    "category": "Dairy, Bread & Eggs",
+    "description": "Tea by Godrej in Dairy, Bread & Eggs.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 369,
+      "instamart": 281,
+      "blinkit": 30,
+      "jiomart": 232
+    },
+    "updatedAt": "2025-04-12T05:59:38.923Z"
+  },
+  {
+    "name": "Bingo Atta 702",
+    "brand": "Bingo",
+    "category": "Cold Drinks & Juices",
+    "description": "Atta by Bingo in Cold Drinks & Juices.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 256,
+      "instamart": 54,
+      "blinkit": 318,
+      "jiomart": 393
+    },
+    "updatedAt": "2025-04-30T20:03:36.836Z"
+  },
+  {
+    "name": "Samsung Coffee 211",
+    "brand": "Samsung",
+    "category": "Cold Drinks & Juices",
+    "description": "Coffee by Samsung in Cold Drinks & Juices.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 364,
+      "instamart": 20,
+      "blinkit": 242,
+      "jiomart": 146
+    },
+    "updatedAt": "2025-05-02T12:54:32.861Z"
+  },
+  {
+    "name": "Godrej Butter 874",
+    "brand": "Godrej",
+    "category": "Cold Drinks & Juices",
+    "description": "Butter by Godrej in Cold Drinks & Juices.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 164,
+      "instamart": 396,
+      "blinkit": 140,
+      "jiomart": 173
+    },
+    "updatedAt": "2025-03-09T16:32:32.773Z"
+  },
+  {
+    "name": "Parle-G Soft Drink 993",
+    "brand": "Parle-G",
+    "category": "Cold Drinks & Juices",
+    "description": "Soft Drink by Parle-G in Cold Drinks & Juices.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 178,
+      "instamart": 190,
+      "blinkit": 407,
+      "jiomart": 387
+    },
+    "updatedAt": "2025-05-19T23:44:47.854Z"
+  },
+  {
+    "name": "Hershey's Atta 982",
+    "brand": "Hershey's",
+    "category": "Cold Drinks & Juices",
+    "description": "Atta by Hershey's in Cold Drinks & Juices.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 338,
+      "instamart": 341,
+      "blinkit": 213,
+      "jiomart": 259
+    },
+    "updatedAt": "2025-02-03T09:57:54.243Z"
+  },
+  {
+    "name": "Tata Bread 123",
+    "brand": "Tata",
+    "category": "Cold Drinks & Juices",
+    "description": "Bread by Tata in Cold Drinks & Juices.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 275,
+      "instamart": 241,
+      "blinkit": 70,
+      "jiomart": 277
+    },
+    "updatedAt": "2025-03-16T03:11:32.898Z"
+  },
+  {
+    "name": "Amul Cheese 615",
+    "brand": "Amul",
+    "category": "Cold Drinks & Juices",
+    "description": "Cheese by Amul in Cold Drinks & Juices.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 68,
+      "instamart": 226,
+      "blinkit": 339,
+      "jiomart": 352
+    },
+    "updatedAt": "2025-04-01T06:31:39.150Z"
+  },
+  {
+    "name": "Aashirvaad Coffee 3",
+    "brand": "Aashirvaad",
+    "category": "Cold Drinks & Juices",
+    "description": "Coffee by Aashirvaad in Cold Drinks & Juices.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 239,
+      "instamart": 131,
+      "blinkit": 262,
+      "jiomart": 309
+    },
+    "updatedAt": "2025-04-30T06:15:17.666Z"
+  },
+  {
+    "name": "Minute Maid Eggs 563",
+    "brand": "Minute Maid",
+    "category": "Cold Drinks & Juices",
+    "description": "Eggs by Minute Maid in Cold Drinks & Juices.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 158,
+      "instamart": 242,
+      "blinkit": 178,
+      "jiomart": 341
+    },
+    "updatedAt": "2025-02-19T18:04:39.902Z"
+  },
+  {
+    "name": "Coca Cola Dal 184",
+    "brand": "Coca Cola",
+    "category": "Cold Drinks & Juices",
+    "description": "Dal by Coca Cola in Cold Drinks & Juices.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 24,
+      "instamart": 60,
+      "blinkit": 101,
+      "jiomart": 226
+    },
+    "updatedAt": "2025-05-24T21:20:20.262Z"
+  },
+  {
+    "name": "Tata Bread 677",
+    "brand": "Tata",
+    "category": "Cold Drinks & Juices",
+    "description": "Bread by Tata in Cold Drinks & Juices.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 177,
+      "instamart": 68,
+      "blinkit": 256,
+      "jiomart": 389
+    },
+    "updatedAt": "2025-04-03T14:23:42.386Z"
+  },
+  {
+    "name": "Nike Milk 978",
+    "brand": "Nike",
+    "category": "Cold Drinks & Juices",
+    "description": "Milk by Nike in Cold Drinks & Juices.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 120,
+      "instamart": 402,
+      "blinkit": 91,
+      "jiomart": 204
+    },
+    "updatedAt": "2025-04-12T18:11:53.104Z"
+  },
+  {
+    "name": "Quaker Laptop 73",
+    "brand": "Quaker",
+    "category": "Cold Drinks & Juices",
+    "description": "Laptop by Quaker in Cold Drinks & Juices.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 145,
+      "instamart": 335,
+      "blinkit": 63,
+      "jiomart": 279
+    },
+    "updatedAt": "2025-04-03T22:15:05.064Z"
+  },
+  {
+    "name": "Pepsi Juice 296",
+    "brand": "Pepsi",
+    "category": "Cold Drinks & Juices",
+    "description": "Juice by Pepsi in Cold Drinks & Juices.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 351,
+      "instamart": 397,
+      "blinkit": 45,
+      "jiomart": 286
+    },
+    "updatedAt": "2025-04-03T11:23:44.714Z"
+  },
+  {
+    "name": "McCain Health Drink 555",
+    "brand": "McCain",
+    "category": "Cold Drinks & Juices",
+    "description": "Health Drink by McCain in Cold Drinks & Juices.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 324,
+      "instamart": 338,
+      "blinkit": 362,
+      "jiomart": 412
+    },
+    "updatedAt": "2025-03-28T20:56:00.016Z"
+  },
+  {
+    "name": "Lays Milk 816",
+    "brand": "Lays",
+    "category": "Cold Drinks & Juices",
+    "description": "Milk by Lays in Cold Drinks & Juices.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 293,
+      "instamart": 161,
+      "blinkit": 410,
+      "jiomart": 300
+    },
+    "updatedAt": "2025-02-16T02:14:00.044Z"
+  },
+  {
+    "name": "Dell Face Cream 517",
+    "brand": "Dell",
+    "category": "Cold Drinks & Juices",
+    "description": "Face Cream by Dell in Cold Drinks & Juices.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 98,
+      "instamart": 387,
+      "blinkit": 217,
+      "jiomart": 313
+    },
+    "updatedAt": "2025-02-23T13:00:30.014Z"
+  },
+  {
+    "name": "Boost Cookies 945",
+    "brand": "Boost",
+    "category": "Cold Drinks & Juices",
+    "description": "Cookies by Boost in Cold Drinks & Juices.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 311,
+      "instamart": 21,
+      "blinkit": 354,
+      "jiomart": 41
+    },
+    "updatedAt": "2025-03-03T21:54:58.838Z"
+  },
+  {
+    "name": "Samsung Chocolate 51",
+    "brand": "Samsung",
+    "category": "Cold Drinks & Juices",
+    "description": "Chocolate by Samsung in Cold Drinks & Juices.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 353,
+      "instamart": 127,
+      "blinkit": 96,
+      "jiomart": 54
+    },
+    "updatedAt": "2025-04-02T14:05:05.665Z"
+  },
+  {
+    "name": "Yummiez Shoes 768",
+    "brand": "Yummiez",
+    "category": "Cold Drinks & Juices",
+    "description": "Shoes by Yummiez in Cold Drinks & Juices.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 30,
+      "instamart": 384,
+      "blinkit": 397,
+      "jiomart": 301
+    },
+    "updatedAt": "2025-02-08T11:37:48.715Z"
+  },
+  {
+    "name": "Amul Health Drink 379",
+    "brand": "Amul",
+    "category": "Snacks & Munchies",
+    "description": "Health Drink by Amul in Snacks & Munchies.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 219,
+      "instamart": 415,
+      "blinkit": 28,
+      "jiomart": 217
+    },
+    "updatedAt": "2025-02-11T18:48:43.320Z"
+  },
+  {
+    "name": "Unibic Upma Mix 368",
+    "brand": "Unibic",
+    "category": "Snacks & Munchies",
+    "description": "Upma Mix by Unibic in Snacks & Munchies.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 277,
+      "instamart": 39,
+      "blinkit": 87,
+      "jiomart": 150
+    },
+    "updatedAt": "2025-05-02T04:27:46.905Z"
+  },
+  {
+    "name": "Unibic Health Drink 350",
+    "brand": "Unibic",
+    "category": "Snacks & Munchies",
+    "description": "Health Drink by Unibic in Snacks & Munchies.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 361,
+      "instamart": 413,
+      "blinkit": 186,
+      "jiomart": 105
+    },
+    "updatedAt": "2025-05-09T00:57:56.949Z"
+  },
+  {
+    "name": "Safal Upma Mix 522",
+    "brand": "Safal",
+    "category": "Snacks & Munchies",
+    "description": "Upma Mix by Safal in Snacks & Munchies.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 385,
+      "instamart": 284,
+      "blinkit": 148,
+      "jiomart": 337
+    },
+    "updatedAt": "2025-03-28T21:00:46.755Z"
+  },
+  {
+    "name": "McCain Milk 11",
+    "brand": "McCain",
+    "category": "Snacks & Munchies",
+    "description": "Milk by McCain in Snacks & Munchies.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 80,
+      "instamart": 99,
+      "blinkit": 86,
+      "jiomart": 241
+    },
+    "updatedAt": "2025-02-07T09:01:48.340Z"
+  },
+  {
+    "name": "Quaker Chocolate 320",
+    "brand": "Quaker",
+    "category": "Snacks & Munchies",
+    "description": "Chocolate by Quaker in Snacks & Munchies.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 88,
+      "instamart": 314,
+      "blinkit": 112,
+      "jiomart": 282
+    },
+    "updatedAt": "2025-03-01T00:58:12.047Z"
+  },
+  {
+    "name": "Tata Soft Drink 543",
+    "brand": "Tata",
+    "category": "Snacks & Munchies",
+    "description": "Soft Drink by Tata in Snacks & Munchies.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 410,
+      "instamart": 380,
+      "blinkit": 294,
+      "jiomart": 207
+    },
+    "updatedAt": "2025-05-09T09:09:33.471Z"
+  },
+  {
+    "name": "HP Oats 882",
+    "brand": "HP",
+    "category": "Snacks & Munchies",
+    "description": "Oats by HP in Snacks & Munchies.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 375,
+      "instamart": 67,
+      "blinkit": 37,
+      "jiomart": 192
+    },
+    "updatedAt": "2025-03-30T05:57:09.262Z"
+  },
+  {
+    "name": "Minute Maid Chicken Nuggets 955",
+    "brand": "Minute Maid",
+    "category": "Snacks & Munchies",
+    "description": "Chicken Nuggets by Minute Maid in Snacks & Munchies.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 38,
+      "instamart": 172,
+      "blinkit": 24,
+      "jiomart": 266
+    },
+    "updatedAt": "2025-04-12T06:26:31.740Z"
+  },
+  {
+    "name": "Samsung Green Peas 352",
+    "brand": "Samsung",
+    "category": "Snacks & Munchies",
+    "description": "Green Peas by Samsung in Snacks & Munchies.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 75,
+      "instamart": 163,
+      "blinkit": 216,
+      "jiomart": 88
+    },
+    "updatedAt": "2025-03-31T21:52:10.176Z"
+  },
+  {
+    "name": "Puma Mobile 37",
+    "brand": "Puma",
+    "category": "Snacks & Munchies",
+    "description": "Mobile by Puma in Snacks & Munchies.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 226,
+      "instamart": 220,
+      "blinkit": 37,
+      "jiomart": 78
+    },
+    "updatedAt": "2025-04-06T03:54:52.570Z"
+  },
+  {
+    "name": "Dell Chocolate 628",
+    "brand": "Dell",
+    "category": "Snacks & Munchies",
+    "description": "Chocolate by Dell in Snacks & Munchies.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 412,
+      "instamart": 62,
+      "blinkit": 168,
+      "jiomart": 248
+    },
+    "updatedAt": "2025-02-13T02:01:14.974Z"
+  },
+  {
+    "name": "Harvest Gold Coffee 51",
+    "brand": "Harvest Gold",
+    "category": "Snacks & Munchies",
+    "description": "Coffee by Harvest Gold in Snacks & Munchies.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 77,
+      "instamart": 418,
+      "blinkit": 282,
+      "jiomart": 106
+    },
+    "updatedAt": "2025-03-16T20:59:38.569Z"
+  },
+  {
+    "name": "HP Dal 378",
+    "brand": "HP",
+    "category": "Snacks & Munchies",
+    "description": "Dal by HP in Snacks & Munchies.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 112,
+      "instamart": 240,
+      "blinkit": 58,
+      "jiomart": 345
+    },
+    "updatedAt": "2025-04-04T13:39:18.876Z"
+  },
+  {
+    "name": "Reebok Soft Drink 984",
+    "brand": "Reebok",
+    "category": "Snacks & Munchies",
+    "description": "Soft Drink by Reebok in Snacks & Munchies.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 365,
+      "instamart": 72,
+      "blinkit": 341,
+      "jiomart": 130
+    },
+    "updatedAt": "2025-03-20T03:23:13.599Z"
+  },
+  {
+    "name": "McCain Shoes 673",
+    "brand": "McCain",
+    "category": "Snacks & Munchies",
+    "description": "Shoes by McCain in Snacks & Munchies.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 345,
+      "instamart": 141,
+      "blinkit": 358,
+      "jiomart": 412
+    },
+    "updatedAt": "2025-05-23T22:44:31.704Z"
+  },
+  {
+    "name": "Kellogg's Shoes 612",
+    "brand": "Kellogg's",
+    "category": "Snacks & Munchies",
+    "description": "Shoes by Kellogg's in Snacks & Munchies.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 72,
+      "instamart": 43,
+      "blinkit": 215,
+      "jiomart": 378
+    },
+    "updatedAt": "2025-04-26T03:48:07.350Z"
+  },
+  {
+    "name": "Nestle Green Peas 257",
+    "brand": "Nestle",
+    "category": "Snacks & Munchies",
+    "description": "Green Peas by Nestle in Snacks & Munchies.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 109,
+      "instamart": 309,
+      "blinkit": 336,
+      "jiomart": 343
+    },
+    "updatedAt": "2025-05-18T22:50:25.703Z"
+  },
+  {
+    "name": "Boost Soft Drink 960",
+    "brand": "Boost",
+    "category": "Snacks & Munchies",
+    "description": "Soft Drink by Boost in Snacks & Munchies.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 215,
+      "instamart": 193,
+      "blinkit": 105,
+      "jiomart": 253
+    },
+    "updatedAt": "2025-03-26T16:24:39.172Z"
+  },
+  {
+    "name": "Keventers Butter 513",
+    "brand": "Keventers",
+    "category": "Snacks & Munchies",
+    "description": "Butter by Keventers in Snacks & Munchies.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 179,
+      "instamart": 402,
+      "blinkit": 288,
+      "jiomart": 205
+    },
+    "updatedAt": "2025-04-07T18:32:44.138Z"
+  },
+  {
+    "name": "Nestle Juice 602",
+    "brand": "Nestle",
+    "category": "Breakfast & Instant Food",
+    "description": "Juice by Nestle in Breakfast & Instant Food.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 156,
+      "instamart": 127,
+      "blinkit": 276,
+      "jiomart": 64
+    },
+    "updatedAt": "2025-04-06T11:02:29.457Z"
+  },
+  {
+    "name": "Amul Shoes 281",
+    "brand": "Amul",
+    "category": "Breakfast & Instant Food",
+    "description": "Shoes by Amul in Breakfast & Instant Food.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 229,
+      "instamart": 307,
+      "blinkit": 338,
+      "jiomart": 54
+    },
+    "updatedAt": "2025-03-31T02:12:38.574Z"
+  },
+  {
+    "name": "Parle-G Coffee 910",
+    "brand": "Parle-G",
+    "category": "Breakfast & Instant Food",
+    "description": "Coffee by Parle-G in Breakfast & Instant Food.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 411,
+      "instamart": 168,
+      "blinkit": 246,
+      "jiomart": 389
+    },
+    "updatedAt": "2025-04-27T08:00:03.107Z"
+  },
+  {
+    "name": "Britannia Butter 89",
+    "brand": "Britannia",
+    "category": "Breakfast & Instant Food",
+    "description": "Butter by Britannia in Breakfast & Instant Food.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 307,
+      "instamart": 73,
+      "blinkit": 188,
+      "jiomart": 163
+    },
+    "updatedAt": "2025-04-02T11:07:46.309Z"
+  },
+  {
+    "name": "Amul Milk 17",
+    "brand": "Amul",
+    "category": "Breakfast & Instant Food",
+    "description": "Milk by Amul in Breakfast & Instant Food.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 270,
+      "instamart": 204,
+      "blinkit": 375,
+      "jiomart": 347
+    },
+    "updatedAt": "2025-03-23T12:15:23.475Z"
+  },
+  {
+    "name": "Oreo Aloo Tikki 541",
+    "brand": "Oreo",
+    "category": "Breakfast & Instant Food",
+    "description": "Aloo Tikki by Oreo in Breakfast & Instant Food.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 239,
+      "instamart": 89,
+      "blinkit": 157,
+      "jiomart": 214
+    },
+    "updatedAt": "2025-04-22T11:34:33.667Z"
+  },
+  {
+    "name": "Nescafe Juice 332",
+    "brand": "Nescafe",
+    "category": "Breakfast & Instant Food",
+    "description": "Juice by Nescafe in Breakfast & Instant Food.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 172,
+      "instamart": 257,
+      "blinkit": 83,
+      "jiomart": 113
+    },
+    "updatedAt": "2025-03-13T01:19:08.208Z"
+  },
+  {
+    "name": "Maggi Rice 946",
+    "brand": "Maggi",
+    "category": "Breakfast & Instant Food",
+    "description": "Rice by Maggi in Breakfast & Instant Food.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 319,
+      "instamart": 57,
+      "blinkit": 334,
+      "jiomart": 419
+    },
+    "updatedAt": "2025-04-29T08:00:38.404Z"
+  },
+  {
+    "name": "Bingo Eggs 539",
+    "brand": "Bingo",
+    "category": "Breakfast & Instant Food",
+    "description": "Eggs by Bingo in Breakfast & Instant Food.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 148,
+      "instamart": 345,
+      "blinkit": 352,
+      "jiomart": 29
+    },
+    "updatedAt": "2025-05-03T11:23:28.789Z"
+  },
+  {
+    "name": "Puma Tea 759",
+    "brand": "Puma",
+    "category": "Breakfast & Instant Food",
+    "description": "Tea by Puma in Breakfast & Instant Food.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 60,
+      "instamart": 147,
+      "blinkit": 261,
+      "jiomart": 205
+    },
+    "updatedAt": "2025-02-07T10:24:21.761Z"
+  },
+  {
+    "name": "Godrej Soft Drink 576",
+    "brand": "Godrej",
+    "category": "Breakfast & Instant Food",
+    "description": "Soft Drink by Godrej in Breakfast & Instant Food.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 130,
+      "instamart": 342,
+      "blinkit": 158,
+      "jiomart": 55
+    },
+    "updatedAt": "2025-02-06T12:51:49.412Z"
+  },
+  {
+    "name": "Amul Rice 30",
+    "brand": "Amul",
+    "category": "Breakfast & Instant Food",
+    "description": "Rice by Amul in Breakfast & Instant Food.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 169,
+      "instamart": 100,
+      "blinkit": 280,
+      "jiomart": 406
+    },
+    "updatedAt": "2025-02-14T08:22:19.179Z"
+  },
+  {
+    "name": "Britannia Milk 945",
+    "brand": "Britannia",
+    "category": "Breakfast & Instant Food",
+    "description": "Milk by Britannia in Breakfast & Instant Food.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 276,
+      "instamart": 301,
+      "blinkit": 304,
+      "jiomart": 319
+    },
+    "updatedAt": "2025-04-13T14:36:43.042Z"
+  },
+  {
+    "name": "Lays Milk 956",
+    "brand": "Lays",
+    "category": "Breakfast & Instant Food",
+    "description": "Milk by Lays in Breakfast & Instant Food.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 236,
+      "instamart": 408,
+      "blinkit": 293,
+      "jiomart": 54
+    },
+    "updatedAt": "2025-02-04T00:28:39.907Z"
+  },
+  {
+    "name": "India Gate Rice 312",
+    "brand": "India Gate",
+    "category": "Breakfast & Instant Food",
+    "description": "Rice by India Gate in Breakfast & Instant Food.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 379,
+      "instamart": 308,
+      "blinkit": 327,
+      "jiomart": 40
+    },
+    "updatedAt": "2025-03-14T16:56:27.236Z"
+  },
+  {
+    "name": "Fortune Biscuits 90",
+    "brand": "Fortune",
+    "category": "Breakfast & Instant Food",
+    "description": "Biscuits by Fortune in Breakfast & Instant Food.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 408,
+      "instamart": 343,
+      "blinkit": 126,
+      "jiomart": 259
+    },
+    "updatedAt": "2025-02-25T05:10:06.060Z"
+  },
+  {
+    "name": "MTR Toy 915",
+    "brand": "MTR",
+    "category": "Breakfast & Instant Food",
+    "description": "Toy by MTR in Breakfast & Instant Food.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 337,
+      "instamart": 199,
+      "blinkit": 219,
+      "jiomart": 411
+    },
+    "updatedAt": "2025-05-02T17:19:30.801Z"
+  },
+  {
+    "name": "Saffola Coffee 889",
+    "brand": "Saffola",
+    "category": "Breakfast & Instant Food",
+    "description": "Coffee by Saffola in Breakfast & Instant Food.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 387,
+      "instamart": 135,
+      "blinkit": 119,
+      "jiomart": 327
+    },
+    "updatedAt": "2025-04-18T07:01:57.125Z"
+  },
+  {
+    "name": "Lays Cheese 367",
+    "brand": "Lays",
+    "category": "Breakfast & Instant Food",
+    "description": "Cheese by Lays in Breakfast & Instant Food.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 373,
+      "instamart": 99,
+      "blinkit": 270,
+      "jiomart": 83
+    },
+    "updatedAt": "2025-02-02T21:29:28.855Z"
+  },
+  {
+    "name": "Coca Cola Rice 690",
+    "brand": "Coca Cola",
+    "category": "Breakfast & Instant Food",
+    "description": "Rice by Coca Cola in Breakfast & Instant Food.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 107,
+      "instamart": 181,
+      "blinkit": 43,
+      "jiomart": 359
+    },
+    "updatedAt": "2025-03-21T22:51:31.334Z"
+  },
+  {
+    "name": "ITC Biscuits 754",
+    "brand": "ITC",
+    "category": "Sweet Tooth",
+    "description": "Biscuits by ITC in Sweet Tooth.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 150,
+      "instamart": 366,
+      "blinkit": 257,
+      "jiomart": 239
+    },
+    "updatedAt": "2025-04-17T23:34:01.784Z"
+  },
+  {
+    "name": "McCain Chocolate 943",
+    "brand": "McCain",
+    "category": "Sweet Tooth",
+    "description": "Chocolate by McCain in Sweet Tooth.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 122,
+      "instamart": 413,
+      "blinkit": 312,
+      "jiomart": 36
+    },
+    "updatedAt": "2025-02-19T08:40:19.734Z"
+  },
+  {
+    "name": "Mother Dairy Green Peas 398",
+    "brand": "Mother Dairy",
+    "category": "Sweet Tooth",
+    "description": "Green Peas by Mother Dairy in Sweet Tooth.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 262,
+      "instamart": 212,
+      "blinkit": 314,
+      "jiomart": 206
+    },
+    "updatedAt": "2025-04-08T11:10:57.296Z"
+  },
+  {
+    "name": "Reebok Tea 144",
+    "brand": "Reebok",
+    "category": "Sweet Tooth",
+    "description": "Tea by Reebok in Sweet Tooth.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 191,
+      "instamart": 112,
+      "blinkit": 106,
+      "jiomart": 378
+    },
+    "updatedAt": "2025-03-18T14:10:06.836Z"
+  },
+  {
+    "name": "Fortune Rice 16",
+    "brand": "Fortune",
+    "category": "Sweet Tooth",
+    "description": "Rice by Fortune in Sweet Tooth.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 96,
+      "instamart": 229,
+      "blinkit": 84,
+      "jiomart": 306
+    },
+    "updatedAt": "2025-03-28T23:10:27.570Z"
+  },
+  {
+    "name": "Safal Coffee 535",
+    "brand": "Safal",
+    "category": "Sweet Tooth",
+    "description": "Coffee by Safal in Sweet Tooth.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 186,
+      "instamart": 88,
+      "blinkit": 137,
+      "jiomart": 88
+    },
+    "updatedAt": "2025-03-09T12:27:49.527Z"
+  },
+  {
+    "name": "Bru Noodles 478",
+    "brand": "Bru",
+    "category": "Sweet Tooth",
+    "description": "Noodles by Bru in Sweet Tooth.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 66,
+      "instamart": 103,
+      "blinkit": 367,
+      "jiomart": 334
+    },
+    "updatedAt": "2025-03-16T01:53:24.929Z"
+  },
+  {
+    "name": "Unibic Aloo Tikki 599",
+    "brand": "Unibic",
+    "category": "Sweet Tooth",
+    "description": "Aloo Tikki by Unibic in Sweet Tooth.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 265,
+      "instamart": 120,
+      "blinkit": 403,
+      "jiomart": 406
+    },
+    "updatedAt": "2025-03-19T11:24:01.102Z"
+  },
+  {
+    "name": "Uncle Chipps Noodles 824",
+    "brand": "Uncle Chipps",
+    "category": "Sweet Tooth",
+    "description": "Noodles by Uncle Chipps in Sweet Tooth.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 414,
+      "instamart": 172,
+      "blinkit": 415,
+      "jiomart": 143
+    },
+    "updatedAt": "2025-02-24T20:10:19.982Z"
+  },
+  {
+    "name": "Tata Shampoo 769",
+    "brand": "Tata",
+    "category": "Sweet Tooth",
+    "description": "Shampoo by Tata in Sweet Tooth.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 348,
+      "instamart": 205,
+      "blinkit": 369,
+      "jiomart": 145
+    },
+    "updatedAt": "2025-03-12T18:59:28.004Z"
+  },
+  {
+    "name": "Hershey's Oats 954",
+    "brand": "Hershey's",
+    "category": "Sweet Tooth",
+    "description": "Oats by Hershey's in Sweet Tooth.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 406,
+      "instamart": 104,
+      "blinkit": 177,
+      "jiomart": 278
+    },
+    "updatedAt": "2025-02-10T08:58:04.742Z"
+  },
+  {
+    "name": "Haldiram's French Fries 548",
+    "brand": "Haldiram's",
+    "category": "Sweet Tooth",
+    "description": "French Fries by Haldiram's in Sweet Tooth.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 403,
+      "instamart": 248,
+      "blinkit": 331,
+      "jiomart": 414
+    },
+    "updatedAt": "2025-04-12T02:16:26.410Z"
+  },
+  {
+    "name": "Parle-G Shoes 516",
+    "brand": "Parle-G",
+    "category": "Sweet Tooth",
+    "description": "Shoes by Parle-G in Sweet Tooth.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 258,
+      "instamart": 298,
+      "blinkit": 317,
+      "jiomart": 276
+    },
+    "updatedAt": "2025-02-23T20:05:16.280Z"
+  },
+  {
+    "name": "Real Laptop 772",
+    "brand": "Real",
+    "category": "Sweet Tooth",
+    "description": "Laptop by Real in Sweet Tooth.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 244,
+      "instamart": 258,
+      "blinkit": 85,
+      "jiomart": 96
+    },
+    "updatedAt": "2025-03-05T01:45:18.130Z"
+  },
+  {
+    "name": "Minute Maid Face Cream 175",
+    "brand": "Minute Maid",
+    "category": "Sweet Tooth",
+    "description": "Face Cream by Minute Maid in Sweet Tooth.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 390,
+      "instamart": 261,
+      "blinkit": 183,
+      "jiomart": 378
+    },
+    "updatedAt": "2025-03-11T15:42:14.800Z"
+  },
+  {
+    "name": "HP Laptop 908",
+    "brand": "HP",
+    "category": "Sweet Tooth",
+    "description": "Laptop by HP in Sweet Tooth.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 115,
+      "instamart": 32,
+      "blinkit": 73,
+      "jiomart": 56
+    },
+    "updatedAt": "2025-02-23T02:39:32.787Z"
+  },
+  {
+    "name": "Daawat French Fries 672",
+    "brand": "Daawat",
+    "category": "Sweet Tooth",
+    "description": "French Fries by Daawat in Sweet Tooth.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 284,
+      "instamart": 328,
+      "blinkit": 122,
+      "jiomart": 362
+    },
+    "updatedAt": "2025-02-05T01:18:20.491Z"
+  },
+  {
+    "name": "Tata Sampann Dal 184",
+    "brand": "Tata Sampann",
+    "category": "Sweet Tooth",
+    "description": "Dal by Tata Sampann in Sweet Tooth.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 176,
+      "instamart": 23,
+      "blinkit": 373,
+      "jiomart": 99
+    },
+    "updatedAt": "2025-03-16T09:22:45.608Z"
+  },
+  {
+    "name": "Tata Sampann Nuggets 438",
+    "brand": "Tata Sampann",
+    "category": "Sweet Tooth",
+    "description": "Nuggets by Tata Sampann in Sweet Tooth.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 151,
+      "instamart": 125,
+      "blinkit": 196,
+      "jiomart": 308
+    },
+    "updatedAt": "2025-02-17T11:42:32.980Z"
+  },
+  {
+    "name": "Saffola Eggs 675",
+    "brand": "Saffola",
+    "category": "Sweet Tooth",
+    "description": "Eggs by Saffola in Sweet Tooth.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 210,
+      "instamart": 327,
+      "blinkit": 344,
+      "jiomart": 41
+    },
+    "updatedAt": "2025-02-04T11:53:44.490Z"
+  },
+  {
+    "name": "Cadbury Cookies 493",
+    "brand": "Cadbury",
+    "category": "Bakery & Biscuits",
+    "description": "Cookies by Cadbury in Bakery & Biscuits.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 354,
+      "instamart": 95,
+      "blinkit": 225,
+      "jiomart": 189
+    },
+    "updatedAt": "2025-02-13T20:37:25.971Z"
+  },
+  {
+    "name": "Nescafe French Fries 869",
+    "brand": "Nescafe",
+    "category": "Bakery & Biscuits",
+    "description": "French Fries by Nescafe in Bakery & Biscuits.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 391,
+      "instamart": 63,
+      "blinkit": 311,
+      "jiomart": 262
+    },
+    "updatedAt": "2025-04-27T06:13:23.752Z"
+  },
+  {
+    "name": "McCain Toy 202",
+    "brand": "McCain",
+    "category": "Bakery & Biscuits",
+    "description": "Toy by McCain in Bakery & Biscuits.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 418,
+      "instamart": 150,
+      "blinkit": 253,
+      "jiomart": 411
+    },
+    "updatedAt": "2025-03-30T23:54:31.659Z"
+  },
+  {
+    "name": "Bingo Rice 415",
+    "brand": "Bingo",
+    "category": "Bakery & Biscuits",
+    "description": "Rice by Bingo in Bakery & Biscuits.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 269,
+      "instamart": 110,
+      "blinkit": 232,
+      "jiomart": 209
+    },
+    "updatedAt": "2025-03-30T18:32:09.287Z"
+  },
+  {
+    "name": "Tata Atta 792",
+    "brand": "Tata",
+    "category": "Bakery & Biscuits",
+    "description": "Atta by Tata in Bakery & Biscuits.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 31,
+      "instamart": 37,
+      "blinkit": 23,
+      "jiomart": 138
+    },
+    "updatedAt": "2025-05-02T12:57:27.435Z"
+  },
+  {
+    "name": "Haldiram's Face Cream 858",
+    "brand": "Haldiram's",
+    "category": "Bakery & Biscuits",
+    "description": "Face Cream by Haldiram's in Bakery & Biscuits.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 406,
+      "instamart": 160,
+      "blinkit": 115,
+      "jiomart": 53
+    },
+    "updatedAt": "2025-03-30T21:42:10.250Z"
+  },
+  {
+    "name": "Safal Book 230",
+    "brand": "Safal",
+    "category": "Bakery & Biscuits",
+    "description": "Book by Safal in Bakery & Biscuits.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 281,
+      "instamart": 89,
+      "blinkit": 339,
+      "jiomart": 69
+    },
+    "updatedAt": "2025-03-18T17:57:33.922Z"
+  },
+  {
+    "name": "Puma Milk 217",
+    "brand": "Puma",
+    "category": "Bakery & Biscuits",
+    "description": "Milk by Puma in Bakery & Biscuits.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 83,
+      "instamart": 379,
+      "blinkit": 272,
+      "jiomart": 173
+    },
+    "updatedAt": "2025-02-20T14:14:04.218Z"
+  },
+  {
+    "name": "Tropicana Tea 965",
+    "brand": "Tropicana",
+    "category": "Bakery & Biscuits",
+    "description": "Tea by Tropicana in Bakery & Biscuits.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 229,
+      "instamart": 388,
+      "blinkit": 367,
+      "jiomart": 94
+    },
+    "updatedAt": "2025-03-02T10:18:17.843Z"
+  },
+  {
+    "name": "Minute Maid Soft Drink 104",
+    "brand": "Minute Maid",
+    "category": "Bakery & Biscuits",
+    "description": "Soft Drink by Minute Maid in Bakery & Biscuits.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 127,
+      "instamart": 201,
+      "blinkit": 153,
+      "jiomart": 415
+    },
+    "updatedAt": "2025-02-12T13:26:08.192Z"
+  },
+  {
+    "name": "Parle-G Coffee 918",
+    "brand": "Parle-G",
+    "category": "Bakery & Biscuits",
+    "description": "Coffee by Parle-G in Bakery & Biscuits.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 372,
+      "instamart": 244,
+      "blinkit": 30,
+      "jiomart": 252
+    },
+    "updatedAt": "2025-03-08T11:32:19.135Z"
+  },
+  {
+    "name": "Harvest Gold Tea 27",
+    "brand": "Harvest Gold",
+    "category": "Bakery & Biscuits",
+    "description": "Tea by Harvest Gold in Bakery & Biscuits.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 142,
+      "instamart": 245,
+      "blinkit": 135,
+      "jiomart": 36
+    },
+    "updatedAt": "2025-03-25T00:26:26.823Z"
+  },
+  {
+    "name": "Keventers Juice 130",
+    "brand": "Keventers",
+    "category": "Bakery & Biscuits",
+    "description": "Juice by Keventers in Bakery & Biscuits.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 186,
+      "instamart": 410,
+      "blinkit": 67,
+      "jiomart": 58
+    },
+    "updatedAt": "2025-03-22T11:57:27.765Z"
+  },
+  {
+    "name": "India Gate Oats 959",
+    "brand": "India Gate",
+    "category": "Bakery & Biscuits",
+    "description": "Oats by India Gate in Bakery & Biscuits.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 288,
+      "instamart": 55,
+      "blinkit": 36,
+      "jiomart": 180
+    },
+    "updatedAt": "2025-05-17T23:14:29.515Z"
+  },
+  {
+    "name": "Nike Chocolate 318",
+    "brand": "Nike",
+    "category": "Bakery & Biscuits",
+    "description": "Chocolate by Nike in Bakery & Biscuits.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 368,
+      "instamart": 40,
+      "blinkit": 327,
+      "jiomart": 243
+    },
+    "updatedAt": "2025-02-05T07:57:28.073Z"
+  },
+  {
+    "name": "Daawat Eggs 42",
+    "brand": "Daawat",
+    "category": "Bakery & Biscuits",
+    "description": "Eggs by Daawat in Bakery & Biscuits.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 207,
+      "instamart": 55,
+      "blinkit": 276,
+      "jiomart": 326
+    },
+    "updatedAt": "2025-05-10T23:47:51.327Z"
+  },
+  {
+    "name": "Mi Chicken Nuggets 388",
+    "brand": "Mi",
+    "category": "Bakery & Biscuits",
+    "description": "Chicken Nuggets by Mi in Bakery & Biscuits.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 209,
+      "instamart": 343,
+      "blinkit": 237,
+      "jiomart": 242
+    },
+    "updatedAt": "2025-03-25T00:42:56.583Z"
+  },
+  {
+    "name": "Sunfeast Shoes 970",
+    "brand": "Sunfeast",
+    "category": "Bakery & Biscuits",
+    "description": "Shoes by Sunfeast in Bakery & Biscuits.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 270,
+      "instamart": 328,
+      "blinkit": 245,
+      "jiomart": 71
+    },
+    "updatedAt": "2025-04-06T21:07:32.306Z"
+  },
+  {
+    "name": "Parle-G Shoes 645",
+    "brand": "Parle-G",
+    "category": "Bakery & Biscuits",
+    "description": "Shoes by Parle-G in Bakery & Biscuits.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 211,
+      "instamart": 376,
+      "blinkit": 236,
+      "jiomart": 41
+    },
+    "updatedAt": "2025-05-05T21:58:31.729Z"
+  },
+  {
+    "name": "Cadbury Aloo Tikki 849",
+    "brand": "Cadbury",
+    "category": "Bakery & Biscuits",
+    "description": "Aloo Tikki by Cadbury in Bakery & Biscuits.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 49,
+      "instamart": 71,
+      "blinkit": 88,
+      "jiomart": 341
+    },
+    "updatedAt": "2025-04-20T02:33:42.425Z"
+  },
+  {
+    "name": "Pepsi Health Drink 632",
+    "brand": "Pepsi",
+    "category": "Tea, Coffee & Health Drink",
+    "description": "Health Drink by Pepsi in Tea, Coffee & Health Drink.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 113,
+      "instamart": 247,
+      "blinkit": 400,
+      "jiomart": 274
+    },
+    "updatedAt": "2025-03-05T05:33:13.159Z"
+  },
+  {
+    "name": "Boost Atta 774",
+    "brand": "Boost",
+    "category": "Tea, Coffee & Health Drink",
+    "description": "Atta by Boost in Tea, Coffee & Health Drink.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 230,
+      "instamart": 291,
+      "blinkit": 76,
+      "jiomart": 204
+    },
+    "updatedAt": "2025-05-08T18:40:40.270Z"
+  },
+  {
+    "name": "ITC Oats 840",
+    "brand": "ITC",
+    "category": "Tea, Coffee & Health Drink",
+    "description": "Oats by ITC in Tea, Coffee & Health Drink.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 322,
+      "instamart": 305,
+      "blinkit": 281,
+      "jiomart": 229
+    },
+    "updatedAt": "2025-04-04T16:52:44.394Z"
+  },
+  {
+    "name": "Apple Health Drink 867",
+    "brand": "Apple",
+    "category": "Tea, Coffee & Health Drink",
+    "description": "Health Drink by Apple in Tea, Coffee & Health Drink.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 315,
+      "instamart": 255,
+      "blinkit": 318,
+      "jiomart": 367
+    },
+    "updatedAt": "2025-03-05T16:27:16.934Z"
+  },
+  {
+    "name": "Ferrero Mobile 637",
+    "brand": "Ferrero",
+    "category": "Tea, Coffee & Health Drink",
+    "description": "Mobile by Ferrero in Tea, Coffee & Health Drink.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 241,
+      "instamart": 319,
+      "blinkit": 157,
+      "jiomart": 150
+    },
+    "updatedAt": "2025-05-14T15:02:19.104Z"
+  },
+  {
+    "name": "Apple T-shirt 777",
+    "brand": "Apple",
+    "category": "Tea, Coffee & Health Drink",
+    "description": "T-shirt by Apple in Tea, Coffee & Health Drink.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 419,
+      "instamart": 209,
+      "blinkit": 160,
+      "jiomart": 302
+    },
+    "updatedAt": "2025-05-02T00:14:47.300Z"
+  },
+  {
+    "name": "Tata Atta 366",
+    "brand": "Tata",
+    "category": "Tea, Coffee & Health Drink",
+    "description": "Atta by Tata in Tea, Coffee & Health Drink.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 367,
+      "instamart": 305,
+      "blinkit": 335,
+      "jiomart": 284
+    },
+    "updatedAt": "2025-05-01T00:34:16.791Z"
+  },
+  {
+    "name": "Kellogg's Rice 869",
+    "brand": "Kellogg's",
+    "category": "Tea, Coffee & Health Drink",
+    "description": "Rice by Kellogg's in Tea, Coffee & Health Drink.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 43,
+      "instamart": 128,
+      "blinkit": 289,
+      "jiomart": 233
+    },
+    "updatedAt": "2025-03-12T09:25:35.101Z"
+  },
+  {
+    "name": "Maggi Chicken Nuggets 116",
+    "brand": "Maggi",
+    "category": "Tea, Coffee & Health Drink",
+    "description": "Chicken Nuggets by Maggi in Tea, Coffee & Health Drink.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 273,
+      "instamart": 82,
+      "blinkit": 397,
+      "jiomart": 189
+    },
+    "updatedAt": "2025-02-22T09:10:03.560Z"
+  },
+  {
+    "name": "ITC Chocolate 120",
+    "brand": "ITC",
+    "category": "Tea, Coffee & Health Drink",
+    "description": "Chocolate by ITC in Tea, Coffee & Health Drink.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 167,
+      "instamart": 393,
+      "blinkit": 373,
+      "jiomart": 257
+    },
+    "updatedAt": "2025-03-30T19:06:36.996Z"
+  },
+  {
+    "name": "Bru Butter 134",
+    "brand": "Bru",
+    "category": "Tea, Coffee & Health Drink",
+    "description": "Butter by Bru in Tea, Coffee & Health Drink.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 21,
+      "instamart": 191,
+      "blinkit": 375,
+      "jiomart": 170
+    },
+    "updatedAt": "2025-02-10T00:00:34.750Z"
+  },
+  {
+    "name": "Britannia Coffee 319",
+    "brand": "Britannia",
+    "category": "Tea, Coffee & Health Drink",
+    "description": "Coffee by Britannia in Tea, Coffee & Health Drink.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 411,
+      "instamart": 151,
+      "blinkit": 393,
+      "jiomart": 169
+    },
+    "updatedAt": "2025-05-28T15:26:52.996Z"
+  },
+  {
+    "name": "ITC Milk 204",
+    "brand": "ITC",
+    "category": "Tea, Coffee & Health Drink",
+    "description": "Milk by ITC in Tea, Coffee & Health Drink.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 247,
+      "instamart": 90,
+      "blinkit": 288,
+      "jiomart": 31
+    },
+    "updatedAt": "2025-02-27T17:25:14.119Z"
+  },
+  {
+    "name": "Kurkure Chocolate 91",
+    "brand": "Kurkure",
+    "category": "Tea, Coffee & Health Drink",
+    "description": "Chocolate by Kurkure in Tea, Coffee & Health Drink.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 352,
+      "instamart": 42,
+      "blinkit": 246,
+      "jiomart": 110
+    },
+    "updatedAt": "2025-04-15T13:03:57.522Z"
+  },
+  {
+    "name": "Haldiram's French Fries 614",
+    "brand": "Haldiram's",
+    "category": "Tea, Coffee & Health Drink",
+    "description": "French Fries by Haldiram's in Tea, Coffee & Health Drink.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 147,
+      "instamart": 349,
+      "blinkit": 115,
+      "jiomart": 56
+    },
+    "updatedAt": "2025-05-12T22:58:13.567Z"
+  },
+  {
+    "name": "Cadbury Chocolate 340",
+    "brand": "Cadbury",
+    "category": "Tea, Coffee & Health Drink",
+    "description": "Chocolate by Cadbury in Tea, Coffee & Health Drink.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 51,
+      "instamart": 54,
+      "blinkit": 36,
+      "jiomart": 408
+    },
+    "updatedAt": "2025-05-07T16:15:19.160Z"
+  },
+  {
+    "name": "Kellogg's Green Peas 414",
+    "brand": "Kellogg's",
+    "category": "Tea, Coffee & Health Drink",
+    "description": "Green Peas by Kellogg's in Tea, Coffee & Health Drink.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 180,
+      "instamart": 374,
+      "blinkit": 175,
+      "jiomart": 354
+    },
+    "updatedAt": "2025-05-16T12:09:23.462Z"
+  },
+  {
+    "name": "India Gate Cheese 376",
+    "brand": "India Gate",
+    "category": "Tea, Coffee & Health Drink",
+    "description": "Cheese by India Gate in Tea, Coffee & Health Drink.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 419,
+      "instamart": 130,
+      "blinkit": 55,
+      "jiomart": 145
+    },
+    "updatedAt": "2025-05-17T03:11:23.654Z"
+  },
+  {
+    "name": "Tata Cookies 837",
+    "brand": "Tata",
+    "category": "Tea, Coffee & Health Drink",
+    "description": "Cookies by Tata in Tea, Coffee & Health Drink.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 340,
+      "instamart": 187,
+      "blinkit": 278,
+      "jiomart": 337
+    },
+    "updatedAt": "2025-03-08T22:37:21.182Z"
+  },
+  {
+    "name": "Unibic Face Cream 20",
+    "brand": "Unibic",
+    "category": "Tea, Coffee & Health Drink",
+    "description": "Face Cream by Unibic in Tea, Coffee & Health Drink.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 367,
+      "instamart": 53,
+      "blinkit": 111,
+      "jiomart": 32
+    },
+    "updatedAt": "2025-05-12T09:28:50.006Z"
+  },
+  {
+    "name": "Lays Toy 799",
+    "brand": "Lays",
+    "category": "Atta, Rice & Dal",
+    "description": "Toy by Lays in Atta, Rice & Dal.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 222,
+      "instamart": 312,
+      "blinkit": 339,
+      "jiomart": 102
+    },
+    "updatedAt": "2025-03-30T03:51:28.580Z"
+  },
+  {
+    "name": "Parle-G Shoes 989",
+    "brand": "Parle-G",
+    "category": "Atta, Rice & Dal",
+    "description": "Shoes by Parle-G in Atta, Rice & Dal.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 158,
+      "instamart": 282,
+      "blinkit": 333,
+      "jiomart": 393
+    },
+    "updatedAt": "2025-04-02T19:47:38.528Z"
+  },
+  {
+    "name": "Bingo Milk 636",
+    "brand": "Bingo",
+    "category": "Atta, Rice & Dal",
+    "description": "Milk by Bingo in Atta, Rice & Dal.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 223,
+      "instamart": 145,
+      "blinkit": 27,
+      "jiomart": 74
+    },
+    "updatedAt": "2025-05-03T05:40:00.838Z"
+  },
+  {
+    "name": "Aashirvaad Face Cream 83",
+    "brand": "Aashirvaad",
+    "category": "Atta, Rice & Dal",
+    "description": "Face Cream by Aashirvaad in Atta, Rice & Dal.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 264,
+      "instamart": 397,
+      "blinkit": 407,
+      "jiomart": 360
+    },
+    "updatedAt": "2025-03-18T12:31:45.526Z"
+  },
+  {
+    "name": "Dell Laptop 170",
+    "brand": "Dell",
+    "category": "Atta, Rice & Dal",
+    "description": "Laptop by Dell in Atta, Rice & Dal.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 278,
+      "instamart": 247,
+      "blinkit": 273,
+      "jiomart": 386
+    },
+    "updatedAt": "2025-04-23T20:47:35.436Z"
+  },
+  {
+    "name": "Mi Health Drink 266",
+    "brand": "Mi",
+    "category": "Atta, Rice & Dal",
+    "description": "Health Drink by Mi in Atta, Rice & Dal.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 266,
+      "instamart": 231,
+      "blinkit": 256,
+      "jiomart": 292
+    },
+    "updatedAt": "2025-05-20T15:18:55.097Z"
+  },
+  {
+    "name": "Tropicana Chips 913",
+    "brand": "Tropicana",
+    "category": "Atta, Rice & Dal",
+    "description": "Chips by Tropicana in Atta, Rice & Dal.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 177,
+      "instamart": 280,
+      "blinkit": 325,
+      "jiomart": 257
+    },
+    "updatedAt": "2025-02-12T08:00:17.340Z"
+  },
+  {
+    "name": "Oreo Green Peas 897",
+    "brand": "Oreo",
+    "category": "Atta, Rice & Dal",
+    "description": "Green Peas by Oreo in Atta, Rice & Dal.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 109,
+      "instamart": 394,
+      "blinkit": 184,
+      "jiomart": 232
+    },
+    "updatedAt": "2025-04-15T02:51:50.879Z"
+  },
+  {
+    "name": "Bru Shampoo 779",
+    "brand": "Bru",
+    "category": "Atta, Rice & Dal",
+    "description": "Shampoo by Bru in Atta, Rice & Dal.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 409,
+      "instamart": 196,
+      "blinkit": 146,
+      "jiomart": 299
+    },
+    "updatedAt": "2025-04-21T12:07:00.789Z"
+  },
+  {
+    "name": "Coca Cola Cookies 822",
+    "brand": "Coca Cola",
+    "category": "Atta, Rice & Dal",
+    "description": "Cookies by Coca Cola in Atta, Rice & Dal.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 195,
+      "instamart": 214,
+      "blinkit": 127,
+      "jiomart": 280
+    },
+    "updatedAt": "2025-02-06T08:46:38.553Z"
+  },
+  {
+    "name": "Ferrero Eggs 586",
+    "brand": "Ferrero",
+    "category": "Atta, Rice & Dal",
+    "description": "Eggs by Ferrero in Atta, Rice & Dal.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 124,
+      "instamart": 58,
+      "blinkit": 133,
+      "jiomart": 155
+    },
+    "updatedAt": "2025-03-09T13:11:26.328Z"
+  },
+  {
+    "name": "Pepsi Atta 636",
+    "brand": "Pepsi",
+    "category": "Atta, Rice & Dal",
+    "description": "Atta by Pepsi in Atta, Rice & Dal.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 192,
+      "instamart": 163,
+      "blinkit": 49,
+      "jiomart": 224
+    },
+    "updatedAt": "2025-05-17T17:53:58.614Z"
+  },
+  {
+    "name": "Ferrero Cookies 35",
+    "brand": "Ferrero",
+    "category": "Atta, Rice & Dal",
+    "description": "Cookies by Ferrero in Atta, Rice & Dal.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 419,
+      "instamart": 369,
+      "blinkit": 367,
+      "jiomart": 394
+    },
+    "updatedAt": "2025-03-15T08:15:55.930Z"
+  },
+  {
+    "name": "Aashirvaad Oats 446",
+    "brand": "Aashirvaad",
+    "category": "Atta, Rice & Dal",
+    "description": "Oats by Aashirvaad in Atta, Rice & Dal.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 233,
+      "instamart": 405,
+      "blinkit": 298,
+      "jiomart": 306
+    },
+    "updatedAt": "2025-04-23T15:52:28.969Z"
+  },
+  {
+    "name": "Daawat Rice 362",
+    "brand": "Daawat",
+    "category": "Atta, Rice & Dal",
+    "description": "Rice by Daawat in Atta, Rice & Dal.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 398,
+      "instamart": 175,
+      "blinkit": 310,
+      "jiomart": 135
+    },
+    "updatedAt": "2025-03-29T12:21:29.121Z"
+  },
+  {
+    "name": "Dell Milk 825",
+    "brand": "Dell",
+    "category": "Atta, Rice & Dal",
+    "description": "Milk by Dell in Atta, Rice & Dal.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 163,
+      "instamart": 310,
+      "blinkit": 291,
+      "jiomart": 28
+    },
+    "updatedAt": "2025-03-27T03:37:55.655Z"
+  },
+  {
+    "name": "Aashirvaad Toy 948",
+    "brand": "Aashirvaad",
+    "category": "Atta, Rice & Dal",
+    "description": "Toy by Aashirvaad in Atta, Rice & Dal.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 286,
+      "instamart": 62,
+      "blinkit": 334,
+      "jiomart": 82
+    },
+    "updatedAt": "2025-03-03T15:33:45.062Z"
+  },
+  {
+    "name": "Kurkure Soft Drink 541",
+    "brand": "Kurkure",
+    "category": "Atta, Rice & Dal",
+    "description": "Soft Drink by Kurkure in Atta, Rice & Dal.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 107,
+      "instamart": 33,
+      "blinkit": 37,
+      "jiomart": 287
+    },
+    "updatedAt": "2025-02-07T23:51:20.123Z"
+  },
+  {
+    "name": "Mother Dairy T-shirt 494",
+    "brand": "Mother Dairy",
+    "category": "Atta, Rice & Dal",
+    "description": "T-shirt by Mother Dairy in Atta, Rice & Dal.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 197,
+      "instamart": 248,
+      "blinkit": 240,
+      "jiomart": 39
+    },
+    "updatedAt": "2025-05-21T06:04:27.393Z"
+  },
+  {
+    "name": "Boost Rice 542",
+    "brand": "Boost",
+    "category": "Atta, Rice & Dal",
+    "description": "Rice by Boost in Atta, Rice & Dal.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 209,
+      "instamart": 273,
+      "blinkit": 245,
+      "jiomart": 390
+    },
+    "updatedAt": "2025-02-19T13:17:19.616Z"
+  },
+  {
+    "name": "Safal Shampoo 657",
+    "brand": "Safal",
+    "category": "Electronics",
+    "description": "Shampoo by Safal in Electronics.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 138,
+      "instamart": 118,
+      "blinkit": 389,
+      "jiomart": 49
+    },
+    "updatedAt": "2025-02-21T14:31:02.675Z"
+  },
+  {
+    "name": "Godrej Cheese 318",
+    "brand": "Godrej",
+    "category": "Electronics",
+    "description": "Cheese by Godrej in Electronics.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 86,
+      "instamart": 105,
+      "blinkit": 144,
+      "jiomart": 39
+    },
+    "updatedAt": "2025-03-30T12:17:40.404Z"
+  },
+  {
+    "name": "India Gate Dal 677",
+    "brand": "India Gate",
+    "category": "Electronics",
+    "description": "Dal by India Gate in Electronics.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 148,
+      "instamart": 244,
+      "blinkit": 391,
+      "jiomart": 139
+    },
+    "updatedAt": "2025-02-27T05:34:09.125Z"
+  },
+  {
+    "name": "India Gate Soft Drink 131",
+    "brand": "India Gate",
+    "category": "Electronics",
+    "description": "Soft Drink by India Gate in Electronics.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 40,
+      "instamart": 115,
+      "blinkit": 256,
+      "jiomart": 196
+    },
+    "updatedAt": "2025-02-25T12:44:08.866Z"
+  },
+  {
+    "name": "ITC Cookies 410",
+    "brand": "ITC",
+    "category": "Electronics",
+    "description": "Cookies by ITC in Electronics.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 102,
+      "instamart": 344,
+      "blinkit": 207,
+      "jiomart": 294
+    },
+    "updatedAt": "2025-04-10T20:57:10.828Z"
+  },
+  {
+    "name": "Tropicana Rice 220",
+    "brand": "Tropicana",
+    "category": "Electronics",
+    "description": "Rice by Tropicana in Electronics.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 40,
+      "instamart": 92,
+      "blinkit": 395,
+      "jiomart": 154
+    },
+    "updatedAt": "2025-05-01T07:45:48.772Z"
+  },
+  {
+    "name": "Ferrero French Fries 562",
+    "brand": "Ferrero",
+    "category": "Electronics",
+    "description": "French Fries by Ferrero in Electronics.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 173,
+      "instamart": 269,
+      "blinkit": 114,
+      "jiomart": 320
+    },
+    "updatedAt": "2025-04-30T17:55:40.555Z"
+  },
+  {
+    "name": "Bru Dal 637",
+    "brand": "Bru",
+    "category": "Electronics",
+    "description": "Dal by Bru in Electronics.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 306,
+      "instamart": 402,
+      "blinkit": 128,
+      "jiomart": 89
+    },
+    "updatedAt": "2025-02-25T17:43:29.571Z"
+  },
+  {
+    "name": "Bru Nuggets 380",
+    "brand": "Bru",
+    "category": "Electronics",
+    "description": "Nuggets by Bru in Electronics.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 179,
+      "instamart": 154,
+      "blinkit": 148,
+      "jiomart": 140
+    },
+    "updatedAt": "2025-03-07T14:34:04.446Z"
+  },
+  {
+    "name": "MTR Bread 778",
+    "brand": "MTR",
+    "category": "Electronics",
+    "description": "Bread by MTR in Electronics.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 116,
+      "instamart": 286,
+      "blinkit": 79,
+      "jiomart": 365
+    },
+    "updatedAt": "2025-03-13T09:46:47.849Z"
+  },
+  {
+    "name": "Daawat Toy 510",
+    "brand": "Daawat",
+    "category": "Electronics",
+    "description": "Toy by Daawat in Electronics.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 217,
+      "instamart": 410,
+      "blinkit": 124,
+      "jiomart": 352
+    },
+    "updatedAt": "2025-05-22T11:20:37.645Z"
+  },
+  {
+    "name": "ITC Laptop 203",
+    "brand": "ITC",
+    "category": "Electronics",
+    "description": "Laptop by ITC in Electronics.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 363,
+      "instamart": 344,
+      "blinkit": 149,
+      "jiomart": 221
+    },
+    "updatedAt": "2025-03-25T15:19:48.616Z"
+  },
+  {
+    "name": "Keventers Soft Drink 139",
+    "brand": "Keventers",
+    "category": "Electronics",
+    "description": "Soft Drink by Keventers in Electronics.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 71,
+      "instamart": 137,
+      "blinkit": 370,
+      "jiomart": 278
+    },
+    "updatedAt": "2025-05-07T07:21:53.189Z"
+  },
+  {
+    "name": "Adidas Eggs 524",
+    "brand": "Adidas",
+    "category": "Electronics",
+    "description": "Eggs by Adidas in Electronics.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 336,
+      "instamart": 376,
+      "blinkit": 291,
+      "jiomart": 133
+    },
+    "updatedAt": "2025-04-01T11:13:51.398Z"
+  },
+  {
+    "name": "Dell Coffee 649",
+    "brand": "Dell",
+    "category": "Electronics",
+    "description": "Coffee by Dell in Electronics.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 56,
+      "instamart": 102,
+      "blinkit": 30,
+      "jiomart": 246
+    },
+    "updatedAt": "2025-02-02T11:57:50.020Z"
+  },
+  {
+    "name": "Adidas Oats 709",
+    "brand": "Adidas",
+    "category": "Electronics",
+    "description": "Oats by Adidas in Electronics.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 236,
+      "instamart": 360,
+      "blinkit": 281,
+      "jiomart": 121
+    },
+    "updatedAt": "2025-02-11T18:30:47.476Z"
+  },
+  {
+    "name": "Kurkure Shoes 715",
+    "brand": "Kurkure",
+    "category": "Electronics",
+    "description": "Shoes by Kurkure in Electronics.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 329,
+      "instamart": 96,
+      "blinkit": 69,
+      "jiomart": 148
+    },
+    "updatedAt": "2025-02-06T02:05:40.156Z"
+  },
+  {
+    "name": "Godrej Laptop 674",
+    "brand": "Godrej",
+    "category": "Electronics",
+    "description": "Laptop by Godrej in Electronics.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 256,
+      "instamart": 254,
+      "blinkit": 22,
+      "jiomart": 352
+    },
+    "updatedAt": "2025-04-09T08:17:28.359Z"
+  },
+  {
+    "name": "Tata Sampann Bread 313",
+    "brand": "Tata Sampann",
+    "category": "Electronics",
+    "description": "Bread by Tata Sampann in Electronics.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 142,
+      "instamart": 78,
+      "blinkit": 341,
+      "jiomart": 283
+    },
+    "updatedAt": "2025-04-25T02:52:13.040Z"
+  },
+  {
+    "name": "HP Oats 336",
+    "brand": "HP",
+    "category": "Electronics",
+    "description": "Oats by HP in Electronics.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 241,
+      "instamart": 368,
+      "blinkit": 191,
+      "jiomart": 326
+    },
+    "updatedAt": "2025-04-07T20:56:45.402Z"
+  },
+  {
+    "name": "ITC Toy 459",
+    "brand": "ITC",
+    "category": "Mobiles",
+    "description": "Toy by ITC in Mobiles.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 373,
+      "instamart": 173,
+      "blinkit": 365,
+      "jiomart": 92
+    },
+    "updatedAt": "2025-02-11T07:00:59.150Z"
+  },
+  {
+    "name": "Nike Aloo Tikki 727",
+    "brand": "Nike",
+    "category": "Mobiles",
+    "description": "Aloo Tikki by Nike in Mobiles.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 331,
+      "instamart": 87,
+      "blinkit": 202,
+      "jiomart": 375
+    },
+    "updatedAt": "2025-05-11T21:44:04.568Z"
+  },
+  {
+    "name": "OnePlus Green Peas 305",
+    "brand": "OnePlus",
+    "category": "Mobiles",
+    "description": "Green Peas by OnePlus in Mobiles.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 69,
+      "instamart": 123,
+      "blinkit": 150,
+      "jiomart": 351
+    },
+    "updatedAt": "2025-02-07T21:07:06.728Z"
+  },
+  {
+    "name": "Yummiez Green Peas 667",
+    "brand": "Yummiez",
+    "category": "Mobiles",
+    "description": "Green Peas by Yummiez in Mobiles.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 393,
+      "instamart": 46,
+      "blinkit": 355,
+      "jiomart": 78
+    },
+    "updatedAt": "2025-04-20T04:11:38.313Z"
+  },
+  {
+    "name": "Haldiram's Chips 185",
+    "brand": "Haldiram's",
+    "category": "Mobiles",
+    "description": "Chips by Haldiram's in Mobiles.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 382,
+      "instamart": 94,
+      "blinkit": 34,
+      "jiomart": 278
+    },
+    "updatedAt": "2025-03-30T06:58:21.759Z"
+  },
+  {
+    "name": "Sunfeast Nuggets 203",
+    "brand": "Sunfeast",
+    "category": "Mobiles",
+    "description": "Nuggets by Sunfeast in Mobiles.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 193,
+      "instamart": 155,
+      "blinkit": 386,
+      "jiomart": 286
+    },
+    "updatedAt": "2025-04-11T09:15:47.646Z"
+  },
+  {
+    "name": "Oreo Aloo Tikki 695",
+    "brand": "Oreo",
+    "category": "Mobiles",
+    "description": "Aloo Tikki by Oreo in Mobiles.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 333,
+      "instamart": 278,
+      "blinkit": 276,
+      "jiomart": 203
+    },
+    "updatedAt": "2025-02-16T05:23:41.512Z"
+  },
+  {
+    "name": "Godrej Dal 376",
+    "brand": "Godrej",
+    "category": "Mobiles",
+    "description": "Dal by Godrej in Mobiles.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 243,
+      "instamart": 81,
+      "blinkit": 344,
+      "jiomart": 405
+    },
+    "updatedAt": "2025-05-21T06:01:06.412Z"
+  },
+  {
+    "name": "Pepsi Butter 343",
+    "brand": "Pepsi",
+    "category": "Mobiles",
+    "description": "Butter by Pepsi in Mobiles.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 23,
+      "instamart": 388,
+      "blinkit": 171,
+      "jiomart": 148
+    },
+    "updatedAt": "2025-03-19T20:46:25.603Z"
+  },
+  {
+    "name": "Bingo Upma Mix 186",
+    "brand": "Bingo",
+    "category": "Mobiles",
+    "description": "Upma Mix by Bingo in Mobiles.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 129,
+      "instamart": 379,
+      "blinkit": 20,
+      "jiomart": 147
+    },
+    "updatedAt": "2025-04-29T23:40:45.900Z"
+  },
+  {
+    "name": "Kellogg's Biscuits 432",
+    "brand": "Kellogg's",
+    "category": "Mobiles",
+    "description": "Biscuits by Kellogg's in Mobiles.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 361,
+      "instamart": 74,
+      "blinkit": 146,
+      "jiomart": 229
+    },
+    "updatedAt": "2025-04-13T10:30:42.211Z"
+  },
+  {
+    "name": "Nestle T-shirt 963",
+    "brand": "Nestle",
+    "category": "Mobiles",
+    "description": "T-shirt by Nestle in Mobiles.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 47,
+      "instamart": 389,
+      "blinkit": 90,
+      "jiomart": 43
+    },
+    "updatedAt": "2025-03-21T11:29:17.900Z"
+  },
+  {
+    "name": "Godrej Cookies 547",
+    "brand": "Godrej",
+    "category": "Mobiles",
+    "description": "Cookies by Godrej in Mobiles.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 175,
+      "instamart": 264,
+      "blinkit": 324,
+      "jiomart": 364
+    },
+    "updatedAt": "2025-05-01T16:21:08.640Z"
+  },
+  {
+    "name": "Yummiez Eggs 777",
+    "brand": "Yummiez",
+    "category": "Mobiles",
+    "description": "Eggs by Yummiez in Mobiles.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 367,
+      "instamart": 148,
+      "blinkit": 228,
+      "jiomart": 114
+    },
+    "updatedAt": "2025-04-12T11:43:43.628Z"
+  },
+  {
+    "name": "Coca Cola Eggs 181",
+    "brand": "Coca Cola",
+    "category": "Mobiles",
+    "description": "Eggs by Coca Cola in Mobiles.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 252,
+      "instamart": 259,
+      "blinkit": 313,
+      "jiomart": 158
+    },
+    "updatedAt": "2025-03-24T07:26:40.702Z"
+  },
+  {
+    "name": "Sunfeast Bread 960",
+    "brand": "Sunfeast",
+    "category": "Mobiles",
+    "description": "Bread by Sunfeast in Mobiles.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 118,
+      "instamart": 47,
+      "blinkit": 129,
+      "jiomart": 256
+    },
+    "updatedAt": "2025-04-22T20:43:20.304Z"
+  },
+  {
+    "name": "Real Chocolate 138",
+    "brand": "Real",
+    "category": "Mobiles",
+    "description": "Chocolate by Real in Mobiles.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 63,
+      "instamart": 107,
+      "blinkit": 229,
+      "jiomart": 402
+    },
+    "updatedAt": "2025-03-22T06:26:24.716Z"
+  },
+  {
+    "name": "Lays Shoes 654",
+    "brand": "Lays",
+    "category": "Mobiles",
+    "description": "Shoes by Lays in Mobiles.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 23,
+      "instamart": 120,
+      "blinkit": 160,
+      "jiomart": 346
+    },
+    "updatedAt": "2025-02-13T17:37:46.351Z"
+  },
+  {
+    "name": "Dell Chocolate 310",
+    "brand": "Dell",
+    "category": "Mobiles",
+    "description": "Chocolate by Dell in Mobiles.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 74,
+      "instamart": 273,
+      "blinkit": 104,
+      "jiomart": 85
+    },
+    "updatedAt": "2025-04-04T07:26:21.322Z"
+  },
+  {
+    "name": "Ferrero Soft Drink 158",
+    "brand": "Ferrero",
+    "category": "Mobiles",
+    "description": "Soft Drink by Ferrero in Mobiles.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 114,
+      "instamart": 183,
+      "blinkit": 367,
+      "jiomart": 88
+    },
+    "updatedAt": "2025-04-18T01:19:25.387Z"
+  },
+  {
+    "name": "Boost Nuggets 703",
+    "brand": "Boost",
+    "category": "Fashion",
+    "description": "Nuggets by Boost in Fashion.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 102,
+      "instamart": 334,
+      "blinkit": 275,
+      "jiomart": 216
+    },
+    "updatedAt": "2025-02-15T04:09:23.712Z"
+  },
+  {
+    "name": "Tata Mobile 605",
+    "brand": "Tata",
+    "category": "Fashion",
+    "description": "Mobile by Tata in Fashion.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 113,
+      "instamart": 186,
+      "blinkit": 188,
+      "jiomart": 255
+    },
+    "updatedAt": "2025-03-31T15:11:28.461Z"
+  },
+  {
+    "name": "Pepsi Atta 695",
+    "brand": "Pepsi",
+    "category": "Fashion",
+    "description": "Atta by Pepsi in Fashion.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 417,
+      "instamart": 169,
+      "blinkit": 341,
+      "jiomart": 128
+    },
+    "updatedAt": "2025-03-31T12:50:41.837Z"
+  },
+  {
+    "name": "Saffola Bread 936",
+    "brand": "Saffola",
+    "category": "Fashion",
+    "description": "Bread by Saffola in Fashion.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 335,
+      "instamart": 217,
+      "blinkit": 170,
+      "jiomart": 249
+    },
+    "updatedAt": "2025-04-20T21:39:41.235Z"
+  },
+  {
+    "name": "Nike Dal 286",
+    "brand": "Nike",
+    "category": "Fashion",
+    "description": "Dal by Nike in Fashion.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 353,
+      "instamart": 252,
+      "blinkit": 250,
+      "jiomart": 223
+    },
+    "updatedAt": "2025-05-20T22:23:14.823Z"
+  },
+  {
+    "name": "Godrej Atta 649",
+    "brand": "Godrej",
+    "category": "Fashion",
+    "description": "Atta by Godrej in Fashion.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 255,
+      "instamart": 144,
+      "blinkit": 396,
+      "jiomart": 286
+    },
+    "updatedAt": "2025-04-20T00:17:09.940Z"
+  },
+  {
+    "name": "Adidas French Fries 395",
+    "brand": "Adidas",
+    "category": "Fashion",
+    "description": "French Fries by Adidas in Fashion.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 124,
+      "instamart": 400,
+      "blinkit": 280,
+      "jiomart": 368
+    },
+    "updatedAt": "2025-05-02T21:17:56.490Z"
+  },
+  {
+    "name": "Yummiez Chocolate 22",
+    "brand": "Yummiez",
+    "category": "Fashion",
+    "description": "Chocolate by Yummiez in Fashion.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 411,
+      "instamart": 162,
+      "blinkit": 204,
+      "jiomart": 116
+    },
+    "updatedAt": "2025-02-10T11:27:51.362Z"
+  },
+  {
+    "name": "Keventers Oats 273",
+    "brand": "Keventers",
+    "category": "Fashion",
+    "description": "Oats by Keventers in Fashion.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 75,
+      "instamart": 128,
+      "blinkit": 269,
+      "jiomart": 350
+    },
+    "updatedAt": "2025-02-08T21:55:40.379Z"
+  },
+  {
+    "name": "Yummiez Nuggets 847",
+    "brand": "Yummiez",
+    "category": "Fashion",
+    "description": "Nuggets by Yummiez in Fashion.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 182,
+      "instamart": 199,
+      "blinkit": 319,
+      "jiomart": 193
+    },
+    "updatedAt": "2025-04-07T05:43:56.142Z"
+  },
+  {
+    "name": "Kellogg's Biscuits 916",
+    "brand": "Kellogg's",
+    "category": "Fashion",
+    "description": "Biscuits by Kellogg's in Fashion.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 246,
+      "instamart": 348,
+      "blinkit": 190,
+      "jiomart": 142
+    },
+    "updatedAt": "2025-05-03T02:29:01.263Z"
+  },
+  {
+    "name": "Amul Noodles 332",
+    "brand": "Amul",
+    "category": "Fashion",
+    "description": "Noodles by Amul in Fashion.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 235,
+      "instamart": 358,
+      "blinkit": 136,
+      "jiomart": 57
+    },
+    "updatedAt": "2025-02-23T20:26:42.863Z"
+  },
+  {
+    "name": "Unibic Atta 486",
+    "brand": "Unibic",
+    "category": "Fashion",
+    "description": "Atta by Unibic in Fashion.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 42,
+      "instamart": 413,
+      "blinkit": 274,
+      "jiomart": 278
+    },
+    "updatedAt": "2025-02-02T22:31:06.117Z"
+  },
+  {
+    "name": "Keventers Noodles 125",
+    "brand": "Keventers",
+    "category": "Fashion",
+    "description": "Noodles by Keventers in Fashion.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 135,
+      "instamart": 203,
+      "blinkit": 386,
+      "jiomart": 148
+    },
+    "updatedAt": "2025-04-23T07:04:25.909Z"
+  },
+  {
+    "name": "Keventers Chips 24",
+    "brand": "Keventers",
+    "category": "Fashion",
+    "description": "Chips by Keventers in Fashion.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 56,
+      "instamart": 385,
+      "blinkit": 110,
+      "jiomart": 88
+    },
+    "updatedAt": "2025-03-13T22:17:19.893Z"
+  },
+  {
+    "name": "Real Chips 628",
+    "brand": "Real",
+    "category": "Fashion",
+    "description": "Chips by Real in Fashion.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 23,
+      "instamart": 369,
+      "blinkit": 358,
+      "jiomart": 194
+    },
+    "updatedAt": "2025-03-05T03:44:38.215Z"
+  },
+  {
+    "name": "Aashirvaad Bread 710",
+    "brand": "Aashirvaad",
+    "category": "Fashion",
+    "description": "Bread by Aashirvaad in Fashion.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 105,
+      "instamart": 295,
+      "blinkit": 293,
+      "jiomart": 261
+    },
+    "updatedAt": "2025-02-15T13:01:41.555Z"
+  },
+  {
+    "name": "Nike Cheese 339",
+    "brand": "Nike",
+    "category": "Fashion",
+    "description": "Cheese by Nike in Fashion.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 391,
+      "instamart": 28,
+      "blinkit": 340,
+      "jiomart": 21
+    },
+    "updatedAt": "2025-03-08T08:21:58.469Z"
+  },
+  {
+    "name": "Keventers Biscuits 209",
+    "brand": "Keventers",
+    "category": "Fashion",
+    "description": "Biscuits by Keventers in Fashion.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 180,
+      "instamart": 333,
+      "blinkit": 218,
+      "jiomart": 309
+    },
+    "updatedAt": "2025-03-05T14:10:59.618Z"
+  },
+  {
+    "name": "Kurkure Toy 729",
+    "brand": "Kurkure",
+    "category": "Fashion",
+    "description": "Toy by Kurkure in Fashion.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 143,
+      "instamart": 336,
+      "blinkit": 240,
+      "jiomart": 344
+    },
+    "updatedAt": "2025-04-07T00:55:21.523Z"
+  },
+  {
+    "name": "Mother Dairy Biscuits 347",
+    "brand": "Mother Dairy",
+    "category": "Home",
+    "description": "Biscuits by Mother Dairy in Home.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 185,
+      "instamart": 229,
+      "blinkit": 141,
+      "jiomart": 31
+    },
+    "updatedAt": "2025-04-30T15:22:14.388Z"
+  },
+  {
+    "name": "HP Book 983",
+    "brand": "HP",
+    "category": "Home",
+    "description": "Book by HP in Home.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 65,
+      "instamart": 370,
+      "blinkit": 324,
+      "jiomart": 193
+    },
+    "updatedAt": "2025-02-10T07:46:59.952Z"
+  },
+  {
+    "name": "Kellogg's Face Cream 57",
+    "brand": "Kellogg's",
+    "category": "Home",
+    "description": "Face Cream by Kellogg's in Home.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 216,
+      "instamart": 281,
+      "blinkit": 419,
+      "jiomart": 88
+    },
+    "updatedAt": "2025-05-26T03:56:30.179Z"
+  },
+  {
+    "name": "Harvest Gold Aloo Tikki 893",
+    "brand": "Harvest Gold",
+    "category": "Home",
+    "description": "Aloo Tikki by Harvest Gold in Home.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 158,
+      "instamart": 232,
+      "blinkit": 277,
+      "jiomart": 88
+    },
+    "updatedAt": "2025-03-12T15:12:59.336Z"
+  },
+  {
+    "name": "Tata Sampann Eggs 540",
+    "brand": "Tata Sampann",
+    "category": "Home",
+    "description": "Eggs by Tata Sampann in Home.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 166,
+      "instamart": 139,
+      "blinkit": 342,
+      "jiomart": 209
+    },
+    "updatedAt": "2025-04-13T12:34:10.914Z"
+  },
+  {
+    "name": "Reebok Biscuits 899",
+    "brand": "Reebok",
+    "category": "Home",
+    "description": "Biscuits by Reebok in Home.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 128,
+      "instamart": 35,
+      "blinkit": 253,
+      "jiomart": 418
+    },
+    "updatedAt": "2025-02-28T22:21:01.005Z"
+  },
+  {
+    "name": "Daawat Nuggets 176",
+    "brand": "Daawat",
+    "category": "Home",
+    "description": "Nuggets by Daawat in Home.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 115,
+      "instamart": 353,
+      "blinkit": 404,
+      "jiomart": 54
+    },
+    "updatedAt": "2025-02-04T22:17:07.750Z"
+  },
+  {
+    "name": "Safal Milk 401",
+    "brand": "Safal",
+    "category": "Home",
+    "description": "Milk by Safal in Home.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 376,
+      "instamart": 65,
+      "blinkit": 161,
+      "jiomart": 184
+    },
+    "updatedAt": "2025-03-24T22:53:17.188Z"
+  },
+  {
+    "name": "Samsung Oats 521",
+    "brand": "Samsung",
+    "category": "Home",
+    "description": "Oats by Samsung in Home.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 31,
+      "instamart": 271,
+      "blinkit": 364,
+      "jiomart": 341
+    },
+    "updatedAt": "2025-04-21T23:49:37.609Z"
+  },
+  {
+    "name": "Daawat Cookies 0",
+    "brand": "Daawat",
+    "category": "Home",
+    "description": "Cookies by Daawat in Home.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 183,
+      "instamart": 208,
+      "blinkit": 202,
+      "jiomart": 99
+    },
+    "updatedAt": "2025-04-16T09:00:53.796Z"
+  },
+  {
+    "name": "Fortune Upma Mix 846",
+    "brand": "Fortune",
+    "category": "Home",
+    "description": "Upma Mix by Fortune in Home.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 234,
+      "instamart": 255,
+      "blinkit": 185,
+      "jiomart": 93
+    },
+    "updatedAt": "2025-02-04T03:42:40.122Z"
+  },
+  {
+    "name": "Aashirvaad Atta 305",
+    "brand": "Aashirvaad",
+    "category": "Home",
+    "description": "Atta by Aashirvaad in Home.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 57,
+      "instamart": 137,
+      "blinkit": 339,
+      "jiomart": 344
+    },
+    "updatedAt": "2025-04-30T02:05:32.913Z"
+  },
+  {
+    "name": "Harvest Gold Atta 500",
+    "brand": "Harvest Gold",
+    "category": "Home",
+    "description": "Atta by Harvest Gold in Home.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 249,
+      "instamart": 238,
+      "blinkit": 333,
+      "jiomart": 294
+    },
+    "updatedAt": "2025-03-27T10:53:17.035Z"
+  },
+  {
+    "name": "Nike Juice 469",
+    "brand": "Nike",
+    "category": "Home",
+    "description": "Juice by Nike in Home.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 412,
+      "instamart": 128,
+      "blinkit": 147,
+      "jiomart": 384
+    },
+    "updatedAt": "2025-04-26T03:37:42.541Z"
+  },
+  {
+    "name": "OnePlus Aloo Tikki 644",
+    "brand": "OnePlus",
+    "category": "Home",
+    "description": "Aloo Tikki by OnePlus in Home.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 187,
+      "instamart": 267,
+      "blinkit": 185,
+      "jiomart": 264
+    },
+    "updatedAt": "2025-04-15T22:17:53.439Z"
+  },
+  {
+    "name": "Hershey's Face Cream 283",
+    "brand": "Hershey's",
+    "category": "Home",
+    "description": "Face Cream by Hershey's in Home.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 372,
+      "instamart": 61,
+      "blinkit": 395,
+      "jiomart": 254
+    },
+    "updatedAt": "2025-04-30T00:44:26.656Z"
+  },
+  {
+    "name": "Boost Butter 110",
+    "brand": "Boost",
+    "category": "Home",
+    "description": "Butter by Boost in Home.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 392,
+      "instamart": 332,
+      "blinkit": 342,
+      "jiomart": 71
+    },
+    "updatedAt": "2025-02-15T13:13:37.749Z"
+  },
+  {
+    "name": "Samsung Cookies 157",
+    "brand": "Samsung",
+    "category": "Home",
+    "description": "Cookies by Samsung in Home.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 189,
+      "instamart": 362,
+      "blinkit": 416,
+      "jiomart": 82
+    },
+    "updatedAt": "2025-03-16T19:31:39.669Z"
+  },
+  {
+    "name": "Tata Toy 946",
+    "brand": "Tata",
+    "category": "Home",
+    "description": "Toy by Tata in Home.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 79,
+      "instamart": 137,
+      "blinkit": 248,
+      "jiomart": 225
+    },
+    "updatedAt": "2025-04-04T11:23:25.358Z"
+  },
+  {
+    "name": "Samsung Butter 35",
+    "brand": "Samsung",
+    "category": "Home",
+    "description": "Butter by Samsung in Home.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 162,
+      "instamart": 135,
+      "blinkit": 404,
+      "jiomart": 54
+    },
+    "updatedAt": "2025-05-10T01:57:14.283Z"
+  },
+  {
+    "name": "Uncle Chipps Chips 779",
+    "brand": "Uncle Chipps",
+    "category": "Beauty",
+    "description": "Chips by Uncle Chipps in Beauty.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 276,
+      "instamart": 21,
+      "blinkit": 120,
+      "jiomart": 412
+    },
+    "updatedAt": "2025-02-07T04:21:00.509Z"
+  },
+  {
+    "name": "Adidas Shampoo 251",
+    "brand": "Adidas",
+    "category": "Beauty",
+    "description": "Shampoo by Adidas in Beauty.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 260,
+      "instamart": 166,
+      "blinkit": 419,
+      "jiomart": 80
+    },
+    "updatedAt": "2025-02-20T17:46:45.605Z"
+  },
+  {
+    "name": "Apple Dal 949",
+    "brand": "Apple",
+    "category": "Beauty",
+    "description": "Dal by Apple in Beauty.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 103,
+      "instamart": 65,
+      "blinkit": 241,
+      "jiomart": 402
+    },
+    "updatedAt": "2025-05-18T06:08:24.444Z"
+  },
+  {
+    "name": "Aashirvaad Coffee 24",
+    "brand": "Aashirvaad",
+    "category": "Beauty",
+    "description": "Coffee by Aashirvaad in Beauty.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 180,
+      "instamart": 407,
+      "blinkit": 374,
+      "jiomart": 43
+    },
+    "updatedAt": "2025-04-22T21:03:50.522Z"
+  },
+  {
+    "name": "Bru Soft Drink 779",
+    "brand": "Bru",
+    "category": "Beauty",
+    "description": "Soft Drink by Bru in Beauty.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 188,
+      "instamart": 97,
+      "blinkit": 297,
+      "jiomart": 133
+    },
+    "updatedAt": "2025-05-10T11:22:04.253Z"
+  },
+  {
+    "name": "Puma Shoes 912",
+    "brand": "Puma",
+    "category": "Beauty",
+    "description": "Shoes by Puma in Beauty.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 25,
+      "instamart": 129,
+      "blinkit": 274,
+      "jiomart": 399
+    },
+    "updatedAt": "2025-02-07T22:57:41.703Z"
+  },
+  {
+    "name": "India Gate Book 82",
+    "brand": "India Gate",
+    "category": "Beauty",
+    "description": "Book by India Gate in Beauty.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 80,
+      "instamart": 321,
+      "blinkit": 158,
+      "jiomart": 73
+    },
+    "updatedAt": "2025-02-12T10:47:00.334Z"
+  },
+  {
+    "name": "Daawat Juice 129",
+    "brand": "Daawat",
+    "category": "Beauty",
+    "description": "Juice by Daawat in Beauty.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 265,
+      "instamart": 207,
+      "blinkit": 152,
+      "jiomart": 348
+    },
+    "updatedAt": "2025-05-23T19:52:03.867Z"
+  },
+  {
+    "name": "Kellogg's Eggs 267",
+    "brand": "Kellogg's",
+    "category": "Beauty",
+    "description": "Eggs by Kellogg's in Beauty.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 270,
+      "instamart": 278,
+      "blinkit": 204,
+      "jiomart": 252
+    },
+    "updatedAt": "2025-03-22T02:04:06.039Z"
+  },
+  {
+    "name": "Britannia Nuggets 941",
+    "brand": "Britannia",
+    "category": "Beauty",
+    "description": "Nuggets by Britannia in Beauty.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 146,
+      "instamart": 34,
+      "blinkit": 331,
+      "jiomart": 125
+    },
+    "updatedAt": "2025-02-12T03:45:58.872Z"
+  },
+  {
+    "name": "Minute Maid T-shirt 367",
+    "brand": "Minute Maid",
+    "category": "Beauty",
+    "description": "T-shirt by Minute Maid in Beauty.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 82,
+      "instamart": 204,
+      "blinkit": 181,
+      "jiomart": 267
+    },
+    "updatedAt": "2025-03-16T04:42:01.441Z"
+  },
+  {
+    "name": "Nike Oats 757",
+    "brand": "Nike",
+    "category": "Beauty",
+    "description": "Oats by Nike in Beauty.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 200,
+      "instamart": 258,
+      "blinkit": 400,
+      "jiomart": 103
+    },
+    "updatedAt": "2025-04-04T05:30:05.980Z"
+  },
+  {
+    "name": "Samsung Mobile 239",
+    "brand": "Samsung",
+    "category": "Beauty",
+    "description": "Mobile by Samsung in Beauty.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 253,
+      "instamart": 349,
+      "blinkit": 264,
+      "jiomart": 302
+    },
+    "updatedAt": "2025-02-09T18:45:36.089Z"
+  },
+  {
+    "name": "Sunfeast Upma Mix 781",
+    "brand": "Sunfeast",
+    "category": "Beauty",
+    "description": "Upma Mix by Sunfeast in Beauty.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 174,
+      "instamart": 352,
+      "blinkit": 332,
+      "jiomart": 21
+    },
+    "updatedAt": "2025-05-23T15:06:01.013Z"
+  },
+  {
+    "name": "Unibic Shoes 373",
+    "brand": "Unibic",
+    "category": "Beauty",
+    "description": "Shoes by Unibic in Beauty.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 219,
+      "instamart": 232,
+      "blinkit": 151,
+      "jiomart": 372
+    },
+    "updatedAt": "2025-02-21T09:07:17.270Z"
+  },
+  {
+    "name": "Tropicana French Fries 615",
+    "brand": "Tropicana",
+    "category": "Beauty",
+    "description": "French Fries by Tropicana in Beauty.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 203,
+      "instamart": 96,
+      "blinkit": 279,
+      "jiomart": 23
+    },
+    "updatedAt": "2025-05-04T06:07:28.283Z"
+  },
+  {
+    "name": "ITC Mobile 983",
+    "brand": "ITC",
+    "category": "Beauty",
+    "description": "Mobile by ITC in Beauty.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 349,
+      "instamart": 120,
+      "blinkit": 188,
+      "jiomart": 155
+    },
+    "updatedAt": "2025-02-20T13:29:12.670Z"
+  },
+  {
+    "name": "Nike Juice 454",
+    "brand": "Nike",
+    "category": "Beauty",
+    "description": "Juice by Nike in Beauty.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 221,
+      "instamart": 80,
+      "blinkit": 194,
+      "jiomart": 239
+    },
+    "updatedAt": "2025-03-14T19:45:33.332Z"
+  },
+  {
+    "name": "Daawat Butter 243",
+    "brand": "Daawat",
+    "category": "Beauty",
+    "description": "Butter by Daawat in Beauty.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 418,
+      "instamart": 386,
+      "blinkit": 54,
+      "jiomart": 86
+    },
+    "updatedAt": "2025-02-08T02:52:43.962Z"
+  },
+  {
+    "name": "Sunfeast Noodles 336",
+    "brand": "Sunfeast",
+    "category": "Beauty",
+    "description": "Noodles by Sunfeast in Beauty.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 342,
+      "instamart": 196,
+      "blinkit": 219,
+      "jiomart": 146
+    },
+    "updatedAt": "2025-04-19T23:14:12.885Z"
+  },
+  {
+    "name": "Quaker Tea 230",
+    "brand": "Quaker",
+    "category": "Toys",
+    "description": "Tea by Quaker in Toys.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 29,
+      "instamart": 202,
+      "blinkit": 214,
+      "jiomart": 208
+    },
+    "updatedAt": "2025-02-15T18:50:04.834Z"
+  },
+  {
+    "name": "Haldiram's Cheese 504",
+    "brand": "Haldiram's",
+    "category": "Toys",
+    "description": "Cheese by Haldiram's in Toys.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 127,
+      "instamart": 303,
+      "blinkit": 143,
+      "jiomart": 215
+    },
+    "updatedAt": "2025-02-04T13:49:25.390Z"
+  },
+  {
+    "name": "Britannia Green Peas 199",
+    "brand": "Britannia",
+    "category": "Toys",
+    "description": "Green Peas by Britannia in Toys.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 389,
+      "instamart": 291,
+      "blinkit": 34,
+      "jiomart": 40
+    },
+    "updatedAt": "2025-04-01T17:33:16.949Z"
+  },
+  {
+    "name": "Real Chips 410",
+    "brand": "Real",
+    "category": "Toys",
+    "description": "Chips by Real in Toys.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 348,
+      "instamart": 22,
+      "blinkit": 163,
+      "jiomart": 63
+    },
+    "updatedAt": "2025-04-30T05:42:48.138Z"
+  },
+  {
+    "name": "Fortune Tea 251",
+    "brand": "Fortune",
+    "category": "Toys",
+    "description": "Tea by Fortune in Toys.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 193,
+      "instamart": 81,
+      "blinkit": 98,
+      "jiomart": 399
+    },
+    "updatedAt": "2025-03-20T22:18:43.761Z"
+  },
+  {
+    "name": "Coca Cola Atta 756",
+    "brand": "Coca Cola",
+    "category": "Toys",
+    "description": "Atta by Coca Cola in Toys.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 172,
+      "instamart": 241,
+      "blinkit": 300,
+      "jiomart": 314
+    },
+    "updatedAt": "2025-02-23T23:40:56.548Z"
+  },
+  {
+    "name": "Cadbury Aloo Tikki 111",
+    "brand": "Cadbury",
+    "category": "Toys",
+    "description": "Aloo Tikki by Cadbury in Toys.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 261,
+      "instamart": 109,
+      "blinkit": 141,
+      "jiomart": 370
+    },
+    "updatedAt": "2025-03-01T22:26:52.279Z"
+  },
+  {
+    "name": "Adidas Face Cream 20",
+    "brand": "Adidas",
+    "category": "Toys",
+    "description": "Face Cream by Adidas in Toys.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 130,
+      "instamart": 244,
+      "blinkit": 186,
+      "jiomart": 282
+    },
+    "updatedAt": "2025-04-05T03:03:22.897Z"
+  },
+  {
+    "name": "Unibic Biscuits 923",
+    "brand": "Unibic",
+    "category": "Toys",
+    "description": "Biscuits by Unibic in Toys.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 135,
+      "instamart": 386,
+      "blinkit": 366,
+      "jiomart": 398
+    },
+    "updatedAt": "2025-02-28T21:26:24.849Z"
+  },
+  {
+    "name": "Pepsi Book 90",
+    "brand": "Pepsi",
+    "category": "Toys",
+    "description": "Book by Pepsi in Toys.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 183,
+      "instamart": 263,
+      "blinkit": 367,
+      "jiomart": 365
+    },
+    "updatedAt": "2025-03-18T14:34:07.707Z"
+  },
+  {
+    "name": "MTR French Fries 694",
+    "brand": "MTR",
+    "category": "Toys",
+    "description": "French Fries by MTR in Toys.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 347,
+      "instamart": 226,
+      "blinkit": 224,
+      "jiomart": 351
+    },
+    "updatedAt": "2025-04-13T12:22:49.787Z"
+  },
+  {
+    "name": "Samsung Shampoo 761",
+    "brand": "Samsung",
+    "category": "Toys",
+    "description": "Shampoo by Samsung in Toys.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 407,
+      "instamart": 65,
+      "blinkit": 121,
+      "jiomart": 345
+    },
+    "updatedAt": "2025-03-23T13:43:34.721Z"
+  },
+  {
+    "name": "Tata Sampann Rice 604",
+    "brand": "Tata Sampann",
+    "category": "Toys",
+    "description": "Rice by Tata Sampann in Toys.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 331,
+      "instamart": 414,
+      "blinkit": 60,
+      "jiomart": 335
+    },
+    "updatedAt": "2025-05-11T16:19:57.644Z"
+  },
+  {
+    "name": "Kurkure Green Peas 555",
+    "brand": "Kurkure",
+    "category": "Toys",
+    "description": "Green Peas by Kurkure in Toys.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 261,
+      "instamart": 55,
+      "blinkit": 175,
+      "jiomart": 224
+    },
+    "updatedAt": "2025-02-15T00:13:08.814Z"
+  },
+  {
+    "name": "Samsung Coffee 507",
+    "brand": "Samsung",
+    "category": "Toys",
+    "description": "Coffee by Samsung in Toys.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 230,
+      "instamart": 181,
+      "blinkit": 158,
+      "jiomart": 56
+    },
+    "updatedAt": "2025-05-25T16:34:33.415Z"
+  },
+  {
+    "name": "Samsung Health Drink 337",
+    "brand": "Samsung",
+    "category": "Toys",
+    "description": "Health Drink by Samsung in Toys.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 325,
+      "instamart": 99,
+      "blinkit": 309,
+      "jiomart": 43
+    },
+    "updatedAt": "2025-04-23T23:51:18.768Z"
+  },
+  {
+    "name": "Haldiram's French Fries 758",
+    "brand": "Haldiram's",
+    "category": "Toys",
+    "description": "French Fries by Haldiram's in Toys.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 122,
+      "instamart": 180,
+      "blinkit": 219,
+      "jiomart": 112
+    },
+    "updatedAt": "2025-04-26T17:56:04.448Z"
+  },
+  {
+    "name": "Saffola Shampoo 212",
+    "brand": "Saffola",
+    "category": "Toys",
+    "description": "Shampoo by Saffola in Toys.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 400,
+      "instamart": 383,
+      "blinkit": 273,
+      "jiomart": 369
+    },
+    "updatedAt": "2025-03-13T20:35:58.859Z"
+  },
+  {
+    "name": "Real Noodles 692",
+    "brand": "Real",
+    "category": "Toys",
+    "description": "Noodles by Real in Toys.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 225,
+      "instamart": 334,
+      "blinkit": 53,
+      "jiomart": 225
+    },
+    "updatedAt": "2025-04-03T07:39:38.894Z"
+  },
+  {
+    "name": "Sunfeast Shampoo 474",
+    "brand": "Sunfeast",
+    "category": "Toys",
+    "description": "Shampoo by Sunfeast in Toys.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 99,
+      "instamart": 259,
+      "blinkit": 399,
+      "jiomart": 147
+    },
+    "updatedAt": "2025-05-25T01:50:40.322Z"
+  },
+  {
+    "name": "OnePlus Oats 680",
+    "brand": "OnePlus",
+    "category": "Books",
+    "description": "Oats by OnePlus in Books.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 52,
+      "instamart": 381,
+      "blinkit": 215,
+      "jiomart": 367
+    },
+    "updatedAt": "2025-04-17T08:30:49.642Z"
+  },
+  {
+    "name": "Aashirvaad Chocolate 393",
+    "brand": "Aashirvaad",
+    "category": "Books",
+    "description": "Chocolate by Aashirvaad in Books.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 257,
+      "instamart": 381,
+      "blinkit": 419,
+      "jiomart": 135
+    },
+    "updatedAt": "2025-04-09T03:33:34.381Z"
+  },
+  {
+    "name": "Ferrero Upma Mix 665",
+    "brand": "Ferrero",
+    "category": "Books",
+    "description": "Upma Mix by Ferrero in Books.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 132,
+      "instamart": 86,
+      "blinkit": 316,
+      "jiomart": 363
+    },
+    "updatedAt": "2025-02-23T01:15:44.749Z"
+  },
+  {
+    "name": "Nestle Laptop 21",
+    "brand": "Nestle",
+    "category": "Books",
+    "description": "Laptop by Nestle in Books.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 365,
+      "instamart": 379,
+      "blinkit": 279,
+      "jiomart": 286
+    },
+    "updatedAt": "2025-05-19T17:41:39.848Z"
+  },
+  {
+    "name": "Tata Atta 770",
+    "brand": "Tata",
+    "category": "Books",
+    "description": "Atta by Tata in Books.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 100,
+      "instamart": 381,
+      "blinkit": 239,
+      "jiomart": 272
+    },
+    "updatedAt": "2025-02-09T10:23:52.184Z"
+  },
+  {
+    "name": "Amul French Fries 843",
+    "brand": "Amul",
+    "category": "Books",
+    "description": "French Fries by Amul in Books.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 377,
+      "instamart": 360,
+      "blinkit": 231,
+      "jiomart": 217
+    },
+    "updatedAt": "2025-04-30T10:00:23.730Z"
+  },
+  {
+    "name": "Maggi Milk 345",
+    "brand": "Maggi",
+    "category": "Books",
+    "description": "Milk by Maggi in Books.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 310,
+      "instamart": 336,
+      "blinkit": 246,
+      "jiomart": 121
+    },
+    "updatedAt": "2025-03-21T14:37:17.995Z"
+  },
+  {
+    "name": "Adidas Milk 84",
+    "brand": "Adidas",
+    "category": "Books",
+    "description": "Milk by Adidas in Books.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 282,
+      "instamart": 211,
+      "blinkit": 280,
+      "jiomart": 391
+    },
+    "updatedAt": "2025-03-27T18:20:38.403Z"
+  },
+  {
+    "name": "Cadbury Rice 485",
+    "brand": "Cadbury",
+    "category": "Books",
+    "description": "Rice by Cadbury in Books.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 23,
+      "instamart": 297,
+      "blinkit": 145,
+      "jiomart": 243
+    },
+    "updatedAt": "2025-04-01T03:23:13.079Z"
+  },
+  {
+    "name": "Bingo Soft Drink 887",
+    "brand": "Bingo",
+    "category": "Books",
+    "description": "Soft Drink by Bingo in Books.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 317,
+      "instamart": 159,
+      "blinkit": 71,
+      "jiomart": 265
+    },
+    "updatedAt": "2025-05-03T13:56:52.189Z"
+  },
+  {
+    "name": "Kellogg's Biscuits 294",
+    "brand": "Kellogg's",
+    "category": "Books",
+    "description": "Biscuits by Kellogg's in Books.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 335,
+      "instamart": 262,
+      "blinkit": 402,
+      "jiomart": 161
+    },
+    "updatedAt": "2025-04-03T08:44:00.196Z"
+  },
+  {
+    "name": "Real Cheese 391",
+    "brand": "Real",
+    "category": "Books",
+    "description": "Cheese by Real in Books.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 73,
+      "instamart": 331,
+      "blinkit": 103,
+      "jiomart": 352
+    },
+    "updatedAt": "2025-05-01T05:49:53.785Z"
+  },
+  {
+    "name": "ITC Dal 189",
+    "brand": "ITC",
+    "category": "Books",
+    "description": "Dal by ITC in Books.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 59,
+      "instamart": 290,
+      "blinkit": 304,
+      "jiomart": 166
+    },
+    "updatedAt": "2025-04-23T18:41:16.163Z"
+  },
+  {
+    "name": "Mi Chips 957",
+    "brand": "Mi",
+    "category": "Books",
+    "description": "Chips by Mi in Books.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 394,
+      "instamart": 248,
+      "blinkit": 316,
+      "jiomart": 126
+    },
+    "updatedAt": "2025-05-02T00:59:37.929Z"
+  },
+  {
+    "name": "Safal Milk 497",
+    "brand": "Safal",
+    "category": "Books",
+    "description": "Milk by Safal in Books.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 368,
+      "instamart": 212,
+      "blinkit": 63,
+      "jiomart": 220
+    },
+    "updatedAt": "2025-03-07T16:17:37.013Z"
+  },
+  {
+    "name": "Reebok Face Cream 838",
+    "brand": "Reebok",
+    "category": "Books",
+    "description": "Face Cream by Reebok in Books.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 311,
+      "instamart": 106,
+      "blinkit": 328,
+      "jiomart": 134
+    },
+    "updatedAt": "2025-02-21T04:20:31.827Z"
+  },
+  {
+    "name": "India Gate Green Peas 499",
+    "brand": "India Gate",
+    "category": "Books",
+    "description": "Green Peas by India Gate in Books.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 344,
+      "instamart": 69,
+      "blinkit": 344,
+      "jiomart": 342
+    },
+    "updatedAt": "2025-03-21T11:38:53.821Z"
+  },
+  {
+    "name": "Dell Coffee 362",
+    "brand": "Dell",
+    "category": "Books",
+    "description": "Coffee by Dell in Books.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 155,
+      "instamart": 178,
+      "blinkit": 138,
+      "jiomart": 165
+    },
+    "updatedAt": "2025-04-12T20:04:47.523Z"
+  },
+  {
+    "name": "Nike Noodles 623",
+    "brand": "Nike",
+    "category": "Books",
+    "description": "Noodles by Nike in Books.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 40,
+      "instamart": 222,
+      "blinkit": 221,
+      "jiomart": 274
+    },
+    "updatedAt": "2025-03-28T06:31:21.311Z"
+  },
+  {
+    "name": "Puma Face Cream 673",
+    "brand": "Puma",
+    "category": "Books",
+    "description": "Face Cream by Puma in Books.",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 342,
+      "instamart": 370,
+      "blinkit": 391,
+      "jiomart": 58
+    },
+    "updatedAt": "2025-05-10T07:21:48.220Z"
+  },
+  {
+    "name": "Godrej Aloo Tikki 676",
+    "brand": "Godrej",
+    "category": "Fitness",
+    "description": "Aloo Tikki by Godrej in Fitness.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 20,
+      "instamart": 273,
+      "blinkit": 102,
+      "jiomart": 331
+    },
+    "updatedAt": "2025-03-25T00:11:33.142Z"
+  },
+  {
+    "name": "Uncle Chipps Soft Drink 636",
+    "brand": "Uncle Chipps",
+    "category": "Fitness",
+    "description": "Soft Drink by Uncle Chipps in Fitness.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 211,
+      "instamart": 150,
+      "blinkit": 241,
+      "jiomart": 399
+    },
+    "updatedAt": "2025-04-01T10:54:50.096Z"
+  },
+  {
+    "name": "Kellogg's Coffee 562",
+    "brand": "Kellogg's",
+    "category": "Fitness",
+    "description": "Coffee by Kellogg's in Fitness.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 158,
+      "instamart": 383,
+      "blinkit": 241,
+      "jiomart": 259
+    },
+    "updatedAt": "2025-04-08T06:12:14.371Z"
+  },
+  {
+    "name": "Ferrero Toy 778",
+    "brand": "Ferrero",
+    "category": "Fitness",
+    "description": "Toy by Ferrero in Fitness.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 296,
+      "instamart": 92,
+      "blinkit": 184,
+      "jiomart": 151
+    },
+    "updatedAt": "2025-05-21T00:27:53.812Z"
+  },
+  {
+    "name": "Tropicana Rice 558",
+    "brand": "Tropicana",
+    "category": "Fitness",
+    "description": "Rice by Tropicana in Fitness.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 54,
+      "instamart": 128,
+      "blinkit": 174,
+      "jiomart": 323
+    },
+    "updatedAt": "2025-02-04T13:41:56.479Z"
+  },
+  {
+    "name": "Safal Soft Drink 742",
+    "brand": "Safal",
+    "category": "Fitness",
+    "description": "Soft Drink by Safal in Fitness.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 386,
+      "instamart": 320,
+      "blinkit": 63,
+      "jiomart": 128
+    },
+    "updatedAt": "2025-02-08T11:01:09.322Z"
+  },
+  {
+    "name": "Safal Health Drink 752",
+    "brand": "Safal",
+    "category": "Fitness",
+    "description": "Health Drink by Safal in Fitness.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 167,
+      "instamart": 280,
+      "blinkit": 336,
+      "jiomart": 415
+    },
+    "updatedAt": "2025-05-19T13:27:31.754Z"
+  },
+  {
+    "name": "Tata Butter 486",
+    "brand": "Tata",
+    "category": "Fitness",
+    "description": "Butter by Tata in Fitness.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 367,
+      "instamart": 380,
+      "blinkit": 244,
+      "jiomart": 286
+    },
+    "updatedAt": "2025-04-30T03:34:05.040Z"
+  },
+  {
+    "name": "Minute Maid Chicken Nuggets 24",
+    "brand": "Minute Maid",
+    "category": "Fitness",
+    "description": "Chicken Nuggets by Minute Maid in Fitness.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 67,
+      "instamart": 270,
+      "blinkit": 102,
+      "jiomart": 329
+    },
+    "updatedAt": "2025-03-10T15:07:13.541Z"
+  },
+  {
+    "name": "ITC Eggs 969",
+    "brand": "ITC",
+    "category": "Fitness",
+    "description": "Eggs by ITC in Fitness.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 298,
+      "instamart": 191,
+      "blinkit": 104,
+      "jiomart": 97
+    },
+    "updatedAt": "2025-05-22T18:35:53.489Z"
+  },
+  {
+    "name": "Britannia Eggs 701",
+    "brand": "Britannia",
+    "category": "Fitness",
+    "description": "Eggs by Britannia in Fitness.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 243,
+      "instamart": 283,
+      "blinkit": 287,
+      "jiomart": 385
+    },
+    "updatedAt": "2025-05-13T02:59:49.007Z"
+  },
+  {
+    "name": "Safal Noodles 328",
+    "brand": "Safal",
+    "category": "Fitness",
+    "description": "Noodles by Safal in Fitness.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 295,
+      "instamart": 406,
+      "blinkit": 43,
+      "jiomart": 241
+    },
+    "updatedAt": "2025-05-05T02:08:26.551Z"
+  },
+  {
+    "name": "Unibic Face Cream 293",
+    "brand": "Unibic",
+    "category": "Fitness",
+    "description": "Face Cream by Unibic in Fitness.",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 311,
+      "instamart": 339,
+      "blinkit": 65,
+      "jiomart": 360
+    },
+    "updatedAt": "2025-02-24T18:11:53.270Z"
+  },
+  {
+    "name": "ITC Bread 167",
+    "brand": "ITC",
+    "category": "Fitness",
+    "description": "Bread by ITC in Fitness.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 54,
+      "instamart": 235,
+      "blinkit": 266,
+      "jiomart": 219
+    },
+    "updatedAt": "2025-03-04T14:43:41.434Z"
+  },
+  {
+    "name": "Mi Book 541",
+    "brand": "Mi",
+    "category": "Fitness",
+    "description": "Book by Mi in Fitness.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 318,
+      "instamart": 291,
+      "blinkit": 305,
+      "jiomart": 199
+    },
+    "updatedAt": "2025-04-21T20:33:33.323Z"
+  },
+  {
+    "name": "Bingo Atta 578",
+    "brand": "Bingo",
+    "category": "Fitness",
+    "description": "Atta by Bingo in Fitness.",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 127,
+      "instamart": 76,
+      "blinkit": 258,
+      "jiomart": 291
+    },
+    "updatedAt": "2025-05-17T09:10:30.970Z"
+  },
+  {
+    "name": "Hershey's Biscuits 980",
+    "brand": "Hershey's",
+    "category": "Fitness",
+    "description": "Biscuits by Hershey's in Fitness.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 239,
+      "instamart": 135,
+      "blinkit": 149,
+      "jiomart": 138
+    },
+    "updatedAt": "2025-05-10T12:23:13.045Z"
+  },
+  {
+    "name": "Bingo Book 87",
+    "brand": "Bingo",
+    "category": "Fitness",
+    "description": "Book by Bingo in Fitness.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 366,
+      "instamart": 225,
+      "blinkit": 341,
+      "jiomart": 284
+    },
+    "updatedAt": "2025-04-06T15:23:10.556Z"
+  },
+  {
+    "name": "OnePlus Dal 155",
+    "brand": "OnePlus",
+    "category": "Fitness",
+    "description": "Dal by OnePlus in Fitness.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 40,
+      "instamart": 42,
+      "blinkit": 60,
+      "jiomart": 209
+    },
+    "updatedAt": "2025-05-28T11:29:07.595Z"
+  },
+  {
+    "name": "Haldiram's Laptop 424",
+    "brand": "Haldiram's",
+    "category": "Fitness",
+    "description": "Laptop by Haldiram's in Fitness.",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "prices": {
+      "zepto": 296,
+      "instamart": 150,
+      "blinkit": 26,
+      "jiomart": 48
+    },
+    "updatedAt": "2025-03-01T17:09:42.429Z"
+  }
+]
