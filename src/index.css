@@ -9,4 +9,45 @@ body {
   background: linear-gradient(to bottom right, #0f2ba8, #2983d4);
   color: white;
   min-height: 100vh;
+  font-size: 16px;
+}
+
+/* Add this to your public/index.html <head>:
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+*/
+
+html {
+  scroll-behavior: smooth;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+input, button, select, textarea {
+  font-family: inherit;
+  font-size: 1em;
+}
+
+@media (max-width: 900px) {
+  body {
+    font-size: 15px;
+  }
+  #root {
+    padding: 1rem;
+  }
+}
+
+@media (max-width: 600px) {
+  body {
+    font-size: 14px;
+  }
+  #root {
+    padding: 0.5rem;
+  }
+  .card {
+    padding: 1em;
+  }
 }

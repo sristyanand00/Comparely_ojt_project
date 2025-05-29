@@ -60,6 +60,8 @@ export default function ComparelyDashboard() {
   const [search, setSearch] = useState("");
   const [products, setProducts] = useState([]);
   const [overlayCategory, setOverlayCategory] = useState(null);
+  const [suggestions, setSuggestions] = useState([]);
+  const [showSuggestions, setShowSuggestions] = useState(false);
 
   useEffect(() => {
     fetch("/data/products.json")
@@ -70,11 +72,42 @@ export default function ComparelyDashboard() {
 
   const bestDeals = products.slice(0, 20);
 
+  // --- Autocomplete logic ---
+  useEffect(() => {
+    if (!search.trim()) {
+      setSuggestions([]);
+      return;
+    }
+    const searchLower = search.toLowerCase();
+    // Product name suggestions
+    const productNames = products
+      .map(p => p.name)
+      .filter(Boolean)
+      .filter((name, idx, arr) => arr.indexOf(name) === idx) // unique
+      .filter(name => name.toLowerCase().includes(searchLower));
+    // Category suggestions
+    const categoryNames = [
+      ...navCategories.map(c => c.name),
+      ...bigCategories.map(c => c.name)
+    ].filter((name, idx, arr) => arr.indexOf(name) === idx)
+     .filter(name => name.toLowerCase().includes(searchLower));
+    // Combine and limit
+    const combined = [...productNames, ...categoryNames].slice(0, 8);
+    setSuggestions(combined);
+  }, [search, products]);
+
   const handleSearch = (e) => {
     e.preventDefault();
     if (search.trim()) {
       navigate(`/products?query=${encodeURIComponent(search.trim())}`);
+      setShowSuggestions(false);
     }
+  };
+
+  const handleSuggestionClick = (suggestion) => {
+    setSearch(suggestion);
+    navigate(`/products?query=${encodeURIComponent(suggestion)}`);
+    setShowSuggestions(false);
   };
 
   // Smooth scroll to section by id
@@ -90,13 +123,55 @@ export default function ComparelyDashboard() {
       {/* NAV BAR */}
       <nav className="main-navbar">
         <div className="navbar-logo">Comparely</div>
-        <form className="navbar-search" onSubmit={handleSearch}>
+        <form className="navbar-search" onSubmit={handleSearch} autoComplete="off" style={{ position: 'relative' }}>
           <input
             type="text"
             placeholder="Search for products, brands, categories..."
             value={search}
-            onChange={e => setSearch(e.target.value)}
+            onChange={e => {
+              setSearch(e.target.value);
+              setShowSuggestions(true);
+            }}
+            onFocus={() => setShowSuggestions(true)}
+            onBlur={() => setTimeout(() => setShowSuggestions(false), 120)}
+            style={{ position: 'relative', zIndex: 11 }}
           />
+          {showSuggestions && suggestions.length > 0 && (
+            <ul className="autocomplete-dropdown" style={{
+              position: 'absolute',
+              top: '100%',
+              left: 0,
+              right: 0,
+              background: '#fff',
+              border: '1px solid #ddd',
+              borderTop: 'none',
+              zIndex: 12,
+              listStyle: 'none',
+              margin: 0,
+              padding: 0,
+              maxHeight: 220,
+              overflowY: 'auto',
+              boxShadow: '0 4px 16px rgba(0,0,0,0.08)'
+            }}>
+              {suggestions.map((s, idx) => (
+                <li
+                  key={s + idx}
+                  onMouseDown={() => handleSuggestionClick(s)}
+                  style={{
+                    padding: '10px 16px',
+                    cursor: 'pointer',
+                    borderBottom: '1px solid #f0f0f0',
+                    color: '#222',
+                    background: '#fff',
+                  }}
+                  onMouseOver={e => e.currentTarget.style.background = '#f5f5f5'}
+                  onMouseOut={e => e.currentTarget.style.background = '#fff'}
+                >
+                  {s}
+                </li>
+              ))}
+            </ul>
+          )}
         </form>
         <div className="navbar-actions">
           <span
@@ -268,33 +343,21 @@ export default function ComparelyDashboard() {
       )}
 
       {/* FOOTER */}
-      <footer className="dashboard-footer">
-        <div className="footer-links">
-          <div>
-            <b>Links</b>
-            <ul>
-              <li>About</li>
-              <li>Careers</li>
-              <li>Press</li>
-            </ul>
-          </div>
-          <div>
-            <b>Support</b>
-            <ul>
-              <li>Help Center</li>
-              <li>Terms</li>
-              <li>Privacy</li>
-            </ul>
-          </div>
-          <div>
-            <b>Download App</b>
-            <div className="app-buttons">
-              <button>Google Play</button>
-              <button>App Store</button>
+      <footer className="dashboard-footer" style={{background:'#f7fafd', color:'#222', padding:'2.2rem 1rem 1.2rem 1rem', marginTop:'2rem', borderTop:'1px solid #e0e0e0'}}>
+        <div className="footer-links" style={{justifyContent: 'center', gap: '2.5rem', display:'flex', flexDirection:'column', alignItems:'center'}}>
+          <div style={{textAlign:'center'}}>
+            <b style={{fontSize:'1.25rem', color:'#7b2ff2', letterSpacing:'-1px'}}>Comparely</b>
+            <div style={{marginTop:'0.7rem', color:'#444', fontSize:'1.01rem', maxWidth: 420, marginLeft:'auto', marginRight:'auto'}}>
+              Comparely helps you instantly compare grocery and essentials prices across top platforms like Zepto, Swiggy Instamart, Blinkit, BigBasket, and JioMart. Find the best deals, save money, and shop smarter—all in one place.
             </div>
+            <ul style={{listStyle:'none', padding:0, margin:'1rem 0 0 0', display:'flex', gap:'2.2rem', justifyContent:'center'}}>
+              <li><a href="/about" style={{color:'#222', textDecoration:'none', fontWeight:500, fontSize:'1.07rem'}}>About</a></li>
+              <li><a href="mailto:support@comparely.com" style={{color:'#222', textDecoration:'none', fontWeight:500, fontSize:'1.07rem'}}>Contact</a></li>
+              <li><a href="/privacy" style={{color:'#222', textDecoration:'none', fontWeight:500, fontSize:'1.07rem'}}>Privacy Policy</a></li>
+            </ul>
           </div>
         </div>
-        <div className="footer-bottom">
+        <div className="footer-bottom" style={{textAlign:'center', color:'#939393', fontSize:'0.97rem', marginTop:'1.3rem'}}>
           © 2024 Comparely. All rights reserved.
         </div>
       </footer>
