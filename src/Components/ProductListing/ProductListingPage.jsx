@@ -6,17 +6,26 @@ function useQuery() {
   return new URLSearchParams(useLocation().search);
 }
 
+function getCart() {
+  return JSON.parse(localStorage.getItem('cart') || '[]');
+}
+function setCart(cart) {
+  localStorage.setItem('cart', JSON.stringify(cart));
+}
+
 export default function ProductListingPage() {
   const query = useQuery().get('query')?.toLowerCase() || '';
   const [products, setProducts] = useState([]);
   const [sortOrder, setSortOrder] = useState('asc');
   const [brandFilter, setBrandFilter] = useState('All');
   const [loading, setLoading] = useState(true);
+  const [selectedProduct, setSelectedProduct] = useState(null);
+  const [addedMsg, setAddedMsg] = useState('');
 
-  // Fetch products from backend
+  // Fetch products from static products.json
   useEffect(() => {
     setLoading(true);
-    fetch(`http://localhost:5000/api/products`)
+    fetch('/data/products.json')
       .then(res => res.json())
       .then(data => {
         setProducts(Array.isArray(data) ? data : data.products);
@@ -45,8 +54,17 @@ export default function ProductListingPage() {
     return sortOrder === 'asc' ? aPrice - bPrice : bPrice - aPrice;
   });
 
+  // Add to cart handler
+  const handleAddToCart = (product, platform) => {
+    const cart = getCart();
+    cart.push({ ...product, platform });
+    setCart(cart);
+    setAddedMsg(`Added to cart from ${platform}!`);
+    setTimeout(() => setAddedMsg(''), 1500);
+  };
+
   return (
-    <div className="product-listing-container">
+    <div className="product-listing-container" style={{margin: '16px auto', maxWidth: 1200, width: '100%'}}>
       <h2>Comparely</h2>
       <div className="filters-bar">
         <span>Filters</span>
@@ -88,7 +106,7 @@ export default function ProductListingPage() {
           </thead>
           <tbody>
             {filteredProducts.map((prod, idx) => (
-              <tr key={prod._id || idx}>
+              <tr key={prod._id || idx} style={{ cursor: 'pointer' }} onClick={() => setSelectedProduct(prod)}>
                 <td>
                   <img src={prod.image} alt={prod.name || "Product"} width={40} />
                 </td>
@@ -105,6 +123,43 @@ export default function ProductListingPage() {
             ))}
           </tbody>
         </table>
+      )}
+      {/* Product Comparison Modal/Card */}
+      {selectedProduct && (
+        <div className="product-modal-overlay" style={{
+          position: 'fixed', top: 0, left: 0, width: '100vw', height: '100vh', background: 'rgba(30,30,30,0.7)', zIndex: 1000, display: 'flex', alignItems: 'center', justifyContent: 'center'
+        }}>
+          <div className="product-modal-card" style={{
+            background: '#fff', borderRadius: 16, maxWidth: 420, width: '90vw', padding: 32, position: 'relative', boxShadow: '0 8px 32px rgba(0,0,0,0.18)'
+          }}>
+            <button onClick={() => setSelectedProduct(null)} style={{ position: 'absolute', top: 16, right: 16, background: '#eee', border: 'none', borderRadius: '50%', width: 36, height: 36, fontSize: 22, cursor: 'pointer', color: '#333' }}>×</button>
+            <img src={selectedProduct.image} alt={selectedProduct.name} style={{ width: 120, height: 120, objectFit: 'contain', borderRadius: 12, background: '#f7fafd', display: 'block', margin: '0 auto 16px auto' }} />
+            <h3 style={{ textAlign: 'center', margin: 0 }}>{selectedProduct.name}</h3>
+            <div style={{ textAlign: 'center', color: '#555', fontSize: 14, marginBottom: 12 }}>{selectedProduct.description}</div>
+            <div style={{ margin: '16px 0' }}>
+              <b>Price Comparison:</b>
+              <ul style={{ margin: 0, padding: 0, listStyle: 'none', display: 'flex', gap: '16px', justifyContent: 'center', flexWrap: 'wrap' }}>
+                <li>
+                  Zepto: ₹{selectedProduct.prices?.zepto ?? "N/A"}
+                  <button style={{ marginLeft: 8 }} onClick={() => handleAddToCart(selectedProduct, 'Zepto')}>Add to Cart</button>
+                </li>
+                <li>
+                  Instamart: ₹{selectedProduct.prices?.instamart ?? "N/A"}
+                  <button style={{ marginLeft: 8 }} onClick={() => handleAddToCart(selectedProduct, 'Instamart')}>Add to Cart</button>
+                </li>
+                <li>
+                  Blinkit: ₹{selectedProduct.prices?.blinkit ?? "N/A"}
+                  <button style={{ marginLeft: 8 }} onClick={() => handleAddToCart(selectedProduct, 'Blinkit')}>Add to Cart</button>
+                </li>
+                <li>
+                  JioMart: ₹{selectedProduct.prices?.jiomart ?? "N/A"}
+                  <button style={{ marginLeft: 8 }} onClick={() => handleAddToCart(selectedProduct, 'JioMart')}>Add to Cart</button>
+                </li>
+              </ul>
+            </div>
+            {addedMsg && <div style={{ color: 'green', textAlign: 'center', marginTop: 12 }}>{addedMsg}</div>}
+          </div>
+        </div>
       )}
     </div>
   );

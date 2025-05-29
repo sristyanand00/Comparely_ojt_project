@@ -4,11 +4,15 @@
   background: linear-gradient(135deg, #4f8cff 0%, #6ad1ff 100%);
   border-radius: 10px;
   padding: 32px;
-  margin: 250px auto 1px auto;
+  margin: 8px auto 16px auto;
   
   max-width: 1200px;
   color: #222;
   box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+  width: 100vw;
+  max-width: none;
+  margin: 0;
+  padding-top: 32px;
 }
 
 h2 {
