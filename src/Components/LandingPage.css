@@ -1,6 +1,6 @@
 .landing-container {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  max-width: 1500px;
+  max-width: 1850px;
   margin: 0 auto;
   padding: 320px;
   color: #0f0101;
@@ -41,7 +41,7 @@
 }
 .heading {
   text-align: center;
-  margin-top: 2700px;
+  margin-top: 3300px;
 }
 .heading h1 {
   font-size: 36px;
@@ -94,9 +94,10 @@
 }
 .categories {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-  gap: 20px;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 32px;
   margin-top: 30px;
+  justify-items: center;
 }
 .best-deals-section {
   margin: 32px 0;
@@ -108,6 +109,10 @@
   overflow-x: auto;
 }
 .deal-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 300px;
   background: #fff;
   border-radius: 12px;
   box-shadow: 0 2px 8px #0001;
@@ -118,6 +123,26 @@
 }
 .deal-card:hover {
   box-shadow: 0 4px 16px #0002;
+}
+.deal-card img {
+  height: 120px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+.deal-card button {
+  margin-top: auto;
+  background: #673ab7;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  padding: 6px 22px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.deal-card button:hover {
+  background: #512da8;
 }
 /* Add for category sections */
 .category-section {
