@@ -3,22 +3,16 @@ import "./ComparelyDashboard.css";
 import { useNavigate } from "react-router-dom";
 
 import DairyBreadsEggs from '../assets/dairy,eggs,milk.jpeg';
+import ColdDrinksJuices from '../assets/Cold Drinks & Juices.jpg';
+import SnacksMunchies from '../assets/Snacks & Munchies.jpg';
+import BreakfastInstantFood from '../assets/Breakfast & Instant Food.jpg';
+import SweetTooth from '../assets/Sweet Tooth.jpg';
+import BakeryBiscuits from '../assets/Bakery & Biscuits.jpg';
+import TeaCoffeeHealthDrink from '../assets/Tea, Coffee & Health Drink.jpg';
+import AttaRiceDal from '../assets/Atta, Rice & Dal.jpg';
+import FruitsVegetables from '../assets/Fruits & Vegetables.jpg';
+import FrozenFoods from '../assets/Frozen Foods.jpg';
 // import FruitsVegetables from '../assets/fruits&vegetables.jpeg';
-
-const bigCategories = [
- // { name: "Frozen Foods", image: FrozenFoodImg },
-  { name: "Dairy, Bread & Eggs", image: DairyBreadsEggs },
-  // { name: "Fruits & Vegetables", image: FruitsVegetables },
-  { name: "Cold Drinks & Juices", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/4b2e2e1c-2e2e-4e2e-8e2e-4b2e2e1c2e2e.png" },
-  { name: "Snacks & Munchies", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/5b2e2e1c-2e2e-4e2e-8e2e-5b2e2e1c2e2e.png" },
-  { name: "Breakfast & Instant Food", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/6b2e2e1c-2e2e-4e2e-8e2e-6b2e2e1c2e2e.png" },
-  { name: "Sweet Tooth", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/7b2e2e1c-2e2e-4e2e-8e2e-7b2e2e1c2e2e.png" },
-  { name: "Bakery & Biscuits", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/8b2e2e1c-2e2e-4e2e-8e2e-8b2e2e1c2e2e.png" },
-  { name: "Tea, Coffee & Health Drink", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/9b2e2e1c-2e2e-4e2e-8e2e-9b2e2e1c2e2e.png" },
-  { name: "Atta, Rice & Dal", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/10b2e2e1c-2e2e-4e2e-8e2e-10b2e2e1c2e2e.png" },
-  { name: "Fruits & Vegetables", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/11b2e2e1c-2e2e-4e2e-8e2e-11b2e2e1c2e2e.png" },
-  { name: "Frozen Foods", image: "https://cdn.zeptonow.com/production///tr:w-300,ar-200-200,pr-true,f-webp,q-80/inventory/banner/12b2e2e1c-2e2e-4e2e-8e2e-12b2e2e1c2e2e.png" },
-];
 
 const navCategories = [
   { name: "Grocery", icon: "🥦" },
