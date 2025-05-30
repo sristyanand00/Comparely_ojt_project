@@ -11,7 +11,7 @@ body, html {
 }
 
 .dashboard-root {
-  min-height: 100vh;
+  min-height: 1vh;
 }
 
 /* NAV BAR */
@@ -114,7 +114,7 @@ body, html {
 /* BIG CATEGORY SECTION (IMAGE STYLE) */
 .big-category-section {
   max-width: 1200px;
-  margin: 700rem auto 1.4rem auto;
+  margin: 675rem auto 1.4rem auto;
 }
 
 .big-category-grid {

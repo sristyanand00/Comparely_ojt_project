@@ -68,6 +68,7 @@ export default function ComparelyDashboard() {
   const [overlayCategory, setOverlayCategory] = useState(null);
   const [suggestions, setSuggestions] = useState([]);
   const [showSuggestions, setShowSuggestions] = useState(false);
+  const [selectedProduct, setSelectedProduct] = useState(null);
 
   useEffect(() => {
     fetch("/data/products.json")
@@ -123,6 +124,14 @@ export default function ComparelyDashboard() {
       el.scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
   };
+
+  function handleAddToCart(product, platform) {
+    // Example: Save to localStorage or your cart state
+    const cart = JSON.parse(localStorage.getItem('cart') || '[]');
+    cart.push({ ...product, platform });
+    localStorage.setItem('cart', JSON.stringify(cart));
+    alert(`Added to cart from ${platform}!`);
+  }
 
   return (
     <div className="dashboard-root">
@@ -233,7 +242,11 @@ export default function ComparelyDashboard() {
         <div className="section-title">🔥 Best Deals</div>
         <div className="best-deals-row">
           {bestDeals.map((deal, idx) => (
-            <div className="mock-card best-deal-card" key={deal.id || idx}>
+            <div
+              className="mock-card best-deal-card"
+              key={deal.id || idx}
+              onClick={() => setSelectedProduct(deal)}
+            >
               <img src={deal.image} alt={deal.name} />
               <div className="mock-card-title">{deal.name}</div>
               <div className="mock-card-price">₹{deal.price}</div>
@@ -260,7 +273,7 @@ export default function ComparelyDashboard() {
                 </div>
               ) : (
                 filtered.slice(0, 10).map((prod, idx) => (
-                  <div className="mock-card" key={idx}>
+                  <div className="mock-card" key={idx} onClick={() => setSelectedProduct(prod)}>
                     <img src={prod.image} alt={prod.name} />
                     <div className="mock-card-title">{prod.name}</div>
                     <div className="mock-card-price">₹{prod.prices ? Math.min(...Object.values(prod.prices)) : prod.price}</div>
@@ -272,19 +285,6 @@ export default function ComparelyDashboard() {
           </section>
         );
       })}
-
-      {/* POPULAR SEARCHES */}
-      <section className="mock-section">
-        <div className="section-title">Popular Searches</div>
-        <div className="popular-searches">
-          {popularSearches.map((item, idx) => (
-            <div className="search-chip" key={idx}>
-              <img src={item.image} alt={item.name} />
-              <span>{item.name}</span>
-            </div>
-          ))}
-        </div>
-      </section>
 
       {/* CATEGORY OVERLAY MODAL */}
       {overlayCategory && (
@@ -343,6 +343,60 @@ export default function ComparelyDashboard() {
                   <button className="add-btn">Add</button>
                 </div>
               ))}
+            </div>
+          </div>
+        </div>
+      )}
+
+      {selectedProduct && (
+        <div className="product-overlay-modal" style={{
+          position: 'fixed',
+          top: 0, left: 0, width: '100vw', height: '100vh',
+          background: 'rgba(30,30,30,0.85)', zIndex: 2000,
+          display: 'flex', alignItems: 'center', justifyContent: 'center'
+        }}>
+          <div style={{
+            background: '#fff', borderRadius: 16, maxWidth: 420, width: '90vw',
+            padding: 32, position: 'relative', boxShadow: '0 8px 32px rgba(0,0,0,0.25)'
+          }}>
+            <button
+              onClick={() => setSelectedProduct(null)}
+              style={{
+                position: 'absolute', top: 16, right: 16, background: '#eee',
+                border: 'none', borderRadius: '50%', width: 36, height: 36,
+                fontSize: 22, cursor: 'pointer', color: '#333'
+              }}
+              aria-label="Close"
+            >×</button>
+            <img src={selectedProduct.image} alt={selectedProduct.name} style={{width: '100%', borderRadius: 12, marginBottom: 16}} />
+            <h2 style={{margin: '12px 0'}}>{selectedProduct.name}</h2>
+            <div>
+              <table style={{width: '100%', margin: '16px 0', borderCollapse: 'collapse'}}>
+                <thead>
+                  <tr>
+                    <th style={{textAlign: 'left', padding: '8px'}}>Platform</th>
+                    <th style={{textAlign: 'right', padding: '8px'}}>Price</th>
+                    <th></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {selectedProduct.prices && Object.entries(selectedProduct.prices).map(([platform, price]) => (
+                    <tr key={platform}>
+                      <td style={{padding: '8px', textTransform: 'capitalize'}}>{platform}</td>
+                      <td style={{padding: '8px', textAlign: 'right'}}>₹{price}</td>
+                      <td style={{padding: '8px', textAlign: 'right'}}>
+                        <button
+                          style={{
+                            background: '#673ab7', color: '#fff', border: 'none',
+                            borderRadius: 8, padding: '6px 16px', fontWeight: 600, cursor: 'pointer'
+                          }}
+                          onClick={() => handleAddToCart(selectedProduct, platform)}
+                        >Add to Cart</button>
+                      </td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
             </div>
           </div>
         </div>
