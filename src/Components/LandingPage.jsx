@@ -4,27 +4,27 @@ import { getAuth } from "firebase/auth";
 import CategoryCard from "./CategoryCard";
 import "./LandingPage.css";
 import FruitsVegetablesImg from '../assets/Fruits & Vegetables.jpg';
-import BakeryDairyImg from '../assets/Bakery & Biscuits.jpg';
-import PersonalCareImg from '../assets/Sweet Tooth.jpg'; // Placeholder, update if you have a better image
-import CleaningHouseholdImg from '../assets/Frozen Foods.jpg'; // Placeholder, update if you have a better image
+import BakeryBiscuitsImg from '../assets/Bakery & Biscuits.jpg';
+import SweetTooth from '../assets/Sweet Tooth.jpg';
+import  FrozenFoods from '../assets/Frozen Foods.jpg';
 import SnacksMunchiesImg from '../assets/Snacks & Munchies.jpg';
-import StationeryOfficeImg from '../assets/Tea, Coffee & Health Drink.jpg'; // Placeholder, update if you have a better image
-import GroceriesImg from '../assets/dairy,eggs,milk.jpeg'; // Placeholder, update if you have a better image
-import OrganicHealthFoodsImg from '../assets/Atta, Rice & Dal.jpg'; // Placeholder, update if you have a better image
+import TeaCoffeeImg from '../assets/Tea, Coffee & Health Drink.jpg';
+import DairyEggsMilkImg from '../assets/dairy,eggs,milk.jpeg';
+import AttaRiceDalImg from '../assets/Atta, Rice & Dal.jpg';
 import InstantReadyImg from '../assets/Breakfast & Instant Food.jpg';
-import HomeFurnishingImg from '../assets/Cold Drinks & Juices.jpg'; // Placeholder, update if you have a better image
+import ColdDrinksJuicesImg from '../assets/Cold Drinks & Juices.jpg';
 
 const categories = [
   { title: "Fruits & Vegetables", image: FruitsVegetablesImg },
-  { title: "Bakery & Dairy", image: BakeryDairyImg },
-  { title: "Personal Care", image: PersonalCareImg },
-  { title: "Cleaning & Household", image: CleaningHouseholdImg },
+  { title: "Bakery & Biscuits", image: BakeryBiscuitsImg },
+  { title: "Sweet Tooth", image: SweetTooth },
+  { title: "Frozen Foods", image: FrozenFoods },
   { title: "Snacks & Munchies", image: SnacksMunchiesImg },
-  { title: "Stationery & Office", image: StationeryOfficeImg },
-  { title: "Groceries", image: GroceriesImg },
-  { title: "Organic & Health Foods", image: OrganicHealthFoodsImg },
-  { title: "Instant & Ready-to-Eat", image: InstantReadyImg },
-  { title: "Home Furnishing", image: HomeFurnishingImg },
+  { title: "Tea, Coffee & Health Drink", image: TeaCoffeeImg },
+  { title: "Dairy, Eggs & Milk", image: DairyEggsMilkImg },
+  { title: "Atta, Rice & Dal", image: AttaRiceDalImg },
+  { title: "Breakfast & Instant Food", image: InstantReadyImg },
+  { title: "Cold Drinks & Juices", image: ColdDrinksJuicesImg },
 ];
 
 const navCategories = [
