@@ -13,6 +13,18 @@ import AttaRiceDal from '../assets/Atta, Rice & Dal.jpg';
 import FruitsVegetables from '../assets/Fruits & Vegetables.jpg';
 import FrozenFoods from '../assets/Frozen Foods.jpg';
 // import FruitsVegetables from '../assets/fruits&vegetables.jpeg';
+const bigCategories = [
+  { name: "Dairy, Eggs, Milk", image: DairyBreadsEggs },
+  { name: "Cold Drinks & Juices", image: ColdDrinksJuices },
+  { name: "Snacks & Munchies", image: SnacksMunchies },
+  { name: "Breakfast & Instant Food", image: BreakfastInstantFood },
+  { name: "Sweet Tooth", image: SweetTooth },
+  { name: "Bakery & Biscuits", image: BakeryBiscuits },
+  { name: "Tea, Coffee & Health Drink", image: TeaCoffeeHealthDrink },
+  { name: "Atta, Rice & Dal", image: AttaRiceDal },
+  { name: "Fruits & Vegetables", image: FruitsVegetables },
+  { name: "Frozen Foods", image: FrozenFoods }
+];
 
 const navCategories = [
   { name: "Grocery", icon: "🥦" },
