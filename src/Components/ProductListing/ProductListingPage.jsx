@@ -25,7 +25,7 @@ export default function ProductListingPage() {
   // Fetch products from static products.json
   useEffect(() => {
     setLoading(true);
-    fetch('/data/products.json')
+    fetch('http://localhost:5000/api/products')
       .then(res => res.json())
       .then(data => {
         setProducts(Array.isArray(data) ? data : data.products);
@@ -115,10 +115,10 @@ export default function ProductListingPage() {
                   <div style={{ fontSize: 12 }}>{prod.description || ""}</div>
                 </td>
                 <td>{prod.brand || "N/A"}</td>
-                <td>₹ {prod.prices?.zepto ?? "N/A"}</td>
-                <td>₹ {prod.prices?.instamart ?? "N/A"}</td>
-                <td>₹ {prod.prices?.blinkit ?? "N/A"}</td>
-                <td>₹ {prod.prices?.jiomart ?? "N/A"}</td>
+                <td>₹ {prod.prices?.zepto ?? prod.price ?? "N/A"}</td>
+                <td>₹ {prod.prices?.instamart ?? prod.price ?? "N/A"}</td>
+                <td>₹ {prod.prices?.blinkit ?? prod.price ?? "N/A"}</td>
+                <td>₹ {prod.prices?.jiomart ?? prod.price ?? "N/A"}</td>
               </tr>
             ))}
           </tbody>

@@ -139858,5 +139858,705 @@
       "jiomart": 159
     },
     "updatedAt": "2025-05-29T10:04:56.937Z"
+  },
+  {
+    "name": "Amul Taaza Milk 1L",
+    "brand": "Amul",
+    "category": "Dairy, Eggs, Milk",
+    "description": "Amul Taaza Milk 1L by Amul",
+    "image": "https://example.com/images/amul-taaza-milk-1l.png",
+    "prices": {
+      "zepto": 66,
+      "instamart": 57,
+      "blinkit": 250,
+      "jiomart": 179
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Nestle Everyday Dairy Whitener",
+    "brand": "Nestle",
+    "category": "Dairy, Eggs, Milk",
+    "description": "Nestle Everyday Dairy Whitener by Nestle",
+    "image": "https://example.com/images/nestle-everyday-dairy-whitener.png",
+    "prices": {
+      "zepto": 200,
+      "instamart": 182,
+      "blinkit": 80,
+      "jiomart": 234
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Nandini Curd 500g",
+    "brand": "Nandini",
+    "category": "Dairy, Eggs, Milk",
+    "description": "Nandini Curd 500g by Nandini",
+    "image": "https://example.com/images/nandini-curd-500g.png",
+    "prices": {
+      "zepto": 215,
+      "instamart": 103,
+      "blinkit": 145,
+      "jiomart": 212
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Keggs Eggs - Pack of 6",
+    "brand": "Keggs",
+    "category": "Dairy, Eggs, Milk",
+    "description": "Keggs Eggs - Pack of 6 by Keggs",
+    "image": "https://example.com/images/keggs-eggs---pack-of-6.png",
+    "prices": {
+      "zepto": 148,
+      "instamart": 180,
+      "blinkit": 132,
+      "jiomart": 92
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Mother Dairy Toned Milk",
+    "brand": "Mother Dairy",
+    "category": "Dairy, Eggs, Milk",
+    "description": "Mother Dairy Toned Milk by Mother Dairy",
+    "image": "https://example.com/images/mother-dairy-toned-milk.png",
+    "prices": {
+      "zepto": 205,
+      "instamart": 132,
+      "blinkit": 83,
+      "jiomart": 249
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Coca-Cola 750ml",
+    "brand": "Coca-Cola",
+    "category": "Cold Drinks & Juices",
+    "description": "Coca-Cola 750ml by Coca-Cola",
+    "image": "https://example.com/images/coca-cola-750ml.png",
+    "prices": {
+      "zepto": 218,
+      "instamart": 196,
+      "blinkit": 136,
+      "jiomart": 65
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Tropicana Orange Juice 1L",
+    "brand": "Tropicana",
+    "category": "Cold Drinks & Juices",
+    "description": "Tropicana Orange Juice 1L by Tropicana",
+    "image": "https://example.com/images/tropicana-orange-juice-1l.png",
+    "prices": {
+      "zepto": 229,
+      "instamart": 213,
+      "blinkit": 125,
+      "jiomart": 237
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Real Mixed Fruit Juice 1L",
+    "brand": "Real",
+    "category": "Cold Drinks & Juices",
+    "description": "Real Mixed Fruit Juice 1L by Real",
+    "image": "https://example.com/images/real-mixed-fruit-juice-1l.png",
+    "prices": {
+      "zepto": 73,
+      "instamart": 247,
+      "blinkit": 64,
+      "jiomart": 106
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Sprite 750ml PET",
+    "brand": "Sprite",
+    "category": "Cold Drinks & Juices",
+    "description": "Sprite 750ml PET by Sprite",
+    "image": "https://example.com/images/sprite-750ml-pet.png",
+    "prices": {
+      "zepto": 84,
+      "instamart": 234,
+      "blinkit": 105,
+      "jiomart": 250
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Paper Boat Aam Panna",
+    "brand": "Paper Boat",
+    "category": "Cold Drinks & Juices",
+    "description": "Paper Boat Aam Panna by Paper Boat",
+    "image": "https://example.com/images/paper-boat-aam-panna.png",
+    "prices": {
+      "zepto": 146,
+      "instamart": 84,
+      "blinkit": 100,
+      "jiomart": 52
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Lays Classic Salted 52g",
+    "brand": "Lays",
+    "category": "Snacks & Munchies",
+    "description": "Lays Classic Salted 52g by Lays",
+    "image": "https://example.com/images/lays-classic-salted-52g.png",
+    "prices": {
+      "zepto": 103,
+      "instamart": 172,
+      "blinkit": 155,
+      "jiomart": 56
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Kurkure Masala Munch 90g",
+    "brand": "Kurkure",
+    "category": "Snacks & Munchies",
+    "description": "Kurkure Masala Munch 90g by Kurkure",
+    "image": "https://example.com/images/kurkure-masala-munch-90g.png",
+    "prices": {
+      "zepto": 217,
+      "instamart": 224,
+      "blinkit": 238,
+      "jiomart": 58
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Haldiram\u2019s Aloo Bhujia 200g",
+    "brand": "Haldiram\u2019s",
+    "category": "Snacks & Munchies",
+    "description": "Haldiram\u2019s Aloo Bhujia 200g by Haldiram\u2019s",
+    "image": "https://example.com/images/haldirams-aloo-bhujia-200g.png",
+    "prices": {
+      "zepto": 130,
+      "instamart": 69,
+      "blinkit": 148,
+      "jiomart": 203
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Bingo Mad Angles 80g",
+    "brand": "Bingo",
+    "category": "Snacks & Munchies",
+    "description": "Bingo Mad Angles 80g by Bingo",
+    "image": "https://example.com/images/bingo-mad-angles-80g.png",
+    "prices": {
+      "zepto": 239,
+      "instamart": 135,
+      "blinkit": 121,
+      "jiomart": 127
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Pringles Original 110g",
+    "brand": "Pringles",
+    "category": "Snacks & Munchies",
+    "description": "Pringles Original 110g by Pringles",
+    "image": "https://example.com/images/pringles-original-110g.png",
+    "prices": {
+      "zepto": 206,
+      "instamart": 117,
+      "blinkit": 243,
+      "jiomart": 86
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Kellogg\u2019s Corn Flakes 475g",
+    "brand": "Kellogg\u2019s",
+    "category": "Breakfast & Instant Food",
+    "description": "Kellogg\u2019s Corn Flakes 475g by Kellogg\u2019s",
+    "image": "https://example.com/images/kelloggs-corn-flakes-475g.png",
+    "prices": {
+      "zepto": 208,
+      "instamart": 66,
+      "blinkit": 119,
+      "jiomart": 71
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Quaker Oats 1kg",
+    "brand": "Quaker",
+    "category": "Breakfast & Instant Food",
+    "description": "Quaker Oats 1kg by Quaker",
+    "image": "https://example.com/images/quaker-oats-1kg.png",
+    "prices": {
+      "zepto": 242,
+      "instamart": 167,
+      "blinkit": 192,
+      "jiomart": 117
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Maggi 2-Minute Noodles (12 Pack)",
+    "brand": "Maggi",
+    "category": "Breakfast & Instant Food",
+    "description": "Maggi 2-Minute Noodles (12 Pack) by Maggi",
+    "image": "https://example.com/images/maggi-2-minute-noodles-12-pack.png",
+    "prices": {
+      "zepto": 190,
+      "instamart": 75,
+      "blinkit": 233,
+      "jiomart": 100
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "MTR Upma Mix 500g",
+    "brand": "MTR",
+    "category": "Breakfast & Instant Food",
+    "description": "MTR Upma Mix 500g by MTR",
+    "image": "https://example.com/images/mtr-upma-mix-500g.png",
+    "prices": {
+      "zepto": 196,
+      "instamart": 188,
+      "blinkit": 201,
+      "jiomart": 216
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Sunfeast Yippee Noodles Pack",
+    "brand": "Sunfeast",
+    "category": "Breakfast & Instant Food",
+    "description": "Sunfeast Yippee Noodles Pack by Sunfeast",
+    "image": "https://example.com/images/sunfeast-yippee-noodles-pack.png",
+    "prices": {
+      "zepto": 216,
+      "instamart": 167,
+      "blinkit": 175,
+      "jiomart": 223
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Cadbury Dairy Milk 150g",
+    "brand": "Cadbury",
+    "category": "Sweet Tooth",
+    "description": "Cadbury Dairy Milk 150g by Cadbury",
+    "image": "https://example.com/images/cadbury-dairy-milk-150g.png",
+    "prices": {
+      "zepto": 133,
+      "instamart": 143,
+      "blinkit": 117,
+      "jiomart": 155
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Ferrero Rocher Pack of 4",
+    "brand": "Ferrero",
+    "category": "Sweet Tooth",
+    "description": "Ferrero Rocher Pack of 4 by Ferrero",
+    "image": "https://example.com/images/ferrero-rocher-pack-of-4.png",
+    "prices": {
+      "zepto": 92,
+      "instamart": 165,
+      "blinkit": 219,
+      "jiomart": 183
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Amul Dark Chocolate 150g",
+    "brand": "Amul",
+    "category": "Sweet Tooth",
+    "description": "Amul Dark Chocolate 150g by Amul",
+    "image": "https://example.com/images/amul-dark-chocolate-150g.png",
+    "prices": {
+      "zepto": 163,
+      "instamart": 167,
+      "blinkit": 224,
+      "jiomart": 114
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Perk Chocolate Bar",
+    "brand": "Cadbury",
+    "category": "Sweet Tooth",
+    "description": "Perk Chocolate Bar by Cadbury",
+    "image": "https://example.com/images/perk-chocolate-bar.png",
+    "prices": {
+      "zepto": 164,
+      "instamart": 128,
+      "blinkit": 67,
+      "jiomart": 145
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Nestle KitKat Share Pack",
+    "brand": "Nestle",
+    "category": "Sweet Tooth",
+    "description": "Nestle KitKat Share Pack by Nestle",
+    "image": "https://example.com/images/nestle-kitkat-share-pack.png",
+    "prices": {
+      "zepto": 215,
+      "instamart": 212,
+      "blinkit": 51,
+      "jiomart": 196
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Britannia Good Day Cashew 200g",
+    "brand": "Britannia",
+    "category": "Bakery & Biscuits",
+    "description": "Britannia Good Day Cashew 200g by Britannia",
+    "image": "https://example.com/images/britannia-good-day-cashew-200g.png",
+    "prices": {
+      "zepto": 215,
+      "instamart": 166,
+      "blinkit": 198,
+      "jiomart": 243
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Parle-G Original Biscuits Family Pack",
+    "brand": "Parle",
+    "category": "Bakery & Biscuits",
+    "description": "Parle-G Original Biscuits Family Pack by Parle",
+    "image": "https://example.com/images/parle-g-original-biscuits-family-pack.png",
+    "prices": {
+      "zepto": 134,
+      "instamart": 96,
+      "blinkit": 238,
+      "jiomart": 138
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Sunfeast Marie Light",
+    "brand": "Sunfeast",
+    "category": "Bakery & Biscuits",
+    "description": "Sunfeast Marie Light by Sunfeast",
+    "image": "https://example.com/images/sunfeast-marie-light.png",
+    "prices": {
+      "zepto": 224,
+      "instamart": 211,
+      "blinkit": 219,
+      "jiomart": 189
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Little Debbie Swiss Roll",
+    "brand": "Little Debbie",
+    "category": "Bakery & Biscuits",
+    "description": "Little Debbie Swiss Roll by Little Debbie",
+    "image": "https://example.com/images/little-debbie-swiss-roll.png",
+    "prices": {
+      "zepto": 75,
+      "instamart": 151,
+      "blinkit": 202,
+      "jiomart": 53
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Harvest Gold Brown Bread",
+    "brand": "Harvest Gold",
+    "category": "Bakery & Biscuits",
+    "description": "Harvest Gold Brown Bread by Harvest Gold",
+    "image": "https://example.com/images/harvest-gold-brown-bread.png",
+    "prices": {
+      "zepto": 217,
+      "instamart": 209,
+      "blinkit": 74,
+      "jiomart": 153
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Tata Tea Premium 1kg",
+    "brand": "Tata",
+    "category": "Tea, Coffee & Health Drink",
+    "description": "Tata Tea Premium 1kg by Tata",
+    "image": "https://example.com/images/tata-tea-premium-1kg.png",
+    "prices": {
+      "zepto": 104,
+      "instamart": 131,
+      "blinkit": 115,
+      "jiomart": 53
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Nescafe Classic Instant Coffee 200g",
+    "brand": "Nescafe",
+    "category": "Tea, Coffee & Health Drink",
+    "description": "Nescafe Classic Instant Coffee 200g by Nescafe",
+    "image": "https://example.com/images/nescafe-classic-instant-coffee-200g.png",
+    "prices": {
+      "zepto": 156,
+      "instamart": 118,
+      "blinkit": 164,
+      "jiomart": 223
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Horlicks Health Drink 500g",
+    "brand": "Horlicks",
+    "category": "Tea, Coffee & Health Drink",
+    "description": "Horlicks Health Drink 500g by Horlicks",
+    "image": "https://example.com/images/horlicks-health-drink-500g.png",
+    "prices": {
+      "zepto": 108,
+      "instamart": 230,
+      "blinkit": 56,
+      "jiomart": 235
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Bru Gold Instant Coffee",
+    "brand": "Bru",
+    "category": "Tea, Coffee & Health Drink",
+    "description": "Bru Gold Instant Coffee by Bru",
+    "image": "https://example.com/images/bru-gold-instant-coffee.png",
+    "prices": {
+      "zepto": 140,
+      "instamart": 169,
+      "blinkit": 173,
+      "jiomart": 159
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Red Label Natural Care Tea",
+    "brand": "Red Label",
+    "category": "Tea, Coffee & Health Drink",
+    "description": "Red Label Natural Care Tea by Red Label",
+    "image": "https://example.com/images/red-label-natural-care-tea.png",
+    "prices": {
+      "zepto": 67,
+      "instamart": 62,
+      "blinkit": 173,
+      "jiomart": 161
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Aashirvaad Atta 5kg",
+    "brand": "Aashirvaad",
+    "category": "Atta, Rice & Dal",
+    "description": "Aashirvaad Atta 5kg by Aashirvaad",
+    "image": "https://example.com/images/aashirvaad-atta-5kg.png",
+    "prices": {
+      "zepto": 212,
+      "instamart": 93,
+      "blinkit": 237,
+      "jiomart": 90
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Daawat Basmati Rice 1kg",
+    "brand": "Daawat",
+    "category": "Atta, Rice & Dal",
+    "description": "Daawat Basmati Rice 1kg by Daawat",
+    "image": "https://example.com/images/daawat-basmati-rice-1kg.png",
+    "prices": {
+      "zepto": 78,
+      "instamart": 74,
+      "blinkit": 241,
+      "jiomart": 218
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Fortune Sona Masoori Rice 5kg",
+    "brand": "Fortune",
+    "category": "Atta, Rice & Dal",
+    "description": "Fortune Sona Masoori Rice 5kg by Fortune",
+    "image": "https://example.com/images/fortune-sona-masoori-rice-5kg.png",
+    "prices": {
+      "zepto": 60,
+      "instamart": 50,
+      "blinkit": 143,
+      "jiomart": 97
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Tata Toor Dal 1kg",
+    "brand": "Tata",
+    "category": "Atta, Rice & Dal",
+    "description": "Tata Toor Dal 1kg by Tata",
+    "image": "https://example.com/images/tata-toor-dal-1kg.png",
+    "prices": {
+      "zepto": 200,
+      "instamart": 171,
+      "blinkit": 170,
+      "jiomart": 176
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "India Gate Classic Basmati",
+    "brand": "India Gate",
+    "category": "Atta, Rice & Dal",
+    "description": "India Gate Classic Basmati by India Gate",
+    "image": "https://example.com/images/india-gate-classic-basmati.png",
+    "prices": {
+      "zepto": 149,
+      "instamart": 108,
+      "blinkit": 197,
+      "jiomart": 174
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Fresh Bananas (Robusta) 1 Dozen",
+    "brand": "Farm Fresh",
+    "category": "Fruits & Vegetables",
+    "description": "Fresh Bananas (Robusta) 1 Dozen by Farm Fresh",
+    "image": "https://example.com/images/fresh-bananas-robusta-1-dozen.png",
+    "prices": {
+      "zepto": 85,
+      "instamart": 236,
+      "blinkit": 186,
+      "jiomart": 231
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Farm Fresh Tomatoes 1kg",
+    "brand": "Farm Fresh",
+    "category": "Fruits & Vegetables",
+    "description": "Farm Fresh Tomatoes 1kg by Farm Fresh",
+    "image": "https://example.com/images/farm-fresh-tomatoes-1kg.png",
+    "prices": {
+      "zepto": 224,
+      "instamart": 205,
+      "blinkit": 137,
+      "jiomart": 210
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Onions (Red) 1kg",
+    "brand": "Farm Fresh",
+    "category": "Fruits & Vegetables",
+    "description": "Onions (Red) 1kg by Farm Fresh",
+    "image": "https://example.com/images/onions-red-1kg.png",
+    "prices": {
+      "zepto": 200,
+      "instamart": 53,
+      "blinkit": 198,
+      "jiomart": 110
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Washington Apples (4 pieces)",
+    "brand": "Washington",
+    "category": "Fruits & Vegetables",
+    "description": "Washington Apples (4 pieces) by Washington",
+    "image": "https://example.com/images/washington-apples-4-pieces.png",
+    "prices": {
+      "zepto": 148,
+      "instamart": 118,
+      "blinkit": 230,
+      "jiomart": 198
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Green Capsicum 500g",
+    "brand": "Farm Fresh",
+    "category": "Fruits & Vegetables",
+    "description": "Green Capsicum 500g by Farm Fresh",
+    "image": "https://example.com/images/green-capsicum-500g.png",
+    "prices": {
+      "zepto": 186,
+      "instamart": 116,
+      "blinkit": 215,
+      "jiomart": 95
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "ITC Veg Biryani 300g",
+    "brand": "ITC",
+    "category": "Frozen Foods",
+    "description": "ITC Veg Biryani 300g by ITC",
+    "image": "https://example.com/images/itc-veg-biryani-300g.png",
+    "prices": {
+      "zepto": 185,
+      "instamart": 216,
+      "blinkit": 180,
+      "jiomart": 116
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "McCain Smiles 400g",
+    "brand": "McCain",
+    "category": "Frozen Foods",
+    "description": "McCain Smiles 400g by McCain",
+    "image": "https://example.com/images/mccain-smiles-400g.png",
+    "prices": {
+      "zepto": 76,
+      "instamart": 125,
+      "blinkit": 238,
+      "jiomart": 233
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Sumeru Frozen Paratha 400g",
+    "brand": "Sumeru",
+    "category": "Frozen Foods",
+    "description": "Sumeru Frozen Paratha 400g by Sumeru",
+    "image": "https://example.com/images/sumeru-frozen-paratha-400g.png",
+    "prices": {
+      "zepto": 203,
+      "instamart": 210,
+      "blinkit": 190,
+      "jiomart": 68
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Nestle Frozen Pasta",
+    "brand": "Nestle",
+    "category": "Frozen Foods",
+    "description": "Nestle Frozen Pasta by Nestle",
+    "image": "https://example.com/images/nestle-frozen-pasta.png",
+    "prices": {
+      "zepto": 77,
+      "instamart": 135,
+      "blinkit": 193,
+      "jiomart": 153
+    },
+    "updatedAt": "2025-05-30T12:00:00"
+  },
+  {
+    "name": "Haldiram\u2019s Frozen Samosa",
+    "brand": "Haldiram\u2019s",
+    "category": "Frozen Foods",
+    "description": "Haldiram\u2019s Frozen Samosa by Haldiram\u2019s",
+    "image": "https://example.com/images/haldirams-frozen-samosa.png",
+    "prices": {
+      "zepto": 215,
+      "instamart": 163,
+      "blinkit": 129,
+      "jiomart": 142
+    },
+    "updatedAt": "2025-05-30T12:00:00"
   }
 ]

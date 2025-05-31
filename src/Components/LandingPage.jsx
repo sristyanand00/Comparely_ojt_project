@@ -38,7 +38,7 @@ export default function LandingPage() {
   const auth = getAuth();
 
   useEffect(() => {
-    fetch("/data/products.json")
+    fetch("http://localhost:5000/api/products")
       .then(res => res.json())
       .then(data => setProducts(data))
       .catch(err => console.error("Failed to load products:", err));
