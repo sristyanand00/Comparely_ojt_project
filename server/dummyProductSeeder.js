@@ -3,7 +3,7 @@ import Product from "./models/Product.js";  // Note the .js extension in import 
 import fs from "fs";
 
 // Connect to MongoDB
-mongoose.connect("mongodb://localhost:27017/comparely1", {
+mongoose.connect(process.env.MONGO_URI, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });

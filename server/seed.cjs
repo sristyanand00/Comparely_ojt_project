@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Connect to MongoDB
-mongoose.connect('mongodb://localhost:27017/comparely1', {
+mongoose.connect(process.env.MONGO_URI, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 }).then(() => {

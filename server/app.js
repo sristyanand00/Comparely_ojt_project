@@ -33,7 +33,7 @@ app.use((err, req, res, next) => {
 app.use(cors());
 
 // Database connection
-mongoose.connect(process.env.MONGO_URI || "mongodb://localhost:27017/comparely1", {
+mongoose.connect(process.env.MONGO_URI , {
   useNewUrlParser: true,
   useUnifiedTopology: true,
   serverSelectionTimeoutMS: 5000

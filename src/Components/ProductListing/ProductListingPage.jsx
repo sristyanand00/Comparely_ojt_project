@@ -25,7 +25,8 @@ export default function ProductListingPage() {
   // Fetch products from static products.json
   useEffect(() => {
     setLoading(true);
-    fetch('http://localhost:5000/api/products')
+    const apiUrl = import.meta.env.VITE_API_URL;
+    fetch(`${apiUrl}/api/products`)
       .then(res => res.json())
       .then(data => {
         setProducts(Array.isArray(data) ? data : data.products);
